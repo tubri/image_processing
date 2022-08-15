@@ -1,0 +1,1054 @@
+﻿NAME,LineageID,AUTHOR_DATE,COMMONNAME,INDEXNAME,CLASS_NM,ORD_Parent,ORD_NM,SO_Parent,SO_NM,FAM_Parent,FAM_NM,SF_Parent,SF_NM,Parent_id_fomula,Parent_id,Rank_id,Rank_name,REMARKS,ClassNum,OrderNum,SuborderNum,FamilyNum,SubfamilyNum,TimeStamp
+Myxininae,405,Rafinesque 1815,hagfishes,NULL,Myxini,636,Myxiniformes,525,NULL,NULL,Myxinidae,563,Myxininae,563,563,51,Subfamily,NULL,1,1,NULL,1,3,16:21.0
+Eptatretinae,406,Bonaparte 1850,multi-gill hagfishes,NULL,Myxini,636,Myxiniformes,525,NULL,NULL,Myxinidae,563,Eptatretinae,563,563,51,Subfamily,NULL,1,1,NULL,1,2,22:16.0
+Myxinidae,563,Rafinesque 1815,hagfishes,hagfishes,Myxini,636,Myxiniformes,525,NULL,NULL,Myxinidae,NULL,NULL,525,525,50,Family,NULL,1,1,NULL,1,NULL,11:42.0
+Rubicundinae,1139,"Fernholm, NorÃ©n, Kullander, Quattrini et al. 2013",reddish hagfishes,NULL,Myxini,636,Myxiniformes,525,NULL,NULL,Myxinidae,563,Rubicundinae,563,563,51,Subfamily,[ref. 32793],1,1,NULL,1,1,20:31.0
+Percalates-clade,1318,NULL,Australian basses,NULL,Actinopteri,699,Centrarchiformes,1278,Percalatoidei,1287,Percalates-clade,NULL,NULL,1287,1287,50,Family,NULL,8,62.6,5,1,NULL,44:31.0
+Petromyzontidae,564,Bonaparte 1831,lampreys,lampreys,Petromyzonti,983,Petromyzontiformes,526,NULL,NULL,Petromyzontidae,NULL,NULL,526,526,50,Family,NULL,3,5,NULL,2,NULL,55:59.0
+Geotriidae,408,Gill 1893,pouched lampreys,NULL,Petromyzonti,983,Petromyzontiformes,526,NULL,NULL,Geotriidae,NULL,NULL,526,526,50,Family,NULL,3,5,NULL,2.1,NULL,16:26.0
+Mordaciidae,409,Gill 1893,southern topeyed lampreys,NULL,Petromyzonti,983,Petromyzontiformes,526,NULL,NULL,Mordaciidae,NULL,NULL,526,526,50,Family,NULL,3,5,NULL,2.2,NULL,51:30.0
+Callorhinchidae,1,Garman 1901,plownose chimaeras,chimaeras;plownose,Holocephali,610,Chimaeriformes,1082,NULL,NULL,Callorhinchidae,NULL,NULL,1082,1082,50,Family,NULL,6,1,NULL,3,NULL,27:19.0
+Chimaeridae,2,Rafinesque 1815,shortnose chimaeras or ratfishes,chimaeras/shortnose;ratfishes,Holocephali,610,Chimaeriformes,1082,NULL,NULL,Chimaeridae,NULL,NULL,1082,1082,50,Family,NULL,6,1,NULL,4,NULL,27:43.0
+Rhinochimaeridae,3,Garman 1901,longnose chimaeras,chimaeras;longnose,Holocephali,610,Chimaeriformes,1082,NULL,NULL,Rhinochimaeridae,NULL,NULL,1082,1082,50,Family,NULL,6,1,NULL,5,NULL,27:56.0
+Hexanchidae,5,Gray 1851,cow sharks,sharks;cow,Elasmobranchii,637,Hexanchiformes,528,NULL,NULL,Hexanchidae,NULL,NULL,528,528,50,Family,NULL,5,6,NULL,7,NULL,09:53.0
+Chlamydoselachidae,4,Garman 1884,frill sharks,sharks;frill,Elasmobranchii,637,Hexanchiformes,528,NULL,NULL,Chlamydoselachidae,NULL,NULL,528,528,50,Family,NULL,5,6,NULL,7.6,NULL,04:38.0
+Heterodontidae,6,Gray 1851,bullhead and horn sharks,sharks;bullhead/sharks;horn,Elasmobranchii,637,Heterodontiformes,529,NULL,NULL,Heterodontidae,NULL,NULL,529,529,50,Family,NULL,5,7,NULL,8,NULL,09:43.0
+Rhincodontidae,608,MÃ¼ller & Henle 1841,whale sharks,sharks;whale,Elasmobranchii,637,Orectolobiformes,575,NULL,NULL,Rhincodontidae,NULL,NULL,575,575,50,Family,NULL,5,8,NULL,9,NULL,20:43.0
+Parascylliidae,565,Gill 1862,collared carpet sharks,sharks;collared carpet,Elasmobranchii,637,Orectolobiformes,575,NULL,NULL,Parascylliidae,NULL,NULL,575,575,50,Family,NULL,5,8,NULL,10.1,NULL,15:16.0
+Brachaeluridae,566,Applegate 1974,blind sharks,sharks;blind,Elasmobranchii,637,Orectolobiformes,575,NULL,NULL,Brachaeluridae,NULL,NULL,575,575,50,Family,NULL,5,8,NULL,10.2,NULL,02:13.0
+Orectolobidae,7,Gill 1896,wobbegongs,wobbegons,Elasmobranchii,637,Orectolobiformes,575,NULL,NULL,Orectolobidae,NULL,NULL,575,575,50,Family,NULL,5,8,NULL,10.3,NULL,31:00.0
+Hemiscylliidae,567,Gill 1862,bamboo sharks,sharks;bamboo,Elasmobranchii,637,Orectolobiformes,575,NULL,NULL,Hemiscylliidae,NULL,NULL,575,575,50,Family,NULL,5,8,NULL,10.4,NULL,09:34.0
+Stegostomatidae,568,Gill 1862,zebra sharks,sharks;zebra,Elasmobranchii,637,Orectolobiformes,575,NULL,NULL,Stegostomatidae,NULL,NULL,575,575,50,Family,NULL,5,8,NULL,10.5,NULL,23:20.0
+Ginglymostomatidae,569,Gill 1862,nurse sharks,"sharks, nurse",Elasmobranchii,637,Orectolobiformes,575,NULL,NULL,Ginglymostomatidae,NULL,NULL,575,575,50,Family,NULL,5,8,NULL,10.6,NULL,07:28.0
+Mitsukurinidae,609,Jordan 1898,goblin sharks,sharks;goblin,Elasmobranchii,637,Lamniformes,576,NULL,NULL,Mitsukurinidae,NULL,NULL,576,576,50,Family,NULL,5,8.5,NULL,11,NULL,09:53.0
+Carchariidae,1316,MÃ¼ller & Henle 1838,sand tigers,NULL,Elasmobranchii,637,Lamniformes,576,NULL,NULL,Carchariidae,NULL,NULL,576,576,50,Family,Based on ref. 37195,5,8.5,NULL,11.1,NULL,19:22.0
+Odontaspididae,8,MÃ¼ller & Henle 1839,sand tiger sharks,sharks;sand tiger,Elasmobranchii,637,Lamniformes,576,NULL,NULL,Odontaspididae,NULL,NULL,576,576,50,Family,NULL,5,8.5,NULL,11.2,NULL,09:31.0
+Pseudocarchariidae,570,"Taylor, Compagno & Struhsaker 1983",crocodile sharks,sharks;crocodile,Elasmobranchii,637,Lamniformes,576,NULL,NULL,Pseudocarchariidae,NULL,NULL,576,576,50,Family,NULL,5,8.5,NULL,11.3,NULL,18:10.0
+Megachasmidae,660,"Taylor, Compagno & Struhsaker 1983",megamouth sharks,"sharks,megamouth",Elasmobranchii,637,Lamniformes,576,NULL,NULL,Megachasmidae,NULL,NULL,576,576,50,Family,NULL,5,8.5,NULL,12.1,NULL,11:51.0
+Alopiidae,410,Bonaparte 1835,thresher sharks,sharks;thresher,Elasmobranchii,637,Lamniformes,576,NULL,NULL,Alopiidae,NULL,NULL,576,576,50,Family,NULL,5,8.5,NULL,12.3,NULL,59:39.0
+Cetorhinidae,411,Gill 1861,basking sharks,sharks;basking,Elasmobranchii,637,Lamniformes,576,NULL,NULL,Cetorhinidae,NULL,NULL,576,576,50,Family,NULL,5,8.5,NULL,12.5,NULL,13:04.0
+Lamnidae,9,Bonaparte 1835,mackerel sharks,"sharks, mackerel",Elasmobranchii,637,Lamniformes,576,NULL,NULL,Lamnidae,NULL,NULL,576,576,50,Family,NULL,5,8.5,NULL,12.7,NULL,13:22.0
+Pentanchidae,1077,Smith 1912,deepwater catsharks,NULL,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Pentanchidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,13.1,NULL,48:52.0
+Scyliorhinidae,10,Gill 1862,cat sharks,sharks;cat,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Scyliorhinidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,13.2,NULL,22:00.0
+Proscylliidae,413,Fowler 1941,finback catsharks,catsharks;finback,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Proscylliidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,13.3,NULL,17:07.0
+Pseudotriakidae,412,Gill 1893,false catsharks,catsharks;false,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Pseudotriakidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,13.4,NULL,18:35.0
+Leptochariidae,571,Gray 1851,barbeled houndsharks,houndsharks;barbeled,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Leptochariidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,14.1,NULL,11:27.0
+Triakidae,414,Gray 1851,houndsharks,houndsharks,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Triakidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,14.2,NULL,23:58.0
+Galeorhininae,694,Gill 1862,school sharks,NULL,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Triakidae,414,Galeorhininae,414,414,51,Subfamily,NULL,5,8.7,NULL,14.2,2,14:51.0
+Triakinae,705,Gray 1851,smouth-hounds,NULL,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Triakidae,414,Triakinae,414,414,51,Subfamily,NULL,5,8.7,NULL,14.2,1,37:36.0
+Hemigaleidae,572,Hasse 1878,weasel sharks,sharks;weasel,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Hemigaleidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,14.4,NULL,09:11.0
+Carcharhinidae,415,Jordan & Evermann 1896,requiem sharks,sharks;requiem,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Carcharhinidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,14.5,NULL,02:53.0
+Sphyrnidae,11,Bonaparte 1840,hammerhead sharks,sharks;hammerhead,Elasmobranchii,637,Carcharhiniformes,577,NULL,NULL,Sphyrnidae,NULL,NULL,577,577,50,Family,NULL,5,8.7,NULL,14.6,NULL,22:32.0
+Dalatiidae,722,Gray 1851,kitefin sharks,NULL,Elasmobranchii,637,Squaliformes,748,NULL,NULL,Dalatiidae,NULL,NULL,748,748,50,Family,NULL,5,9,NULL,15,NULL,27:02.0
+Etmopteridae,718,Fowler 1934,lantern sharks,NULL,Elasmobranchii,637,Squaliformes,748,NULL,NULL,Etmopteridae,NULL,NULL,748,748,50,Family,NULL,5,9,NULL,15.1,NULL,08:49.0
+Somniosidae,1045,Jordan 1888,sleeper sharks,NULL,Elasmobranchii,637,Squaliformes,748,NULL,NULL,Somniosidae,NULL,NULL,748,748,50,Family,NULL,5,9,NULL,15.2,NULL,58:06.0
+Oxynotidae,1046,Gill 1863,rough sharks,NULL,Elasmobranchii,637,Squaliformes,748,NULL,NULL,Oxynotidae,NULL,NULL,748,748,50,Family,NULL,5,9,NULL,15.3,NULL,30:25.0
+Centrophoridae,721,Bleeker 1859,gulper sharks,NULL,Elasmobranchii,637,Squaliformes,748,NULL,NULL,Centrophoridae,NULL,NULL,748,748,50,Family,NULL,5,9,NULL,15.5,NULL,12:49.0
+Squalidae,12,de Blainville 1816,dogfish sharks,sharks;dogfish,Elasmobranchii,637,Squaliformes,748,NULL,NULL,Squalidae,NULL,NULL,748,748,50,Family,NULL,5,9,NULL,16,NULL,22:46.0
+Echinorhinidae,416,Gill 1862,bramble sharks,sharks;bramble,Elasmobranchii,637,Echinorhiniformes,1295,NULL,NULL,Echinorhinidae,NULL,NULL,1295,1295,50,Family,NULL,5,9.2,NULL,16.1,NULL,06:27.0
+Pristiophoridae,13,Bleeker 1859,saw sharks,sharks;saw,Elasmobranchii,637,Pristiophoriformes,578,NULL,NULL,Pristiophoridae,NULL,NULL,578,578,50,Family,NULL,5,9.5,NULL,17,NULL,16:47.0
+Squatinidae,14,de Blainville 1816,angel sharks,sharks;angel,Elasmobranchii,637,Squatiniformes,579,NULL,NULL,Squatinidae,NULL,NULL,579,579,50,Family,NULL,5,9.7,NULL,18,NULL,23:00.0
+Platyrhinidae,1110,Jordan 1923,thornbacks / fanrays,NULL,Elasmobranchii,637,Torpediniformes,747,NULL,NULL,Platyrhinidae,NULL,NULL,747,747,50,Family,NULL,5,10,NULL,20.1,NULL,56:47.0
+Narkidae,728,Fowler 1934,sleeper rays,NULL,Elasmobranchii,637,Torpediniformes,747,NULL,NULL,Narkidae,NULL,NULL,747,747,50,Family,NULL,5,10,NULL,20.3,NULL,17:16.0
+Narcinidae,727,Gill 1862,numbfishes,NULL,Elasmobranchii,637,Torpediniformes,747,NULL,NULL,Narcinidae,NULL,NULL,747,747,50,Family,NULL,5,10,NULL,20.4,NULL,17:06.0
+Hypnidae,725,Gill 1862,coffin rays,NULL,Elasmobranchii,637,Torpediniformes,747,NULL,NULL,Hypnidae,NULL,NULL,747,747,50,Family,NULL,5,10,NULL,20.5,NULL,31:35.0
+Torpedinidae,724,Henle 1834,electric rays / torpedo rays,rays;electric,Elasmobranchii,637,Torpediniformes,747,NULL,NULL,Torpedinidae,NULL,NULL,747,747,50,Family,NULL,5,10,NULL,20.6,NULL,09:25.0
+Trygonorrhinidae,1112,"Last, SÃ©ret & Naylor 2016",fiddler rays / banjo rays,NULL,Elasmobranchii,637,Rhinopristiformes,580,NULL,NULL,Trygonorrhinidae,NULL,NULL,580,580,50,Family,NULL,5,10.2,NULL,20.8,NULL,56:21.0
+Rhinobatidae,16,Bonaparte 1835,guitarfishes,guitarfishes,Elasmobranchii,637,Rhinopristiformes,580,NULL,NULL,Rhinobatidae,NULL,NULL,580,580,50,Family,NULL,5,10.2,NULL,21,NULL,21:12.0
+Rhinidae,1111,MÃ¼ller & Henle 1841,bowmouth guitarfishes / wedgefishes,NULL,Elasmobranchii,637,Rhinopristiformes,580,NULL,NULL,Rhinidae,NULL,NULL,580,580,50,Family,NULL,5,10.2,NULL,21.1,NULL,53:23.0
+Glaucostegidae,1113,"Last, SÃ©ret & Naylor 2016",giant guitarfishes,NULL,Elasmobranchii,637,Rhinopristiformes,580,NULL,NULL,Glaucostegidae,NULL,NULL,580,580,50,Family,NULL,5,10.2,NULL,21.2,NULL,55:43.0
+Pristidae,15,Bonaparte 1835,sawfishes,sawfishes,Elasmobranchii,637,Rhinopristiformes,580,NULL,NULL,Pristidae,NULL,NULL,580,580,50,Family,NULL,5,10.2,NULL,21.3,NULL,16:32.0
+Rajidae,17,de Blainville 1816,skates,skates,Elasmobranchii,637,Rajiformes,746,NULL,NULL,Rajidae,NULL,NULL,746,746,50,Family,NULL,5,10.5,NULL,21.4,NULL,53:19.0
+Arhynchobatidae,968,Fowler 1934,softnose skates or longtail skates,NULL,Elasmobranchii,637,Rajiformes,746,NULL,NULL,Arhynchobatidae,NULL,NULL,746,746,50,Family,split out or rajidae June 2008. Deepwater skates.,5,10.5,NULL,21.5,NULL,34:29.0
+Gurgesiellidae,1147,de Buen 1959,leg skates / pygmy skates,NULL,Elasmobranchii,637,Rajiformes,746,NULL,NULL,Gurgesiellidae,NULL,NULL,746,746,50,Family,NULL,5,10.5,NULL,21.6,NULL,10:29.0
+Anacanthobatidae,419,von Bonde & Schwart 1923,smooth skates,skates;smooth,Elasmobranchii,637,Rajiformes,746,NULL,NULL,Anacanthobatidae,NULL,NULL,746,746,50,Family,NULL,5,10.5,NULL,21.7,NULL,52:30.0
+Zanobatidae,1138,Fowler 1934,panrays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Zanobatidae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,22.2,NULL,26:24.0
+Hexatrygonidae,19,Heemstra & Smith 1980,sixgill stingrays,stingrays; sixgill,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Hexatrygonidae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,22.4,NULL,24:19.0
+Dasyatidae,420,Jordan & Gilbert 1879,stingrays,stingrays,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Dasyatidae,NULL,NULL,1047,1047,50,Family,See Last et al. 2016:353 [ref. 34581].,5,10.6,NULL,22.5,NULL,23:55.0
+Dasyatinae,1126,Jordan & Gilbert 1879,stingrays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Dasyatidae,420,Dasyatinae,420,420,51,Subfamily,See Last et al. 2016:353 [ref. 34581].,5,10.6,NULL,22.5,1,19:35.0
+Neotrygoninae,1127,"Last, Naylor & Manjaji-Matsumoto 2016",shortsnout stingrays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Dasyatidae,420,Neotrygoninae,420,420,51,Subfamily,See Last et al. 2016:358 [ref. 34581].,5,10.6,NULL,22.5,2,22:15.0
+Urogymninae,1128,Gray 1851,whiprays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Dasyatidae,420,Urogymninae,420,420,51,Subfamily,See Last et al. 2016:359 [ref. 34581].,5,10.6,NULL,22.5,3,23:35.0
+Hypolophinae,1129,Stromer 1910,cowtail stingrays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Dasyatidae,420,Hypolophinae,420,420,51,Subfamily,See Last et al. 2016:363 [ref. 34581].,5,10.6,NULL,22.5,4,27:38.0
+Potamotrygonidae,18,Garman 1877,American stingrays,stingrays;river,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Potamotrygonidae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,22.6,NULL,47:07.0
+Potamotrygoninae,1140,Garman 1877,river stingrays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Potamotrygonidae,18,Potamotrygoninae,18,18,51,Subfamily,NULL,5,10.6,NULL,22.6,2,24:51.0
+Styracurinae,1141,"Carvalho, Loboda & da Silva 2016",whiptail stingrays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Potamotrygonidae,18,Styracurinae,18,18,51,Subfamily,NULL,5,10.6,NULL,22.6,1,28:01.0
+Urotrygonidae,971,"McEachran, Dunn & Miyake 1996",American round stingrays or round rays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Urotrygonidae,NULL,NULL,1047,1047,50,Family,Changed July 2008 on ref. 29691,5,10.6,NULL,22.7,NULL,04:17.0
+Gymnuridae,421,Fowler 1934,butterfly rays,rays;butterfly,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Gymnuridae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,22.8,NULL,52:38.0
+Plesiobatidae,738,Nishida 1990,deepwater stingrays or giant stingarees,stingrays;deepwater,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Plesiobatidae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,22.9,NULL,04:02.0
+Urolophidae,422,MÃ¼ller & Henle 1841,round stingrays or stingarees,stingrays;round,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Urolophidae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,23,NULL,32:05.0
+Aetobatidae,1123,Agassiz 1858,pelagic eagle rays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Aetobatidae,NULL,NULL,1047,1047,50,Family,Changed on White & Naylor 2016 [ref. 34575].,5,10.6,NULL,23.1,NULL,03:07.0
+Myliobatidae,729,Bonaparte 1835,eagle rays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Myliobatidae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,23.2,NULL,36:06.0
+Rhinopteridae,1124,Jordan & Evermann 1896,cownose rays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Rhinopteridae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,23.4,NULL,05:05.0
+Mobulidae,1125,Gill 1893,devil rays,NULL,Elasmobranchii,637,Myliobatiformes,1047,NULL,NULL,Mobulidae,NULL,NULL,1047,1047,50,Family,NULL,5,10.6,NULL,23.6,NULL,06:42.0
+Neoceratodontidae,20,Schultz 1948,Australian lungfishes,lungfishes;Australian,Dipneusti,647,Ceratodontiformes,530,NULL,NULL,Neoceratodontidae,NULL,NULL,530,530,50,Family,NULL,10,4,NULL,28,NULL,02:36.0
+Lepidosirenidae,21,Bonaparte 1841,South American lungfishes,lungfishes;South American,Dipneusti,647,Ceratodontiformes,530,NULL,NULL,Lepidosirenidae,NULL,NULL,530,530,50,Family,NULL,10,4,NULL,29,NULL,02:44.0
+Protopteridae,22,Peters 1855,African lungfishes,lungfishes;African,Dipneusti,647,Ceratodontiformes,530,NULL,NULL,Protopteridae,NULL,NULL,530,530,50,Family,NULL,10,4,NULL,29.1,NULL,02:56.0
+Latimeriidae,23,Berg 1940,coelacanths,coelacanths,Coelacanthi,639,Coelacanthiformes,532,NULL,NULL,Latimeriidae,NULL,NULL,532,532,50,Family,NULL,9,1,NULL,31,NULL,02:06.0
+Polypteridae,24,Bonaparte 1835,bichirs,bichirs,Cladistii,1088,Polypteriformes,533,NULL,NULL,Polypteridae,NULL,NULL,533,533,50,Family,NULL,7,7,NULL,32,NULL,58:25.0
+Acipenseridae,25,Bonaparte 1831,sturgeons,sturgeons,Actinopteri,699,Acipenseriformes,534,NULL,NULL,Acipenseridae,NULL,NULL,534,534,50,Family,NULL,8,7.5,NULL,33,NULL,28:57.0
+Polyodontidae,26,Bonaparte 1835,paddlefishes,paddlefishes,Actinopteri,699,Acipenseriformes,534,NULL,NULL,Polyodontidae,NULL,NULL,534,534,50,Family,NULL,8,7.5,NULL,34,NULL,29:23.0
+Lepisosteidae,27,Agassiz 1832,gars,gars,Actinopteri,699,Lepisosteiformes,535,NULL,NULL,Lepisosteidae,NULL,NULL,535,535,50,Family,NULL,8,18,NULL,35,NULL,30:18.0
+Amiidae,28,Bonaparte 1831,bowfins,bowfins,Actinopteri,699,Amiiformes,536,NULL,NULL,Amiidae,NULL,NULL,536,536,50,Family,NULL,8,22,NULL,36,NULL,30:46.0
+Hiodontidae,31,Valenciennes 1847,mooneyes,mooneyes,Actinopteri,699,Hiodontiformes,1169,NULL,NULL,Hiodontidae,NULL,NULL,1169,1169,50,Family,NULL,8,33.2,NULL,36,NULL,23:27.0
+Pantodontidae,30,Peters 1876,freshwater butterfly fishes,NULL,Actinopteri,699,Osteoglossiformes,537,NULL,NULL,Pantodontidae,NULL,NULL,537,537,50,Family,NULL,8,33.5,NULL,36.5,NULL,47:01.0
+Osteoglossidae,29,Bonaparte 1845,bonytongues,bonytongues,Actinopteri,699,Osteoglossiformes,537,NULL,NULL,Osteoglossidae,NULL,NULL,537,537,50,Family,NULL,8,33.5,NULL,37,NULL,35:22.0
+Arapaimidae,740,Bonaparte 1846,arapaimas,arapaimas,Actinopteri,699,Osteoglossiformes,537,NULL,NULL,Arapaimidae,NULL,NULL,537,537,50,Family,NULL,8,33.5,NULL,37.5,NULL,34:43.0
+Notopteridae,32,Bleeker 1851,knifefishes or featherbacks,featherbacks/knifefishes,Actinopteri,699,Osteoglossiformes,537,NULL,NULL,Notopteridae,NULL,NULL,537,537,50,Family,NULL,8,33.5,NULL,40,NULL,35:15.0
+Notopterinae,1134,Bleeker 1851,Asiatic featherbacks,NULL,Actinopteri,699,Osteoglossiformes,537,NULL,NULL,Notopteridae,32,Notopterinae,32,32,51,Subfamily,NULL,8,33.5,NULL,40,1,26:14.0
+Xenomystinae,1135,Greenwood 1963,African knifefishes,NULL,Actinopteri,699,Osteoglossiformes,537,NULL,NULL,Notopteridae,32,Xenomystinae,32,32,51,Subfamily,NULL,8,33.5,NULL,40,2,27:48.0
+Mormyridae,33,Bonaparte 1831,elephantfishes,elephantfishes,Actinopteri,699,Osteoglossiformes,537,NULL,NULL,Mormyridae,NULL,NULL,537,537,50,Family,NULL,8,33.5,NULL,41,NULL,35:07.0
+Gymnarchidae,34,Bleeker 1859,aba's,NULL,Actinopteri,699,Osteoglossiformes,537,NULL,NULL,Gymnarchidae,NULL,NULL,537,537,50,Family,NULL,8,33.5,NULL,42,NULL,24:47.0
+Elopidae,35,Valenciennes 1847,tenpounders and ladyfishes,tenpounders/ladyfishes,Actinopteri,699,Elopiformes,538,NULL,NULL,Elopidae,NULL,NULL,538,538,50,Family,NULL,8,30,NULL,43,NULL,37:06.0
+Megalopidae,36,Jordan & Gilbert 1883,tarpons,tarpons,Actinopteri,699,Elopiformes,538,NULL,NULL,Megalopidae,NULL,NULL,538,538,50,Family,NULL,8,30,NULL,44,NULL,37:31.0
+Albulidae,37,Bleeker 1849,bonefishes,bonefishes,Actinopteri,699,Albuliformes,581,NULL,NULL,Albulidae,NULL,NULL,581,581,50,Family,NULL,8,30.5,NULL,45,NULL,37:52.0
+Albulinae,423,Bleeker 1849,bonefishes,NULL,Actinopteri,699,Albuliformes,581,NULL,NULL,Albulidae,37,Albulinae,37,37,51,Subfamily,NULL,8,30.5,NULL,45,1,24:33.0
+Pterothrissinae,424,Gill 1893,longfin bonefishes,NULL,Actinopteri,699,Albuliformes,581,NULL,NULL,Albulidae,37,Pterothrissinae,37,37,51,Subfamily,NULL,8,30.5,NULL,45,2,16:30.0
+Halosauridae,38,GÃ¼nther 1868,halosaurs,halosaurs,Actinopteri,699,Notacanthiformes,638,NULL,NULL,Halosauridae,NULL,NULL,638,638,50,Family,NULL,8,31,NULL,46,NULL,39:07.0
+Notacanthidae,39,Rafinesque 1810,spiny eels,eels;spiny,Actinopteri,699,Notacanthiformes,638,NULL,NULL,Notacanthidae,NULL,NULL,638,638,50,Family,NULL,8,31,NULL,47,NULL,39:38.0
+Protanguillidae,1035,"Johnson, Ida & Miya 2011",primitive cave eels,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Protanguillidae,NULL,NULL,539,539,50,Family,"Added from online, 27 Aug. 2011.",8,32,NULL,48.5,NULL,48:20.0
+Synaphobranchidae,47,Johnson 1862,cutthroat eels,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Synaphobranchidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,49,NULL,55:04.0
+Synaphobranchinae,611,Johnson 1862,cutthroat eels,eels;cutthroat,Actinopteri,699,Anguilliformes,539,NULL,NULL,Synaphobranchidae,47,Synaphobranchinae,47,47,51,Subfamily,NULL,8,32,NULL,49,3,58:09.0
+Simenchelyinae,612,Gill 1879,pugnose parasitic eels,eels;pugnose,Actinopteri,699,Anguilliformes,539,NULL,NULL,Synaphobranchidae,47,Simenchelyinae,47,47,51,Subfamily,NULL,8,32,NULL,49,1,57:34.0
+Ilyophinae,648,Jordan & Davis 1891,arrowtooth eels or mustard eels,eels;arrowtooth,Actinopteri,699,Anguilliformes,539,NULL,NULL,Synaphobranchidae,47,Ilyophinae,47,47,51,Subfamily,NULL,8,32,NULL,49,2,58:19.0
+Heterenchelyidae,41,Regan 1912,mud eels,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Heterenchelyidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,50,NULL,27:37.0
+Myrocongridae,43,Gill 1890,myroconger eels,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Myrocongridae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,53,NULL,52:50.0
+Muraenidae,44,Rafinesque 1815,moray eels,"morays/eels, moray (see morays)",Actinopteri,699,Anguilliformes,539,NULL,NULL,Muraenidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,54,NULL,01:46.0
+Uropterygiinae,425,Fowler 1925,tailfin moray eels,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Muraenidae,44,Uropterygiinae,44,44,51,Subfamily,NULL,8,32,NULL,54,1,00:49.0
+Muraeninae,426,Rafinesque 1815,morays,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Muraenidae,44,Muraeninae,44,44,51,Subfamily,NULL,8,32,NULL,54,2,02:06.0
+Chlopsidae,677,Rafinesque 1815,false morays,morays;false,Actinopteri,699,Anguilliformes,539,NULL,NULL,Chlopsidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,55,NULL,53:47.0
+Colocongridae,50,Smith 1976,shorttail eels,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Colocongridae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,56,NULL,04:05.0
+Derichthyidae,52,Gill 1884,longneck eels,eels;longneck,Actinopteri,699,Anguilliformes,539,NULL,NULL,Derichthyidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,57,NULL,04:17.0
+Ophichthidae,48,GÃ¼nther 1870,snake eels and worm eels,eels;snake/eels;worm,Actinopteri,699,Anguilliformes,539,NULL,NULL,Ophichthidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,58,NULL,50:11.0
+Myrophinae,427,Kaup 1856,worm eels,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Ophichthidae,48,Myrophinae,48,48,51,Subfamily,NULL,8,32,NULL,58,1,10:34.0
+Ophichthinae,428,GÃ¼nther 1870,snake eels,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Ophichthidae,48,Ophichthinae,48,48,51,Subfamily,NULL,8,32,NULL,58,2,25:32.0
+Muraenesocidae,432,Kaup 1859,pike conger eels,eels;pike conger,Actinopteri,699,Anguilliformes,539,NULL,NULL,Muraenesocidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,59,NULL,09:40.0
+Nettastomatidae,49,Kaup 1859,duckbill eels,eels;duckbill,Actinopteri,699,Anguilliformes,539,NULL,NULL,Nettastomatidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,60,NULL,09:54.0
+Congridae,51,Kaup 1856,conger eels,eels;conger,Actinopteri,699,Anguilliformes,539,NULL,NULL,Congridae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,62,NULL,44:25.0
+Congrinae,429,Kaup 1856,NULL,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Congridae,51,Congrinae,51,51,51,Subfamily,NULL,8,32,NULL,62,1,44:32.0
+Bathymyrinae,430,BÃ¶hlke 1949,NULL,NULL,Actinopteri,699,Anguilliformes,539,NULL,NULL,Congridae,51,Bathymyrinae,51,51,51,Subfamily,NULL,8,32,NULL,62,2,43:28.0
+Heterocongrinae,431,GÃ¼nther 1870,garden eels,eels;garden,Actinopteri,699,Anguilliformes,539,NULL,NULL,Congridae,51,Heterocongrinae,51,51,51,Subfamily,NULL,8,32,NULL,62,3,45:26.0
+Moringuidae,42,Gill 1885,spaghetti eels,eels;spaghetti,Actinopteri,699,Anguilliformes,539,NULL,NULL,Moringuidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,62.5,NULL,10:12.0
+Nemichthyidae,45,Kaup 1859,snipe eels,eels;snipe,Actinopteri,699,Anguilliformes,539,NULL,NULL,Nemichthyidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,63.5,NULL,49:50.0
+Serrivomeridae,53,Trewavas 1932,sawtooth eels,eels;sawtooth,Actinopteri,699,Anguilliformes,539,NULL,NULL,Serrivomeridae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,64,NULL,49:18.0
+Anguillidae,40,Rafinesque 1810,freshwater eels,eels;freshwater,Actinopteri,699,Anguilliformes,539,NULL,NULL,Anguillidae,NULL,NULL,539,539,50,Family,NULL,8,32,NULL,64.6,NULL,52:30.0
+Cyematidae,46,Regan 1912,bobtail eels,eels;bobtail,Actinopteri,699,Saccopharyngiformes,582,NULL,NULL,Cyematidae,NULL,NULL,582,582,50,Family,NULL,8,33,NULL,64.7,NULL,51:44.0
+Monognathidae,56,Trewavas 1937,onejaw gulpers,monognathids,Actinopteri,699,Saccopharyngiformes,582,NULL,NULL,Monognathidae,NULL,NULL,582,582,50,Family,NULL,8,33,NULL,64.9,NULL,28:14.0
+Neocyematidae,1268,"Poulsen, Miller, Sado, Hanel, Tsukamoto & Miya 2018",bobtail snipe eels,NULL,Actinopteri,699,Saccopharyngiformes,582,NULL,NULL,Neocyematidae,NULL,NULL,582,582,50,Family,NULL,8,33,NULL,65,NULL,32:25.0
+Eurypharyngidae,55,Gill 1883,umbrellamouth gulpers,gulpers;umbrellamouth,Actinopteri,699,Saccopharyngiformes,582,NULL,NULL,Eurypharyngidae,NULL,NULL,582,582,50,Family,NULL,8,33,NULL,66,NULL,51:50.0
+Saccopharyngidae,54,Bleeker 1859,swallowers or whiptail gulpers,gulpers;whiptail/swallowers,Actinopteri,699,Saccopharyngiformes,582,NULL,NULL,Saccopharyngidae,NULL,NULL,582,582,50,Family,NULL,8,33,NULL,67,NULL,28:57.0
+Denticipitidae,57,Clausen 1959,denticle herrings,herrings;denticle,Actinopteri,699,Clupeiformes,540,NULL,NULL,Denticipitidae,NULL,NULL,540,540,50,Family,NULL,8,34,NULL,68,NULL,53:06.0
+Spratelloididae,1272,Jordan 1925,small round herrings,NULL,Actinopteri,699,Clupeiformes,540,NULL,NULL,Spratelloididae,NULL,NULL,540,540,50,Family,NULL,8,34,NULL,68.5,NULL,22:58.0
+Clupeidae,58,Cuvier 1816,"herrings, shads, sardines and allies",shads/sardines/herrings,Actinopteri,699,Clupeiformes,540,NULL,NULL,Clupeidae,NULL,NULL,540,540,50,Family,NULL,8,34,NULL,69,NULL,52:58.0
+Dussumieriidae,1054,Gill 1861,round herrings,NULL,Actinopteri,699,Clupeiformes,540,NULL,NULL,Dussumieriidae,NULL,NULL,540,540,50,Family,NULL,8,34,NULL,69.5,NULL,18:11.0
+Engraulidae,433,Gill 1861,anchovies,anchovies,Actinopteri,699,Clupeiformes,540,NULL,NULL,Engraulidae,NULL,NULL,540,540,50,Family,NULL,8,34,NULL,70,NULL,53:25.0
+Chirocentridae,59,Bleeker 1849,wolf herrings,herrings;wolf,Actinopteri,699,Clupeiformes,540,NULL,NULL,Chirocentridae,NULL,NULL,540,540,50,Family,NULL,8,34,NULL,71,NULL,52:48.0
+Pristigasteridae,924,Bleeker 1872,longfin herrings,NULL,Actinopteri,699,Clupeiformes,540,NULL,NULL,Pristigasteridae,NULL,NULL,540,540,50,Family,NULL,8,34,NULL,71.5,NULL,19:02.0
+Chanidae,60,GÃ¼nther 1868,milkfishes,milkfishes,Actinopteri,699,Gonorynchiformes,541,NULL,NULL,Chanidae,NULL,NULL,541,541,50,Family,NULL,8,35,NULL,72,NULL,54:26.0
+Gonorynchidae,61,Fowler 1941 (1848),beaked sandfishes,NULL,Actinopteri,699,Gonorynchiformes,541,NULL,NULL,Gonorynchidae,NULL,NULL,541,541,50,Family,Kottelat 2016:446 [ref. 34856].,8,35,NULL,73,NULL,03:57.0
+Kneriidae,62,GÃ¼nther 1868,shellears,NULL,Actinopteri,699,Gonorynchiformes,541,NULL,NULL,Kneriidae,NULL,NULL,541,541,50,Family,NULL,8,35,NULL,74,NULL,36:50.0
+Paedocyprididae,1252,Mayden & Chen 2010,tiny carps,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Paedocyprididae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,74,NULL,30:30.0
+Phractolaemidae,63,Boulenger 1901,snake mudheads,NULL,Actinopteri,699,Gonorynchiformes,541,NULL,NULL,Phractolaemidae,NULL,NULL,541,541,50,Family,NULL,8,35,NULL,75,NULL,42:05.0
+Psilorhynchidae,65,Hora 1926,mountain carps,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Psilorhynchidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,75,NULL,16:46.0
+Cyprinidae,64,Rafinesque 1815,carps,carps/minnows,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76,NULL,21:13.0
+Cyprininae,987,Rafinesque 1815,carps,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Cyprininae,64,64,51,Subfamily,NULL,8,36,4,76,5,33:25.0
+Labeoninae,989,Bleeker 1859,labeonines,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Labeoninae,64,64,51,Subfamily,NULL,8,36,4,76,1,32:25.0
+Probarbinae,1254,Yang et al. 2015,primitive cyprinids,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Probarbinae,64,64,51,Subfamily,NULL,8,36,4,76,2,40:01.0
+Torinae,1255,Karaman 1971,large barbs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Torinae,64,64,51,Subfamily,NULL,8,36,4,76,3,31:26.0
+Smiliogastrinae,1256,Bleeker 1863,small barbs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Smiliogastrinae,64,64,51,Subfamily,NULL,8,36,4,76,4,37:59.0
+Acrossocheilinae,1257,Yang et al. 2015,East Asian barbs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Acrossocheilinae,64,64,51,Subfamily,NULL,8,36,4,76,6,48:02.0
+Barbinae,1258,Bleeker 1859,barbels,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Barbinae,64,64,51,Subfamily,NULL,8,36,4,76,7,40:58.0
+Spinibarbinae,1259,Yang et al. 2015,spine barbs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Spinibarbinae,64,64,51,Subfamily,NULL,8,36,4,76,8,44:18.0
+Schizothoracinae,1260,McClelland 1842,snow barbels,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Schizothoracinae,64,64,51,Subfamily,NULL,8,36,4,76,9,45:51.0
+Schizopygopsinae,1261,Mirza 1991,mountain barbels,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Cyprinidae,64,Schizopygopsinae,64,64,51,Subfamily,NULL,8,36,4,76,10,00:56.0
+Sundadanionidae,1253,Mayden & Chen 2010,tiny danios,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Sundadanionidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76.2,NULL,35:07.0
+Danioninae,1018,Bleeker 1863,danionines,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Danionidae,1248,Danioninae,1248,1248,51,Subfamily,From ref. 30874,8,36,4,76.3,3,21:50.0
+Danionidae,1248,Bleeker 1863,danionids,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Danionidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76.3,NULL,26:31.0
+Chedrinae,1249,Bleeker 1863,troutbarbs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Danionidae,1248,Chedrinae,1248,1248,51,Subfamily,NULL,8,36,4,76.3,1,19:33.0
+Rasborinae,1250,GÃ¼nther 1868,rasborines,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Danionidae,1248,Rasborinae,1248,1248,51,Subfamily,NULL,8,36,4,76.3,2,20:47.0
+Esominae,1269,Tan & Armbruster 2018,flying barbs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Danionidae,1248,Esominae,1248,1248,51,Subfamily,NULL,8,36,4,76.3,4,44:23.0
+Leptobarbidae,1247,Bleeker 1864,cigar barbs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Leptobarbidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76.4,NULL,16:29.0
+Xenocyprididae,1246,GÃ¼nther 1868,East Asian minnows,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Xenocyprididae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76.5,NULL,43:58.0
+Tincidae,1245,Jordan 1878,tenches,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Tincidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76.6,NULL,43:49.0
+Acheilognathidae,1244,Bleeker 1863,bitterlings,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Acheilognathidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76.7,NULL,35:13.0
+Gobionidae,1243,Bleeker 1863,gobionids,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Gobionidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76.8,NULL,08:55.0
+Tanichthyidae,1251,Mayden & Chen 2010,mountain minnows,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Tanichthyidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,76.9,NULL,30:50.0
+Catostomidae,68,Agassiz 1850,suckers,suckers,Actinopteri,699,Cypriniformes,542,Catostomoidei,1157,Catostomidae,NULL,NULL,1157,1157,50,Family,NULL,8,36,2,77.1,NULL,05:24.0
+Leuciscinae,995,Bonaparte 1835,leuciscines,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Leuciscidae,1237,Leuciscinae,1237,1237,51,Subfamily,NULL,8,36,4,77.1,4,20:35.0
+Leuciscidae,1237,Bonaparte 1835,minnows,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Leuciscidae,NULL,NULL,1159,1159,50,Family,NULL,8,36,4,77.1,NULL,18:34.0
+Pseudaspininae,1238,Bogutskaya 1990,Far East Asian leuciscines,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Leuciscidae,1237,Pseudaspininae,1237,1237,51,Subfamily,NULL,8,36,4,77.1,1,25:53.0
+Laviniinae,1239,Bleeker 1863,western chubs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Leuciscidae,1237,Laviniinae,1237,1237,51,Subfamily,NULL,8,36,4,77.1,2,56:13.0
+Plagopterinae,1240,Cope 1874,creek chubs,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Leuciscidae,1237,Plagopterinae,1237,1237,51,Subfamily,NULL,8,36,4,77.1,3,16:58.0
+Phoxininae,1241,Bleeker 1863,phoxinines,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Leuciscidae,1237,Phoxininae,1237,1237,51,Subfamily,NULL,8,36,4,77.1,5,26:43.0
+Pogonichthyinae,1242,Girard 1858,minnows & shiners,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,1159,Leuciscidae,1237,Pogonichthyinae,1237,1237,51,Subfamily,NULL,8,36,4,77.1,6,35:39.0
+Catostominae,1264,Agassiz 1850,catostomine suckers,NULL,Actinopteri,699,Cypriniformes,542,Catostomoidei,1157,Catostomidae,68,Catostominae,68,68,51,Subfamily,NULL,8,36,2,77.1,4,34:15.0
+Myxocyprininae,1265,Fowler 1958,Asian suckers,NULL,Actinopteri,699,Cypriniformes,542,Catostomoidei,1157,Catostomidae,68,Myxocyprininae,68,68,51,Subfamily,NULL,8,36,2,77.1,1,35:27.0
+Cycleptinae,1266,Gill 1861,cycleptine suckers,NULL,Actinopteri,699,Cypriniformes,542,Catostomoidei,1157,Catostomidae,68,Cycleptinae,68,68,51,Subfamily,NULL,8,36,2,77.1,2,36:33.0
+Ictiobinae,1267,Bleeker 1863,buffalo fishes,NULL,Actinopteri,699,Cypriniformes,542,Catostomoidei,1157,Catostomidae,68,Ictiobinae,68,68,51,Subfamily,NULL,8,36,2,77.1,3,37:52.0
+Gyrinocheilidae,67,Gill 1905,algae eaters,algae eaters,Actinopteri,699,Cypriniformes,542,Gyrinocheiloidei,1156,Gyrinocheilidae,NULL,NULL,1156,1156,50,Family,NULL,8,36,1,77.2,NULL,02:21.0
+Botiidae,1120,Berg 1940,pointface loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Botiidae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,77.3,NULL,06:36.0
+Botiinae,1132,Berg 1940,beautiful loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Botiidae,1120,Botiinae,1120,1120,51,Subfamily,NULL,8,36,3,77.3,2,06:50.0
+Leptobotiinae,1133,Nalbant 2002,Chinese pointface loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Botiidae,1120,Leptobotiinae,1120,1120,51,Subfamily,NULL,8,36,3,77.3,1,11:18.0
+Vaillantellidae,1017,Nalbant & BÄƒnÄƒrescu 1977,longfin loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Vaillantellidae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,77.4,NULL,09:26.0
+Cobitidae,66,Swainson 1838,spined loaches,loaches,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Cobitidae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,77.5,NULL,07:12.0
+Barbuccidae,1072,Kottelat 2012,scooter loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Barbuccidae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,78.1,NULL,06:22.0
+Gastromyzontidae,1136,Fowler 1905,hillstream loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Gastromyzontidae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,78.2,NULL,09:04.0
+Serpenticobitidae,1073,Kottelat 2012,snake loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Serpenticobitidae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,78.3,NULL,11:48.0
+Balitoridae,706,Swainson 1839,river loaches,loaches;hillstream/river,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Balitoridae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,78.5,NULL,37:12.0
+Ellopostomatidae,1071,Bohlen & Å lechtovÃ¡ 2009,square-head loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Ellopostomatidae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,79,NULL,08:35.0
+Nemacheilidae,434,Regan 1911,brook loaches,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,1158,Nemacheilidae,NULL,NULL,1158,1158,50,Family,NULL,8,36,3,80,NULL,12:20.0
+Citharinidae,69,GÃ¼nther 1864,citharinids,NULL,Actinopteri,699,Characiformes,873,Citharinoidei,1305,Citharinidae,NULL,NULL,1305,1305,50,Family,NULL,8,37,1,82,NULL,17:54.0
+Distichodontidae,614,GÃ¼nther 1864,distichodontids,NULL,Actinopteri,699,Characiformes,873,Citharinoidei,1305,Distichodontidae,NULL,NULL,1305,1305,50,Family,NULL,8,37,1,82.1,NULL,18:12.0
+Characidiinae,703,Fowler 1932,South American darters,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Crenuchidae,955,Characidiinae,955,955,51,Subfamily,NULL,8,37,2,82.4,2,17:43.0
+Crenuchidae,955,GÃ¼nther 1864,crenuchids,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Crenuchidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,82.4,NULL,17:58.0
+Crenuchinae,956,GÃ¼nther 1864,sailfin tetras,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Crenuchidae,955,Crenuchinae,955,955,51,Subfamily,NULL,8,37,2,82.4,1,17:59.0
+Alestidae,619,Cockerell 1910,African tetras,tetras;African,Actinopteri,699,Characiformes,873,Characoidei,1304,Alestidae,NULL,NULL,1304,1304,50,Family,Formerly Alestiidae.,8,37,2,82.5,NULL,17:35.0
+Hepsetidae,77,Hubbs 1939,African pikes,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Hepsetidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,82.7,NULL,18:20.0
+Tarumaniidae,1172,"de Pinna, Zuanon, Rapp Py-Daniel & Petry 2017",muckfishes,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Tarumaniidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,82.9,NULL,18:32.0
+Erythrinidae,73,Valenciennes 1847,trahiras,trahiras,Actinopteri,699,Characiformes,873,Characoidei,1304,Erythrinidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,83,NULL,18:16.0
+Parodontidae,616,Eigenmann 1910,darter tetras,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Parodontidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,83.2,NULL,18:23.0
+Cynodontidae,764,Eigenmann 1903,sabertoothed characids,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Cynodontidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,83.5,NULL,18:02.0
+Serrasalmidae,620,Bleeker 1859,piranhas and allies,piranhas,Actinopteri,699,Characiformes,873,Characoidei,1304,Serrasalmidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,83.7,NULL,18:26.0
+Colossomatinae,1328,Kolmann et al. 2020,lowland pacus,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Serrasalmidae,620,Colossomatinae,620,620,51,Subfamily,NULL,8,37,2,83.7,1,24:27.0
+Myleinae,1329,Eigenmann 1903,upland pacus,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Serrasalmidae,620,Myleinae,620,620,51,Subfamily,NULL,8,37,2,83.7,2,25:40.0
+Serrasalminae,1330,Bleeker 1859,piranhas,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Serrasalmidae,620,Serrasalminae,620,620,51,Subfamily,NULL,8,37,2,83.7,3,26:28.0
+Hemiodontidae,70,Bleeker 1859,hemiodontids,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Hemiodontidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,84,NULL,18:19.0
+Anostomidae,673,GÃ¼nther 1864,toothed headstanders,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Anostomidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,84.2,NULL,17:36.0
+Chilodontidae,440,Eigenmann 1903,headstanders,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Chilodontidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,84.4,NULL,17:51.0
+Curimatidae,72,Gill 1858,toothless characiforms,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Curimatidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,85,NULL,18:01.0
+Prochilodontidae,441,Eigenmann 1909,bocachicos,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Prochilodontidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,85.5,NULL,18:24.0
+Lebiasinidae,74,Gill 1889,lebiasinids,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Lebiasinidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,87,NULL,18:22.0
+Pyrrhulininae,437,Bleeker 1859,splashing tetras and pencilfishes,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Lebiasinidae,74,Pyrrhulininae,74,74,51,Subfamily,NULL,8,37,2,87,2,18:24.0
+Lebiasininae,663,Gill 1889,lebiasinas,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Lebiasinidae,74,Lebiasininae,74,74,51,Subfamily,NULL,8,37,2,87,1,18:22.0
+Ctenoluciidae,76,Schultz 1944,pike-characids,pike-characids,Actinopteri,699,Characiformes,873,Characoidei,1304,Ctenoluciidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,89,NULL,18:00.0
+Chalceidae,1053,Fowler 1958,tucanfishes,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Chalceidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,89.2,NULL,17:41.0
+Agoniatinae,903,Bleeker 1859,agoniatines,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Triportheidae,1049,Agoniatinae,1049,1049,51,Subfamily,NULL,8,37,2,89.4,7,17:34.0
+Clupeacharacinae,904,Fowler 1958,herring characins,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Triportheidae,1049,Clupeacharacinae,1049,1049,51,Subfamily,NULL,8,37,2,89.4,8,17:56.0
+Triportheidae,1049,Fowler 1940,hatchet characins,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Triportheidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,89.4,NULL,18:34.0
+Triportheinae,1050,Fowler 1940,keeled characines,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Triportheidae,1049,Triportheinae,1049,1049,51,Subfamily,NULL,8,37,2,89.4,1,18:37.0
+Gasteropelecidae,75,Bleeker 1859,freshwater hatchetfishes,hatchetfishes;freshwater,Actinopteri,699,Characiformes,873,Characoidei,1304,Gasteropelecidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,89.6,NULL,18:18.0
+Bryconinae,906,Eigenmann 1912,NULL,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Bryconidae,1048,Bryconinae,1048,1048,51,Subfamily,NULL,8,37,2,89.8,10,17:40.0
+Salmininae,997,Cockerell 1915,dorados,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Bryconidae,1048,Salmininae,1048,1048,51,Subfamily,NULL,8,37,2,89.8,16,18:26.0
+Bryconidae,1048,Eigenmann 1912,bryconids,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Bryconidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,89.8,NULL,17:39.0
+Iguanodectidae,1052,Eigenmann 1909,iguanodectids,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Iguanodectidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,89.9,NULL,18:21.0
+Acestrorhynchidae,765,Eigenmann 1912,pike characids,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Acestrorhynchidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,90,NULL,17:32.0
+Roestinae,767,Lucena & Menezes 1998,biting tetras,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Acestrorhynchidae,765,Roestinae,765,765,51,Subfamily,NULL,8,37,2,90,2,18:25.0
+Heterocharacinae,999,GÃ©ry 1966,NULL,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Acestrorhynchidae,765,Heterocharacinae,765,765,51,Subfamily,NULL,8,37,2,90,18,18:20.0
+Acestrorhynchinae,1051,Eigenmann 1912,freshwater barracudas,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Acestrorhynchidae,765,Acestrorhynchinae,765,765,51,Subfamily,NULL,8,37,2,90,1,17:33.0
+Characidae,78,Latreille 1825,characins,characins,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,NULL,NULL,1304,1304,50,Family,NULL,8,37,2,91,NULL,17:42.0
+Stethaprioninae,704,Eigenmann 1907,American tetras,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Stethaprioninae,78,78,51,Subfamily,NULL,8,37,2,91,1,18:28.0
+Aphyocharacinae,907,Eigenmann 1909,glass characins,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Aphyocharacinae,78,78,51,Subfamily,NULL,8,37,2,91,14,17:37.0
+Characinae,908,Latreille 1825,characines,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Characinae,78,78,51,Subfamily,NULL,8,37,2,91,12,17:47.0
+Tetragonopterinae,909,Gill 1858,NULL,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Tetragonopterinae,78,78,51,Subfamily,NULL,8,37,2,91,11,18:33.0
+Cheirodontinae,911,Eigenmann 1915,cheirodontines,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Cheirodontinae,78,78,51,Subfamily,NULL,8,37,2,91,15,17:50.0
+Aphyoditeinae,1007,GÃ©ry 1972,NULL,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Aphyoditeinae,78,78,51,Subfamily,NULL,8,37,2,91,8,17:38.0
+Stevardiinae,1008,Gill 1858,NULL,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Stevardiinae,78,78,51,Subfamily,NULL,8,37,2,91,16,18:28.0
+Characids incertae sedis,1137,NULL,NULL,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Characids incertae sedis,78,78,51,Subfamily,NULL,8,37,2,91,7,17:46.0
+Spintherobolinae,1262,Mirande 2018,piquiras,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Spintherobolinae,78,78,51,Subfamily,NULL,8,37,2,91,9,18:27.0
+Exodontinae,1263,Fowler 1958,toothy characins,NULL,Actinopteri,699,Characiformes,873,Characoidei,1304,Characidae,78,Exodontinae,78,78,51,Subfamily,NULL,8,37,2,91,10,18:17.0
+Diplomystidae,79,Eigenmann 1890,diplomystid catfishes,catfishes;diplomystid,Actinopteri,699,Siluriformes,543,Diplomystoidei,1302,Diplomystidae,NULL,NULL,1302,1302,50,Family,NULL,8,38,3,92,NULL,07:36.0
+Cetopsidae,103,Bleeker 1858,cetopsid catfishes,catfishes;whalelike,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Cetopsidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,92.1,NULL,00:51.0
+Cetopsinae,912,Bleeker 1858,whalelike catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Cetopsidae,103,Cetopsinae,103,103,51,Subfamily,NULL,8,38,4,92.1,1,00:52.0
+Helogeninae,913,Regan 1911,marbled catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Cetopsidae,103,Helogeninae,103,103,51,Subfamily,NULL,8,38,4,92.1,2,01:26.0
+Chacidae,92,Bleeker 1858,squarehead or angler catfishes,catfishes;squarehead/catfishes;angler,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Chacidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,93,NULL,00:54.0
+Plotosidae,96,Bleeker 1858,eeltail catfishes,catfishes;eeltail,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Plotosidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,93.2,NULL,02:23.0
+Ailiidae,1119,Bleeker 1858,Asian schilbeids,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Ailiidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,93.4,NULL,55:48.0
+Horabagridae,1086,Jayaram 2006,imperial catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Horabagridae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,93.5,NULL,01:31.0
+Bagridae,81,Bleeker 1858,bagrid catfishes,catfishes;bagrid,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Bagridae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,94,NULL,00:36.0
+Akysidae,88,Gill 1861,stream catfishes,catfishes;stream,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Akysidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,95,NULL,56:02.0
+Akysinae,1130,Gill 1861,wasp catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Akysidae,88,Akysinae,88,88,51,Subfamily,NULL,8,38,4,95,1,57:48.0
+Parakysinae,1131,Roberts 1989,warty catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Akysidae,88,Parakysinae,88,88,51,Subfamily,NULL,8,38,4,95,2,02:20.0
+Amblycipitidae,86,Day 1873,torrent catfishes,catfishes;torrent,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Amblycipitidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,96,NULL,58:00.0
+Sisoridae,89,Bleeker 1858,sisorid catfishes,catfishes;sisorid,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Sisoridae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,97,NULL,58:42.0
+Sisorinae,957,Bleeker 1858,NULL,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Sisoridae,89,Sisorinae,89,89,51,Subfamily,NULL,8,38,4,97,1,57:34.0
+Glyptosterninae,958,Gill 1861,Asian sucker catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Sisoridae,89,Glyptosterninae,89,89,51,Subfamily,NULL,8,38,4,97,2,01:22.0
+Pangasiidae,85,Bleeker 1858,pangasid catfishes,catfishes;pangasid,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Pangasiidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,98,NULL,02:19.0
+Siluridae,83,Rafinesque 1815,sheatfishes,sheatfishes,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Siluridae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,99,NULL,58:31.0
+Kryptoglanidae,1089,"Britz, Kakkassery & Raghavan 2014",Indian cave catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Kryptoglanidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,100,NULL,01:39.0
+Aspredinidae,105,Adams 1854,banjo catfishes,catfishes;banjo,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Aspredinidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,101,NULL,00:20.0
+Pseudobunocephalinae,1233,"Carvalho, Arce H., Reis & Sabaj 2018",terminal-mouth banjo catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Aspredinidae,105,Pseudobunocephalinae,105,105,51,Subfamily,NULL,8,38,4,101,1,02:23.0
+Aspredininae,1234,Adams 1854,banjo cats,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Aspredinidae,105,Aspredininae,105,105,51,Subfamily,NULL,8,38,4,101,3,00:22.0
+Hoplomyzontinae,1235,FernÃ¡ndez-YÃ©pez 1950,small banjo catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Aspredinidae,105,Hoplomyzontinae,105,105,51,Subfamily,NULL,8,38,4,101,2,01:30.0
+Auchenipteridae,99,Bleeker 1862,intromittant catfishes,catfishes;auchenipterid,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Auchenipteridae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,102,NULL,00:30.0
+Centromochlinae,931,Bleeker 1862,dimorphic intromittant catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Auchenipteridae,99,Centromochlinae,99,99,51,Subfamily,NULL,8,38,4,102,1,00:41.0
+Auchenipterinae,932,Bleeker 1862,driftwood catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Auchenipteridae,99,Auchenipterinae,99,99,51,Subfamily,NULL,8,38,4,102,2,00:32.0
+Doradidae,98,Bleeker 1858,thorny catfishes,catfishes;thorny,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Doradidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,103,NULL,01:15.0
+Wertheimerinae,1092,Birindelli 2014,Eastern Brazil thorny cats,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Doradidae,98,Wertheimerinae,98,98,51,Subfamily,NULL,8,38,4,103,1,56:16.0
+Astrodoradinae,1093,"Higuchi, Birindelli, Sousa & Britski 2007",spotted thorny cats,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Doradidae,98,Astrodoradinae,98,98,51,Subfamily,NULL,8,38,4,103,2,00:28.0
+Doradinae,1094,Bleeker 1858,fimbriate-barbel thorny cats,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Doradidae,98,Doradinae,98,98,51,Subfamily,NULL,8,38,4,103,3,01:16.0
+Heptapteridae,925,Gill 1861,three-barbeled catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Heptapteridae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,104,NULL,01:27.0
+Phreatobiidae,1118,Reichel 1927,cistern catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Phreatobiidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,105,NULL,02:21.0
+Pimelodidae,100,Bonaparte 1835,long-whiskered catfishes,catfishes;long-whiskered,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Pimelodidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,106,NULL,02:22.0
+Pseudopimelodidae,923,FernÃ¡ndez-YÃ©pez & AntÃ³n 1966,bumblebee catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Pseudopimelodidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,107,NULL,02:25.0
+Clariidae,90,Bonaparte 1845,airbreathing or labyrinth catfishes,catfishes;airbreathing/catfishes;labyrinth,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Clariidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,107.5,NULL,00:58.0
+Heteropneustidae,91,Hora 1936,airsac catfishes,catfishes;airsac,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Heteropneustidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,107.6,NULL,01:28.0
+Ariidae,95,Bleeker 1858,sea catfishes,catfishes;sea,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Ariidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,108,NULL,00:13.0
+Galeichthyinae,1065,Acero & Betancur-R. 2007,NULL,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Ariidae,95,Galeichthyinae,95,95,51,Subfamily,NULL,8,38,4,108,1,01:18.0
+Ariinae,1066,Bleeker 1858,NULL,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Ariidae,95,Ariinae,95,95,51,Subfamily,NULL,8,38,4,108,2,00:16.0
+Bagreinae,1069,Schultz 1944,NULL,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Ariidae,95,Bagreinae,95,95,51,Subfamily,NULL,8,38,4,108,3,00:35.0
+Anchariidae,951,Glaw & Vences 1994,Malagasy catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Anchariidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,108.5,NULL,00:02.0
+Austroglanididae,950,Mo 1991,rock catlets,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Austroglanididae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,109,NULL,00:34.0
+Cranoglanididae,82,Myers 1931,armorhead catfishes,catfishes;armorhead,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Cranoglanididae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,111,NULL,01:05.0
+Ictaluridae,80,Gill 1861,North American freshwater catfishes,catfishes;North American freshwater,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Ictaluridae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,112,NULL,01:38.0
+Lacantuniidae,943,"Rodiles-HernÃ¡ndez, Hendrickson & Lundberg 2005",Chiapas catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Lacantuniidae,NULL,NULL,1301,1301,50,Family,"in Rodiles-HernÃ¡ndez, Hendrickson, Lundberg & Humphries",8,38,4,114,NULL,01:41.0
+Amphiliidae,87,Regan 1911,loach catfishes,catfishes;loach,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Amphiliidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,114.5,NULL,58:14.0
+Amphiliinae,898,Regan 1911,amphiliin catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Amphiliidae,87,Amphiliinae,87,87,51,Subfamily,NULL,8,38,4,114.5,1,59:34.0
+Leptoglaninae,899,Roberts 2003,sand catlets,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Amphiliidae,87,Leptoglaninae,87,87,51,Subfamily,NULL,8,38,4,114.5,2,01:43.0
+Doumeinae,900,Regan 1911,doumein catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Amphiliidae,87,Doumeinae,87,87,51,Subfamily,NULL,8,38,4,114.5,3,01:17.0
+Malapteruridae,94,Bleeker 1858,electric catfishes,catfishes;electric,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Malapteruridae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,115,NULL,02:10.0
+Mochokidae,97,Regan 1912,squeakers and upside-down catfishes,squeakers/catfishes;unside-down,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Mochokidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,115.5,NULL,02:11.0
+Chiloglanidinae,1037,Vigliotta 2008,African suckermouths,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Mochokidae,97,Chiloglanidinae,97,97,51,Subfamily,NULL,8,38,4,115.5,1,00:57.0
+Mochokinae,1043,Regan 1912,squeakers,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Mochokidae,97,Mochokinae,97,97,51,Subfamily,NULL,8,38,4,115.5,2,02:15.0
+Claroteidae,972,Bleeker 1862,claroteid catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Claroteidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,116,NULL,00:59.0
+Claroteinae,1080,Bleeker 1862,grunters,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Claroteidae,972,Claroteinae,972,972,51,Subfamily,NULL,8,38,4,116,1,00:59.0
+Auchenoglanidinae,1081,Jayaram 1966,flatnose catfishes,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Claroteidae,972,Auchenoglanidinae,972,972,51,Subfamily,NULL,8,38,4,116,2,00:33.0
+Schilbeidae,84,Bleeker 1858,schilbeid catfishes,catfishes;scheilbeid,Actinopteri,699,Siluriformes,543,Siluroidei,1301,Schilbeidae,NULL,NULL,1301,1301,50,Family,NULL,8,38,4,117,NULL,02:39.0
+Nematogenyidae,914,Bleeker 1862,mountain catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Nematogenyidae,NULL,NULL,1303,1303,50,Family,NULL,8,38,2,118,NULL,04:49.0
+Trichomycteridae,106,Bleeker 1858,parasitic catfishes and candirus,catfishes;parasitic/candirus,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,NULL,NULL,1303,1303,50,Family,NULL,8,38,2,119,NULL,57:00.0
+Sarcoglanidinae,1023,Myers & Weitzman 1966,psammophilic catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Sarcoglanidinae,106,106,51,Subfamily,NULL,8,38,2,119,6,41:44.0
+Trichomycterinae,1025,Bleeker 1858,pencil catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Trichomycterinae,106,106,51,Subfamily,NULL,8,38,2,119,3,49:40.0
+Copionodontinae,1026,de Pinna 1992,NULL,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Copionodontinae,106,106,51,Subfamily,NULL,8,38,2,119,1,47:40.0
+Trichogeninae,1027,IsbrÃ¼cker 1986,NULL,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Trichogeninae,106,106,51,Subfamily,NULL,8,38,2,119,2,49:21.0
+Vandelliinae,1028,Bleeker 1862,hematophagous catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Vandelliinae,106,106,51,Subfamily,NULL,8,38,2,119,9,42:47.0
+Stegophilinae,1029,GÃ¼nther 1864,parasitic catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Stegophilinae,106,106,51,Subfamily,NULL,8,38,2,119,8,45:08.0
+Tridentinae,1030,Eigenmann 1918,NULL,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Tridentinae,106,106,51,Subfamily,NULL,8,38,2,119,7,56:37.0
+Glanapteryginae,1031,Myers 1944,miniature pencil catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Glanapteryginae,106,106,51,Subfamily,NULL,8,38,2,119,5,42:01.0
+Microcambevinae,1317,"Costa, Henschel & Katz 2020",Atlantic Forest trichomycterids,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Trichomycteridae,106,Microcambevinae,106,106,51,Subfamily,Ref. 37235.,8,38,2,119,4,51:27.0
+Callichthyidae,107,Bonaparte 1835,callichthyid armored catfishes,catfishes;callichthyid armored,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Callichthyidae,NULL,NULL,1303,1303,50,Family,NULL,8,38,2,120,NULL,00:38.0
+Callichthyinae,915,Bonaparte 1835,NULL,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Callichthyidae,107,Callichthyinae,107,107,51,Subfamily,NULL,8,38,2,120,1,00:39.0
+Corydoradinae,916,Hoedeman 1952,corys,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Callichthyidae,107,Corydoradinae,107,107,51,Subfamily,NULL,8,38,2,120,2,01:03.0
+Loricariidae,108,Rafinesque 1815,suckermouth armored catfishes,catfishes;suckermouth armored,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Loricariidae,NULL,NULL,1303,1303,50,Family,NULL,8,38,2,121,NULL,01:46.0
+Lithogeninae,917,Gosline 1947,climbing armored catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Loricariidae,108,Lithogeninae,108,108,51,Subfamily,Lithogeninae regarded as correct over Lithogeneinae.,8,38,2,121,1,01:45.0
+Hypoptopomatinae,919,Eigenmann & Eigenmann 1890,cascudinhos,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Loricariidae,108,Hypoptopomatinae,108,108,51,Subfamily,NULL,8,38,2,121,5,01:35.0
+Loricariinae,920,Rafinesque 1815,mailed catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Loricariidae,108,Loricariinae,108,108,51,Subfamily,NULL,8,38,2,121,4,02:04.0
+Hypostominae,921,Kner 1853,suckermouth catfishes,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Loricariidae,108,Hypostominae,108,108,51,Subfamily,NULL,8,38,2,121,8,01:36.0
+Delturinae,954,"Reis, Pereira & Armbruster 2006",NULL,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Loricariidae,108,Delturinae,108,108,51,Subfamily,NULL,8,38,2,121,2,01:07.0
+Rhinelepinae,1114,Armbruster 2004,rhinelepine plecos,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Loricariidae,108,Rhinelepinae,108,108,51,Subfamily,NULL,8,38,2,121,3,02:26.0
+Scoloplacidae,680,Bailey & Baskin 1976,spiny dwarf catfishes,catfishes;spiny dwarf,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Scoloplacidae,NULL,NULL,1303,1303,50,Family,NULL,8,38,2,121.5,NULL,58:59.0
+Astroblepidae,109,Bleeker 1862,climbing catfishes,catfishes;climbing,Actinopteri,699,Siluriformes,543,Loricarioidei,1303,Astroblepidae,NULL,NULL,1303,1303,50,Family,NULL,8,38,2,122,NULL,00:25.0
+Apteronotidae,113,Jordan 1923,ghost knifefishes,knifefishes;ghost,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Apteronotidae,NULL,NULL,544,544,50,Family,NULL,8,37.5,NULL,127,NULL,03:06.0
+Apteronotinae,1289,Jordan 1923,ghost knifefishes,NULL,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Apteronotidae,113,Apteronotinae,113,113,51,Subfamily,NULL,8,37.5,NULL,127,2,43:46.0
+Sternarchorhamphinae,1290,Albert 2001,longsnout knifefishes,NULL,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Apteronotidae,113,Sternarchorhamphinae,113,113,51,Subfamily,NULL,8,37.5,NULL,127,1,45:07.0
+Sternopygidae,110,Cope 1871,glass knifefishes,knifefishes;glass,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Sternopygidae,NULL,NULL,544,544,50,Family,NULL,8,37.5,NULL,127.2,NULL,23:43.0
+Gymnotidae,114,Rafinesque 1815,gymnotid eels,knifefishes;nakedback,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Gymnotidae,NULL,NULL,544,544,50,Family,NULL,8,37.5,NULL,127.4,NULL,07:47.0
+Gymnotinae,1313,Rafinesque 1815,nakedback knifefishes,NULL,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Gymnotidae,114,Gymnotinae,114,114,51,Subfamily,NULL,8,37.5,NULL,127.4,2,07:19.0
+Electrophorinae,1314,Gill 1872,electric eels,NULL,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Gymnotidae,114,Electrophorinae,114,114,51,Subfamily,NULL,8,37.5,NULL,127.4,1,09:00.0
+Hypopomidae,112,Eigenmann 1912,bluntnose knifefishes,NULL,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Hypopomidae,NULL,NULL,544,544,50,Family,NULL,8,37.5,NULL,127.6,NULL,22:53.0
+Rhamphichthyidae,111,Regan 1911,painted knifefishes,knifefishes;sand,Actinopteri,699,Gymnotiformes,544,NULL,NULL,Rhamphichthyidae,NULL,NULL,544,544,50,Family,NULL,8,37.5,NULL,127.8,NULL,23:12.0
+Esocidae,116,Rafinesque 1815,pikes,pikes,Actinopteri,699,Esociformes,583,NULL,NULL,Esocidae,NULL,NULL,583,583,50,Family,NULL,8,39.1,NULL,129,NULL,12:38.0
+Umbridae,117,Bonaparte 1845,mudminnows,mudminnows,Actinopteri,699,Esociformes,583,NULL,NULL,Umbridae,NULL,NULL,583,583,50,Family,NULL,8,39.1,NULL,130,NULL,12:59.0
+Argentinidae,118,Bonaparte 1846,argentines,argentines,Actinopteri,699,Argentiniformes,1284,NULL,NULL,Argentinidae,NULL,NULL,1284,1284,50,Family,NULL,8,38.4,NULL,131,NULL,38:56.0
+Microstomatidae,442,Bleeker 1859,pencilsmelts,NULL,Actinopteri,699,Argentiniformes,1284,NULL,NULL,Microstomatidae,NULL,NULL,1284,1284,50,Family,NULL,8,38.4,NULL,131.5,NULL,40:03.0
+Bathylagidae,119,Gill 1884,deepsea smelts,smelts;deepsea,Actinopteri,699,Argentiniformes,1284,NULL,NULL,Bathylagidae,NULL,NULL,1284,1284,50,Family,NULL,8,38.4,NULL,132,NULL,39:15.0
+Opisthoproctidae,120,Schmidt 1918,spookfishes or barreleyes,barreleyes/spookfishes,Actinopteri,699,Argentiniformes,1284,NULL,NULL,Opisthoproctidae,NULL,NULL,1284,1284,50,Family,NULL,8,38.4,NULL,133,NULL,40:14.0
+Alepocephalidae,121,Bonaparte 1846,slickheads,slickheads,Actinopteri,699,Alepocephaliformes,1273,NULL,NULL,Alepocephalidae,NULL,NULL,1273,1273,50,Family,NULL,8,34.5,NULL,134,NULL,25:12.0
+Platytroctidae,661,Koefoed 1927,tubeshoulders,tubeshoulders,Actinopteri,699,Alepocephaliformes,1273,NULL,NULL,Platytroctidae,NULL,NULL,1273,1273,50,Family,NULL,8,34.5,NULL,135,NULL,25:33.0
+Lepidogalaxiidae,122,Rosen 1974,salamanderfishes,NULL,Actinopteri,699,Lepidogalaxiiformes,1283,NULL,NULL,Lepidogalaxiidae,NULL,NULL,1283,1283,50,Family,NULL,8,38.2,NULL,136,NULL,39:49.0
+Osmeridae,123,Regan 1913,smelts,smelts,Actinopteri,699,Osmeriformes,545,NULL,NULL,Osmeridae,NULL,NULL,545,545,50,Family,NULL,8,40,NULL,137,NULL,15:09.0
+Plecoglossidae,124,Bleeker 1859,ayu fishes,ayu fishes,Actinopteri,699,Osmeriformes,545,NULL,NULL,Plecoglossidae,NULL,NULL,545,545,50,Family,NULL,8,40,NULL,138,NULL,15:29.0
+Salangidae,125,Bleeker 1859,icefishes or noodlefishes,noodlefishes/icefishes,Actinopteri,699,Osmeriformes,545,NULL,NULL,Salangidae,NULL,NULL,545,545,50,Family,NULL,8,40,NULL,139,NULL,15:58.0
+Retropinnidae,127,Gill 1862,New Zealand smelts,smelts;New Zealand,Actinopteri,699,Osmeriformes,545,NULL,NULL,Retropinnidae,NULL,NULL,545,545,50,Family,NULL,8,40,NULL,141,NULL,15:42.0
+Retropinninae,443,Gill 1862,southern smelts,smelts;southern,Actinopteri,699,Osmeriformes,545,NULL,NULL,Retropinnidae,127,Retropinninae,127,127,51,Subfamily,NULL,8,40,NULL,141,1,15:47.0
+Prototroctinae,444,Hubbs 1952,southern graylings,graylings;southern,Actinopteri,699,Osmeriformes,545,NULL,NULL,Retropinnidae,127,Prototroctinae,127,127,51,Subfamily,NULL,8,40,NULL,141,2,15:36.0
+Galaxiidae,128,MÃ¼ller 1845,galaxiids,galaxiids,Actinopteri,699,Galaxiiformes,1285,NULL,NULL,Galaxiidae,NULL,NULL,1285,1285,50,Family,NULL,8,38.6,NULL,142,NULL,39:26.0
+Aplochitoninae,445,GÃ¼nther 1864,peladillas,NULL,Actinopteri,699,Galaxiiformes,1285,NULL,NULL,Galaxiidae,128,Aplochitoninae,128,128,51,Subfamily,NULL,8,38.6,NULL,142,1,38:35.0
+Galaxiinae,446,MÃ¼ller 1845,white bait and mudfishes,NULL,Actinopteri,699,Galaxiiformes,1285,NULL,NULL,Galaxiidae,128,Galaxiinae,128,128,51,Subfamily,NULL,8,38.6,NULL,142,2,39:36.0
+Salmonidae,129,Jarocki / Schinz 1822,salmonids,salmonids,Actinopteri,699,Salmoniformes,756,NULL,NULL,Salmonidae,NULL,NULL,756,756,50,Family,NULL,8,39.5,NULL,143,NULL,33:05.0
+Coregoninae,447,Bonaparte 1845,whitefishes,whitefishes,Actinopteri,699,Salmoniformes,756,NULL,NULL,Salmonidae,129,Coregoninae,129,129,51,Subfamily,NULL,8,39.5,NULL,143,1,34:39.0
+Thymallinae,448,Gill 1885,graylings,graylings,Actinopteri,699,Salmoniformes,756,NULL,NULL,Salmonidae,129,Thymallinae,129,129,51,Subfamily,NULL,8,39.5,NULL,143,2,33:34.0
+Salmoninae,449,Jarocki / Schinz 1822,"salmons, trouts, chars and allies",trouts/chars/salmons,Actinopteri,699,Salmoniformes,756,NULL,NULL,Salmonidae,129,Salmoninae,129,129,51,Subfamily,NULL,8,39.5,NULL,143,3,33:19.0
+Gonostomatidae,130,Cocco 1838,bristlemouths,bristlemouths,Actinopteri,699,Stomiiformes,743,NULL,NULL,Gonostomatidae,NULL,NULL,743,743,50,Family,NULL,8,41,NULL,144,NULL,18:24.0
+Sternoptychidae,131,DumÃ©ril 1805,marine hatchetfishes,NULL,Actinopteri,699,Stomiiformes,743,NULL,NULL,Sternoptychidae,NULL,NULL,743,743,50,Family,NULL,8,41,NULL,145,NULL,58:52.0
+Maurolicinae,450,Gill 1885,NULL,NULL,Actinopteri,699,Stomiiformes,743,NULL,NULL,Sternoptychidae,131,Maurolicinae,131,131,51,Subfamily,NULL,8,41,NULL,145,1,19:47.0
+Sternoptychinae,451,DumÃ©ril 1805,marine hatchetfishes,hatchetfishes;marine,Actinopteri,699,Stomiiformes,743,NULL,NULL,Sternoptychidae,131,Sternoptychinae,131,131,51,Subfamily,NULL,8,41,NULL,145,2,19:32.0
+Phosichthyidae,132,Weitzman 1974,lightfishes,lightfishes,Actinopteri,699,Stomiiformes,743,NULL,NULL,Phosichthyidae,NULL,NULL,743,743,50,Family,NULL,8,41,NULL,146,NULL,19:10.0
+Chauliodontinae,133,Bonaparte 1845,viperfishes,viperfishes,Actinopteri,699,Stomiiformes,743,NULL,NULL,Stomiidae,730,Chauliodontinae,730,730,51,Subfamily,NULL,8,41,NULL,147,1,18:16.0
+Stomiinae,134,Bleeker 1859,scaly dragonfishes,dragonfishes;scaly,Actinopteri,699,Stomiiformes,743,NULL,NULL,Stomiidae,730,Stomiinae,730,730,51,Subfamily,NULL,8,41,NULL,147,2,01:28.0
+Astronesthinae,135,GÃ¼nther 1864,snaggletooths,snaggletooths,Actinopteri,699,Stomiiformes,743,NULL,NULL,Stomiidae,730,Astronesthinae,730,730,51,Subfamily,NULL,8,41,NULL,147,3,18:01.0
+Melanostomiinae,136,Parr 1927,scaleless black dragonfishes,dragonfishes;black scaleless,Actinopteri,699,Stomiiformes,743,NULL,NULL,Stomiidae,730,Melanostomiinae,730,730,51,Subfamily,NULL,8,41,NULL,147,4,18:52.0
+Malacosteinae,137,Gill 1890,loosejaws,loosejaws,Actinopteri,699,Stomiiformes,743,NULL,NULL,Stomiidae,730,Malacosteinae,730,730,51,Subfamily,NULL,8,41,NULL,147,5,18:44.0
+Idiacanthinae,138,Gill 1893,black dragonfishes,dragonfishes;black,Actinopteri,699,Stomiiformes,743,NULL,NULL,Stomiidae,730,Idiacanthinae,730,730,51,Subfamily,NULL,8,41,NULL,147,6,18:36.0
+Stomiidae,730,Bleeker 1859,dragonfishes,NULL,Actinopteri,699,Stomiiformes,743,NULL,NULL,Stomiidae,NULL,NULL,743,743,50,Family,NULL,8,41,NULL,147,NULL,01:35.0
+Ateleopodidae,206,Bonaparte 1850,jellynose fishes,fishes;jellynose,Actinopteri,699,Ateleopodiformes,585,NULL,NULL,Ateleopodidae,NULL,NULL,585,585,50,Family,NULL,8,41.5,NULL,152.5,NULL,55:44.0
+Aulopidae,139,Bonaparte 1831,aulopus,aulopus,Actinopteri,699,Aulopiformes,546,NULL,NULL,Aulopidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,153,NULL,57:23.0
+Chlorophthalmidae,140,Garman 1899,greeneyes,greeneyes,Actinopteri,699,Aulopiformes,546,NULL,NULL,Chlorophthalmidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,154,NULL,58:03.0
+Paraulopidae,779,Sato & Nakabo 2002,cucumber fishes,NULL,Actinopteri,699,Aulopiformes,546,NULL,NULL,Paraulopidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,154.1,NULL,34:30.0
+Ipnopidae,452,Gill 1884,deepsea tripod fishes,NULL,Actinopteri,699,Aulopiformes,546,NULL,NULL,Ipnopidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,154.5,NULL,36:11.0
+Bathysauroididae,780,Sato & Nakabo 2002,largescale deepsea lizardfishes,NULL,Actinopteri,699,Aulopiformes,546,NULL,NULL,Bathysauroididae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,154.6,NULL,04:49.0
+Scopelarchidae,141,Alcock 1896,pearleyes,pearleyes,Actinopteri,699,Aulopiformes,546,NULL,NULL,Scopelarchidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,155,NULL,00:21.0
+Notosudidae,142,Parr 1928,paperbones or waryfishes,waryfishes/paperbones,Actinopteri,699,Aulopiformes,546,NULL,NULL,Notosudidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,156,NULL,59:06.0
+Giganturidae,144,Brauer 1906,telescopefishes,telescopefishes,Actinopteri,699,Aulopiformes,546,NULL,NULL,Giganturidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,156.5,NULL,58:33.0
+Synodontidae,143,Gill 1861,lizardfishes,NULL,Actinopteri,699,Aulopiformes,546,NULL,NULL,Synodontidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,157,NULL,02:29.0
+Synodontinae,453,Gill 1861,lizardfishes,lizardfishes,Actinopteri,699,Aulopiformes,546,NULL,NULL,Synodontidae,143,Synodontinae,143,143,51,Subfamily,NULL,8,42,NULL,157,1,00:34.0
+Harpadontinae,621,Bleeker 1875,Bombay ducks,ducks;Bombay,Actinopteri,699,Aulopiformes,546,NULL,NULL,Synodontidae,143,Harpadontinae,143,143,51,Subfamily,NULL,8,42,NULL,157,2,58:43.0
+Bathysauridae,454,Fowler 1944,deepsea lizardsfishes,NULL,Actinopteri,699,Aulopiformes,546,NULL,NULL,Bathysauridae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,157.5,NULL,03:56.0
+Paralepididae,145,Bonaparte 1835,barracudinas,barracudinas,Actinopteri,699,Aulopiformes,546,NULL,NULL,Paralepididae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,159,NULL,59:22.0
+Anotopteridae,649,Zugmayer 1911,daggertooths,daggertooths,Actinopteri,699,Aulopiformes,546,NULL,NULL,Anotopteridae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,159.2,NULL,56:39.0
+Evermannellidae,146,Fowler 1901,sabertooth fishes,sabertooth fishes,Actinopteri,699,Aulopiformes,546,NULL,NULL,Evermannellidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,161,NULL,58:23.0
+Omosudidae,147,Regan 1911,omosudids,omosudids,Actinopteri,699,Aulopiformes,546,NULL,NULL,Omosudidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,162,NULL,59:14.0
+Alepisauridae,148,Swainson 1839,lancetfishes,lancetfishes,Actinopteri,699,Aulopiformes,546,NULL,NULL,Alepisauridae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,163,NULL,35:27.0
+Pseudotrichonotidae,149,Yoshino & Araga 1975,sand-diving lizardfishes,NULL,Actinopteri,699,Aulopiformes,546,NULL,NULL,Pseudotrichonotidae,NULL,NULL,546,546,50,Family,NULL,8,42,NULL,164,NULL,50:23.0
+Neoscopelidae,150,Jordan 1901,blackchins,blackchins,Actinopteri,699,Myctophiformes,552,NULL,NULL,Neoscopelidae,NULL,NULL,552,552,50,Family,NULL,8,43,NULL,165,NULL,01:14.0
+Myctophidae,151,Gill 1893,lanternfishes,lanternfishes,Actinopteri,699,Myctophiformes,552,NULL,NULL,Myctophidae,NULL,NULL,552,552,50,Family,NULL,8,43,NULL,166,NULL,00:56.0
+Gymnoscopelinae,1196,Paxton 1972,luminous lanternfishes,NULL,Actinopteri,699,Myctophiformes,552,NULL,NULL,Myctophidae,151,Gymnoscopelinae,151,151,51,Subfamily,NULL,8,43,NULL,166,1,04:56.0
+Notolychninae,1197,Paxton 1972,topside lanternfishes,NULL,Actinopteri,699,Myctophiformes,552,NULL,NULL,Myctophidae,151,Notolychninae,151,151,51,Subfamily,NULL,8,43,NULL,166,2,08:08.0
+Lampanyctinae,1198,Paxton 1972,toothy lampfishes,NULL,Actinopteri,699,Myctophiformes,552,NULL,NULL,Myctophidae,151,Lampanyctinae,151,151,51,Subfamily,NULL,8,43,NULL,166,3,13:31.0
+Diaphinae,1199,Paxton 1972,headlightfishes,NULL,Actinopteri,699,Myctophiformes,552,NULL,NULL,Myctophidae,151,Diaphinae,151,151,51,Subfamily,NULL,8,43,NULL,166,4,16:40.0
+Myctophinae,1200,Gill 1893,lanternfishes,NULL,Actinopteri,699,Myctophiformes,552,NULL,NULL,Myctophidae,151,Myctophinae,151,151,51,Subfamily,NULL,8,43,NULL,166,5,20:26.0
+Percopsidae,152,Agassiz 1850,trout-perches,trout-perches,Actinopteri,699,Percopsiformes,548,NULL,NULL,Percopsidae,NULL,NULL,548,548,50,Family,NULL,8,45,NULL,167,NULL,13:02.0
+Aphredoderidae,153,Bonaparte 1845,pirate perches,perches;pirate,Actinopteri,699,Percopsiformes,548,NULL,NULL,Aphredoderidae,NULL,NULL,548,548,50,Family,NULL,8,45,NULL,168,NULL,03:57.0
+Amblyopsidae,154,Bonaparte 1845,cavefishes,cavefishes,Actinopteri,699,Percopsiformes,548,NULL,NULL,Amblyopsidae,NULL,NULL,548,548,50,Family,NULL,8,45,NULL,169,NULL,03:41.0
+Bregmacerotidae,158,Gill 1872,codlets,codlets,Actinopteri,699,Gadiformes,549,Bregmacerotoidei,1332,Bregmacerotidae,NULL,NULL,1332,1332,50,Family,NULL,8,46,1,170.5,NULL,23:29.0
+Phycidae,684,Swainson 1838,phycid hakes,hakes;phycid,Actinopteri,699,Gadiformes,549,Gadoidei,1333,Phycidae,NULL,NULL,1333,1333,50,Family,NULL,8,46,2,174.1,NULL,39:09.0
+Gaidropsaridae,1337,Jordan & Evermann 1898,rocklings,NULL,Actinopteri,699,Gadiformes,549,Gadoidei,1333,Gaidropsaridae,NULL,NULL,1333,1333,50,Family,NULL,8,46,2,174.4,NULL,42:26.0
+Lotidae,456,Bonaparte 1835,hakes and burbots,hakes/burbots,Actinopteri,699,Gadiformes,549,Gadoidei,1333,Lotidae,NULL,NULL,1333,1333,50,Family,NULL,8,46,2,174.6,NULL,38:27.0
+Gadidae,455,Rafinesque 1810,cods and haddocks,cods/haddocks,Actinopteri,699,Gadiformes,549,Gadoidei,1333,Gadidae,NULL,NULL,1333,1333,50,Family,NULL,8,46,2,174.8,NULL,38:44.0
+Merlucciidae,159,Rafinesque 1815,merluccid hakes,hakes;merluccid,Actinopteri,699,Gadiformes,549,Merluccioidei,1335,Merlucciidae,NULL,NULL,1335,1335,50,Family,NULL,8,46,4,175,NULL,27:59.0
+Ranicipitidae,1338,Bonaparte 1835,tadpole fishes,NULL,Actinopteri,699,Gadiformes,549,Ranicipitoidei,1334,Ranicipitidae,NULL,NULL,1334,1334,50,Family,NULL,8,46,3,175.1,NULL,47:03.0
+Euclichthyidae,683,Cohen 1984,Eucla cods,cods;eucla,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Euclichthyidae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,176,NULL,55:35.0
+Muraenolepididae,155,Regan 1903,eel cods,"cods, eel",Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Muraenolepididae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,176.5,NULL,55:58.0
+Melanonidae,157,Goode & Bean 1896,pelagic cods,cods;pelagic,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Melanonidae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,177,NULL,56:20.0
+Ophidiidae,161,Rafinesque 1810,cuskeels,cuskeels,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Ophidiidae,NULL,NULL,550,550,50,Family,NULL,8,47,NULL,177,NULL,10:09.0
+Brotulinae,459,Swainson 1838,bearded cusk-eels,NULL,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Ophidiidae,161,Brotulinae,161,161,51,Subfamily,NULL,8,47,NULL,177,1,34:19.0
+Brotulotaeniinae,460,Cohen & Nielsen 1978,prickle cusk-eels,NULL,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Ophidiidae,161,Brotulotaeniinae,161,161,51,Subfamily,NULL,8,47,NULL,177,2,35:23.0
+Ophidiinae,461,Rafinesque 1810,NULL,NULL,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Ophidiidae,161,Ophidiinae,161,161,51,Subfamily,NULL,8,47,NULL,177,3,10:16.0
+Neobythitinae,462,Radcliffe 1913,NULL,NULL,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Ophidiidae,161,Neobythitinae,161,161,51,Subfamily,NULL,8,47,NULL,177,4,09:56.0
+Trachyrincidae,1341,Goode & Bean 1896,armoured grenadiers,NULL,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Trachyrincidae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,177.5,NULL,56:37.0
+Moridae,156,Moreau 1881,deepsea cods or moras,cods;deepsea,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Moridae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,178,NULL,56:50.0
+Carapidae,162,Poey 1867,pearlfishes,NULL,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Carapidae,NULL,NULL,550,550,50,Family,NULL,8,47,NULL,178,NULL,08:41.0
+Carapinae,463,Poey 1867,fierasfers,pearlfishes,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Carapidae,162,Carapinae,162,162,51,Subfamily,NULL,8,47,NULL,178,1,09:01.0
+Pyramodontinae,464,Smith 1955,pyramodontines,pyramodontines,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Carapidae,162,Pyramodontinae,162,162,51,Subfamily,NULL,8,47,NULL,178,2,10:32.0
+Tetragondacninae,967,Anderson & Satria 2007,square-mouthed pearlfishes,NULL,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Carapidae,162,Tetragondacninae,162,162,51,Subfamily,ref. 29406,8,47,NULL,178,3,53:23.0
+Macruronidae,1342,Regan 1903,blue grenadiers,NULL,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Macruronidae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,178.5,NULL,02:26.0
+Bythitidae,163,Gill 1861,livebearing brotulas,brotulas;livebearing,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Bythitidae,NULL,NULL,550,550,50,Family,NULL,8,47,NULL,179,NULL,09:12.0
+Lyconidae,1343,GÃ¼nther 1887,Atlantic hakes,NULL,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Lyconidae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,179,NULL,04:16.0
+Dinematichthyidae,164,Whitley 1928,NULL,NULL,Actinopteri,699,Ophidiiformes,550,NULL,NULL,Dinematichthyidae,NULL,NULL,550,550,50,Family,NULL,8,47,NULL,180,NULL,29:19.0
+Bathygadidae,1339,Jordan & Evermann 1898,rattails,NULL,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Bathygadidae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,180,NULL,50:43.0
+Steindachneriidae,1340,Parr 1942,luminous hakes,NULL,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Steindachneriidae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,180.5,NULL,57:25.0
+Macrouridae,160,Bonaparte 1831,grenadiers,rattails/grenadiers,Actinopteri,699,Gadiformes,549,Macrouroidei,1336,Macrouridae,NULL,NULL,1336,1336,50,Family,NULL,8,46,5,181,NULL,58:13.0
+Batrachoididae,165,Jordan 1896,toadfishes,toadfishes,Actinopteri,699,Batrachoidiformes,551,NULL,NULL,Batrachoididae,NULL,NULL,551,551,50,Family,NULL,8,48,NULL,181,NULL,11:12.0
+Porichthyinae,978,Miranda Ribeiro 1915,NULL,NULL,Actinopteri,699,Batrachoidiformes,551,NULL,NULL,Batrachoididae,165,Porichthyinae,165,165,51,Subfamily,NULL,8,48,NULL,181,1,11:56.0
+Thalassophryninae,979,Miranda Ribeiro 1915,venomous toadfishes,NULL,Actinopteri,699,Batrachoidiformes,551,NULL,NULL,Batrachoididae,165,Thalassophryninae,165,165,51,Subfamily,NULL,8,48,NULL,181,2,03:32.0
+Batrachoidinae,980,Jordan 1896,NULL,NULL,Actinopteri,699,Batrachoidiformes,551,NULL,NULL,Batrachoididae,165,Batrachoidinae,165,165,51,Subfamily,NULL,8,48,NULL,181,3,11:20.0
+Halophryninae,981,"Greenfield, Winterbottom & Collette 2008",Old World threespine toadfishes,NULL,Actinopteri,699,Batrachoidiformes,551,NULL,NULL,Batrachoididae,165,Halophryninae,165,165,51,Subfamily,NULL,8,48,NULL,181,4,25:22.0
+Lophiidae,166,Rafinesque 1810,goosefishes or monkfishes,goosefishes/monkfishes,Actinopteri,699,Lophiiformes,547,NULL,NULL,Lophiidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,182,NULL,20:28.0
+Antennariidae,167,Jarocki 1822,frogfishes,frogfishes,Actinopteri,699,Lophiiformes,547,NULL,NULL,Antennariidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,183,NULL,17:29.0
+Tetrabrachiidae,887,Regan 1912,tetrabrachiid frogfishes,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Tetrabrachiidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,183.2,NULL,19:26.0
+Lophichthyidae,888,Boeseman 1964,lophichthyid frogfishes,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Lophichthyidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,183.3,NULL,20:43.0
+Brachionichthyidae,168,Gill 1863,warty anglerfishes,anglerfishes;warty,Actinopteri,699,Lophiiformes,547,NULL,NULL,Brachionichthyidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,184,NULL,17:40.0
+Chaunacidae,169,Gill 1863,sea toads,toads;sea,Actinopteri,699,Lophiiformes,547,NULL,NULL,Chaunacidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,185,NULL,18:28.0
+Ogcocephalidae,170,Gill 1893,batfishes,batfishes,Actinopteri,699,Lophiiformes,547,NULL,NULL,Ogcocephalidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,186,NULL,19:48.0
+Caulophrynidae,171,Goode & Bean 1896,fanfins,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Caulophrynidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,187,NULL,17:50.0
+Neoceratiidae,174,Regan 1926,spiny seadevils,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Neoceratiidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,187.2,NULL,19:59.0
+Melanocetidae,181,Gill 1878,black seadevils,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Melanocetidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,187.3,NULL,20:11.0
+Himantolophidae,180,Gill 1861,footballfishes,footballfishes,Actinopteri,699,Lophiiformes,547,NULL,NULL,Himantolophidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,187.4,NULL,19:02.0
+Diceratiidae,179,Regan & Trewavas 1932,double anglers,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Diceratiidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,187.5,NULL,18:39.0
+Oneirodidae,176,Gill 1878,dreamers,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Oneirodidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,192,NULL,19:37.0
+Thaumatichthyidae,177,Smith & Radcliffe 1912,wolftrap anglers,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Thaumatichthyidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,193,NULL,19:10.0
+Centrophrynidae,178,Bertelsen 1951,prickly seadevils,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Centrophrynidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,194,NULL,18:04.0
+Ceratiidae,172,Gill 1861,seadevils,seadevils,Actinopteri,699,Lophiiformes,547,NULL,NULL,Ceratiidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,194.1,NULL,18:17.0
+Gigantactinidae,173,Boulenger 1904,whipnoses,whipnoses,Actinopteri,699,Lophiiformes,547,NULL,NULL,Gigantactinidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,194.2,NULL,18:49.0
+Linophrynidae,175,Regan 1925,leftvents,NULL,Actinopteri,699,Lophiiformes,547,NULL,NULL,Linophrynidae,NULL,NULL,547,547,50,Family,NULL,8,58,NULL,194.3,NULL,21:16.0
+Gobiesocidae,182,Bleeker 1859,clingfishes,clingfishes,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,NULL,NULL,553,553,50,Family,NULL,8,54,NULL,198,NULL,18:52.0
+Cheilobranchinae,622,GÃ¼nther 1870,shore-eels,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Cheilobranchinae,182,182,51,Subfamily,NULL,8,54,NULL,198,6,48:54.0
+Gobiesocinae,676,Bleeker 1859,New World clingfishes,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Gobiesocinae,182,182,51,Subfamily,NULL,8,54,NULL,198,9,24:24.0
+Lepadogastrinae,1148,Canestrini 1871-72,NULL,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Lepadogastrinae,182,182,51,Subfamily,NULL,8,54,NULL,198,2,19:31.0
+Protogobiesocinae,1149,"Fricke, Chen & Chen 2016",ancestral clingfishes,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Protogobiesocinae,182,182,51,Subfamily,NULL,8,54,NULL,198,5,22:27.0
+Diademichthyinae,1151,Whitley 1950,NULL,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Diademichthyinae,182,182,51,Subfamily,NULL,8,54,NULL,198,8,21:59.0
+Chorisochisminae,1152,Briggs 1955,NULL,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Chorisochisminae,182,182,51,Subfamily,NULL,8,54,NULL,198,3,22:50.0
+Diplocrepinae,1153,Briggs 1955,NULL,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Diplocrepinae,182,182,51,Subfamily,NULL,8,54,NULL,198,1,21:29.0
+Haplocylicinae,1154,Briggs 1955,NULL,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Haplocylicinae,182,182,51,Subfamily,NULL,8,54,NULL,198,4,20:40.0
+Trachelochisminae,1155,Briggs 1955,NULL,NULL,Actinopteri,699,Gobiesociformes,553,NULL,NULL,Gobiesocidae,182,Trachelochisminae,182,182,51,Subfamily,NULL,8,54,NULL,198,7,23:11.0
+Triacanthodidae,397,Gill 1862,spikefishes,spikefishes,Actinopteri,699,Tetraodontiformes,562,Triacanthodoidei,1193,Triacanthodidae,NULL,NULL,1193,1193,50,Family,NULL,8,59,1,200,NULL,29:36.0
+Scomberesocidae,186,Bleeker 1858,sauries,sauries,Actinopteri,699,Beloniformes,681,NULL,NULL,Scomberesocidae,NULL,NULL,681,681,50,Family,NULL,8,52.5,NULL,201,NULL,02:55.0
+Triacanthidae,398,Bleeker 1859,triplespines,triplespines,Actinopteri,699,Tetraodontiformes,562,Triacanthodoidei,1193,Triacanthidae,NULL,NULL,1193,1193,50,Family,NULL,8,59,1,201,NULL,30:02.0
+Belonidae,185,Bonaparte 1835,needlefishes,needlefishes,Actinopteri,699,Beloniformes,681,NULL,NULL,Belonidae,NULL,NULL,681,681,50,Family,NULL,8,52.5,NULL,202,NULL,26:26.0
+Triodontidae,401,Bleeker 1859,threetooth puffers,puffers;threetooth,Actinopteri,699,Tetraodontiformes,562,Tetraodontoidei,1194,Triodontidae,NULL,NULL,1194,1194,50,Family,NULL,8,59,2,203,NULL,30:25.0
+Hemiramphidae,812,Gill 1859,halfbeaks,NULL,Actinopteri,699,Beloniformes,681,NULL,NULL,Hemiramphidae,NULL,NULL,681,681,50,Family,NULL,8,52.5,NULL,203,NULL,17:12.0
+Zenarchopteridae,902,Fowler 1934,internally fertilized halfbeaks,NULL,Actinopteri,699,Beloniformes,681,NULL,NULL,Zenarchopteridae,NULL,NULL,681,681,50,Family,NULL,8,52.5,NULL,203.2,NULL,12:29.0
+Exocoetidae,183,Risso 1827,flyingfishes,flyingfishes,Actinopteri,699,Beloniformes,681,NULL,NULL,Exocoetidae,NULL,NULL,681,681,50,Family,NULL,8,52.5,NULL,204,NULL,26:38.0
+Molidae,404,Bonaparte 1832,molas or ocean sunfishes,molas/sunfishes;ocean,Actinopteri,699,Tetraodontiformes,562,Tetraodontoidei,1194,Molidae,NULL,NULL,1194,1194,50,Family,NULL,8,59,2,204,NULL,30:53.0
+Oryziinae,187,Myers 1938,medakas or ricefishes,ricefishes/medakas,Actinopteri,699,Beloniformes,681,NULL,NULL,Adrianichthyidae,682,Oryziinae,682,682,51,Subfamily,NULL,8,52.5,NULL,205,1,27:03.0
+Adrianichthyinae,188,Weber 1913,adrianichthyins,adrianichthyids,Actinopteri,699,Beloniformes,681,NULL,NULL,Adrianichthyidae,682,Adrianichthyinae,682,682,51,Subfamily,NULL,8,52.5,NULL,205,2,23:31.0
+Diodontidae,403,Billberg 1833,porcupinefishes and burrfishes,porcupinefishes/burrfishes,Actinopteri,699,Tetraodontiformes,562,Tetraodontoidei,1194,Diodontidae,NULL,NULL,1194,1194,50,Family,NULL,8,59,2,205,NULL,31:20.0
+Adrianichthyidae,682,Weber 1913,adrianichthyids,NULL,Actinopteri,699,Beloniformes,681,NULL,NULL,Adrianichthyidae,NULL,NULL,681,681,50,Family,NULL,8,52.5,NULL,205,NULL,23:57.0
+Tetraodontidae,402,Bonaparte 1831,puffers,puffers,Actinopteri,699,Tetraodontiformes,562,Tetraodontoidei,1194,Tetraodontidae,NULL,NULL,1194,1194,50,Family,NULL,8,59,2,206,NULL,31:44.0
+Aplocheilidae,190,Bleeker 1859,Old World rivulins,rivulines;Old World,Actinopteri,699,Cyprinodontiformes,744,Aplocheiloidei,1202,Aplocheilidae,NULL,NULL,1202,1202,50,Family,NULL,8,52,1,207,NULL,18:42.0
+Aracanidae,523,Hollard 1860,deepwater boxfishes,NULL,Actinopteri,699,Tetraodontiformes,562,Balistoidei,1195,Aracanidae,NULL,NULL,1195,1195,50,Family,NULL,8,59,3,207,NULL,31:58.0
+Nothobranchiidae,949,Garman 1895,African rivulins,NULL,Actinopteri,699,Cyprinodontiformes,744,Aplocheiloidei,1202,Nothobranchiidae,NULL,NULL,1202,1202,50,Family,NULL,8,52,1,207.1,NULL,21:54.0
+Ostraciidae,400,Rafinesque 1810,boxfishes,boxfishes,Actinopteri,699,Tetraodontiformes,562,Balistoidei,1195,Ostraciidae,NULL,NULL,1195,1195,50,Family,NULL,8,59,3,208,NULL,34:10.0
+Rivulidae,644,Myers 1925,New World rivulins,Rivulines;New World,Actinopteri,699,Cyprinodontiformes,744,Aplocheiloidei,1202,Rivulidae,NULL,NULL,1202,1202,50,Family,NULL,8,52,1,208,NULL,09:55.0
+Cynolebiinae,1210,Hoedeman 1961,pearl killifishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Aplocheiloidei,1202,Rivulidae,644,Cynolebiinae,644,644,51,Subfamily,NULL,8,52,1,208,3,11:39.0
+Kryptolebiatinae,1286,Costa 2004,mangrove killifishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Aplocheiloidei,1202,Rivulidae,644,Kryptolebiatinae,644,644,51,Subfamily,NULL,8,52,1,208,2,12:18.0
+Rivulinae,1288,Myers 1925,rivulines,NULL,Actinopteri,699,Cyprinodontiformes,744,Aplocheiloidei,1202,Rivulidae,644,Rivulinae,644,644,51,Subfamily,NULL,8,52,1,208,1,14:22.0
+Pantanodontidae,1204,Myers 1955,spine killifishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Pantanodontidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,208.1,NULL,26:11.0
+Fundulidae,468,GÃ¼nther 1866,topminnows and killifishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Fundulidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,208.2,NULL,22:46.0
+Cyprinodontidae,191,Wagner 1828,killifishes,killifishes,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Cyprinodontidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,208.3,NULL,19:36.0
+Cyprinodontinae,625,Wagner 1828,pupfishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Cyprinodontidae,191,Cyprinodontinae,191,191,51,Subfamily,NULL,8,52,2,208.3,2,19:54.0
+Cubanichthyinae,640,Parenti 1981,island pupfishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Cyprinodontidae,191,Cubanichthyinae,191,191,51,Subfamily,NULL,8,52,2,208.3,1,19:05.0
+Orestiinae,1170,Bleeker 1859,Andean killifishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Cyprinodontidae,191,Orestiinae,191,191,51,Subfamily,NULL,8,52,2,208.3,3,21:39.0
+Profundulidae,467,Hoedeman & Bronner 1951,Middle American killifishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Profundulidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,208.4,NULL,20:07.0
+Goodeidae,192,Jordan & Gilbert 1883,splitfins,goodeids,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Goodeidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,209,NULL,22:27.0
+Monacanthidae,522,Nardo 1843,filefishes,filefishes,Actinopteri,699,Tetraodontiformes,562,Balistoidei,1195,Monacanthidae,NULL,NULL,1195,1195,50,Family,NULL,8,59,3,209,NULL,33:58.0
+Empetrichthyinae,623,"Jordan, Evermann & Clark 1930",springfishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Goodeidae,192,Empetrichthyinae,192,192,51,Subfamily,NULL,8,52,2,209,1,23:00.0
+Goodeinae,745,Jordan & Gilbert 1883,Mexican splitfins,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Goodeidae,192,Goodeinae,192,192,51,Subfamily,NULL,8,52,2,209,2,22:10.0
+Fluviphylacidae,1206,Roberts 1970,American lampeyes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Fluviphylacidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,209.5,NULL,40:32.0
+Poeciliinae,195,Bonaparte 1831,livebearers,livebearers,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Poeciliidae,731,Poeciliinae,731,731,51,Subfamily,NULL,8,52,2,210,3,46:38.0
+Balistidae,399,Rafinesque 1810,triggerfishes,triggerfishes,Actinopteri,699,Tetraodontiformes,562,Balistoidei,1195,Balistidae,NULL,NULL,1195,1195,50,Family,NULL,8,59,3,210,NULL,32:39.0
+Poeciliidae,731,Bonaparte 1831,poeciliids,poeciliids,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Poeciliidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,210,NULL,21:04.0
+Xenodexiinae,1208,Hubbs 1950,Guatemalan poeciliids,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Poeciliidae,731,Xenodexiinae,731,731,51,Subfamily,NULL,8,52,2,210,1,46:19.0
+Tomeurinae,1209,Eigenmann 1912,facultative viviparous poeciliids,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Poeciliidae,731,Tomeurinae,731,731,51,Subfamily,NULL,8,52,2,210,2,47:57.0
+Anablepidae,193,Bonaparte 1831,four-eyed fishes and onesided livebearers,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Anablepidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,211,NULL,17:44.0
+Anablepinae,643,Bonaparte 1831,four-eyed fishes,fishes;four-eyed,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Anablepidae,193,Anablepinae,193,193,51,Subfamily,NULL,8,52,2,211,1,17:57.0
+Oxyzygonectinae,645,Parenti 1981,white-eyes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Anablepidae,193,Oxyzygonectinae,193,193,51,Subfamily,NULL,8,52,2,211,3,21:18.0
+Aphaniidae,1207,Hoedeman 1949,Oriental killifishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Aphaniidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,211.5,NULL,36:03.0
+Valenciidae,469,Parenti 1981,European killifishes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Valenciidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,212,NULL,17:16.0
+Atherinidae,196,Risso 1827,Old World silversides,silversides,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherinidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,213,NULL,42:33.0
+Atherininae,709,Risso 1827,silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherinidae,196,Atherininae,196,196,51,Subfamily,NULL,8,51.5,NULL,213,2,38:13.0
+Atherinomorinae,711,Dyer & Chernoff 1996,tropical silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherinidae,196,Atherinomorinae,196,196,51,Subfamily,NULL,8,51.5,NULL,213,1,43:34.0
+Bleheratherininae,976,Aarn & Ivantsoff 2009,New Caledonian silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherinidae,196,Bleheratherininae,196,196,51,Subfamily,NULL,8,51.5,NULL,213,4,02:16.0
+Craterocephalinae,977,Dyer & Chernoff 1996,hardyheads,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherinidae,196,Craterocephalinae,196,196,51,Subfamily,NULL,8,51.5,NULL,213,3,27:30.0
+Bedotiidae,691,Jordan & Hubbs 1919,Malagasy rainbowfishes,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Bedotiidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,213.1,NULL,06:20.0
+Melanotaeniidae,197,Gill 1894,rainbowfishes,rainbowfishes,Actinopteri,699,Atheriniformes,650,NULL,NULL,Melanotaeniidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,213.2,NULL,20:46.0
+Pseudomugilidae,679,Kner 1867,blue eyes,blue eyes,Actinopteri,699,Atheriniformes,650,NULL,NULL,Pseudomugilidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,213.3,NULL,21:34.0
+Telmatherinidae,692,Munro 1958,sailfin silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Telmatherinidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,213.4,NULL,55:49.0
+Notocheiridae,664,Schultz 1950,surf silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Notocheiridae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,213.6,NULL,23:20.0
+Isonidae,952,Rosen 1964,surf sardines,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Isonidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,213.7,NULL,57:03.0
+Atherionidae,1315,Schultz 1948,pricklenose silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherionidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,213.9,NULL,02:36.0
+Procatopodinae,624,Fowler 1916,lampeyes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Procatopodidae,1205,Procatopodinae,1205,1205,51,Subfamily,NULL,8,52,2,214,2,54:29.0
+Aplocheilichthyinae,646,Myers 1928,banded lampeyes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Procatopodidae,1205,Aplocheilichthyinae,1205,1205,51,Subfamily,NULL,8,52,2,214,1,54:09.0
+Procatopodidae,1205,Fowler 1916,African lampeyes,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,1203,Procatopodidae,NULL,NULL,1203,1203,50,Family,NULL,8,52,2,214,NULL,53:51.0
+Dentatherinidae,712,Patten & Ivantsoff 1983,tusked silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Dentatherinidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,215,NULL,28:01.0
+Phallostethidae,198,Regan 1916,priapum fishes,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Phallostethidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,216,NULL,41:22.0
+Atherinopsinae,708,Fitzinger 1873,neotropical silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherinopsidae,926,Atherinopsinae,926,926,51,Subfamily,NULL,8,51.5,NULL,217,1,53:23.0
+Menidiinae,710,Schultz 1948,Gulf of Mexico silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherinopsidae,926,Menidiinae,926,926,51,Subfamily,NULL,8,51.5,NULL,217,2,53:37.0
+Atherinopsidae,926,Fitzinger 1873,New World silversides,NULL,Actinopteri,699,Atheriniformes,650,NULL,NULL,Atherinopsidae,NULL,NULL,650,650,50,Family,NULL,8,51.5,NULL,217,NULL,53:06.0
+Lampridae,199,Gill 1862,opahs,opahs,Actinopteri,699,Lampriformes,554,NULL,NULL,Lampridae,NULL,NULL,554,554,50,Family,NULL,8,43.5,NULL,218,NULL,01:49.0
+Veliferidae,200,Bleeker 1859,velifers,velifers,Actinopteri,699,Lampriformes,554,NULL,NULL,Veliferidae,NULL,NULL,554,554,50,Family,NULL,8,43.5,NULL,219,NULL,02:50.0
+Lophotidae,201,Bonaparte 1845,crestfishes,crestfishes,Actinopteri,699,Lampriformes,554,NULL,NULL,Lophotidae,NULL,NULL,554,554,50,Family,NULL,8,43.5,NULL,220,NULL,01:57.0
+Radiicephalidae,202,OsÃ³rio 1917,tapertails,tapertails,Actinopteri,699,Lampriformes,554,NULL,NULL,Radiicephalidae,NULL,NULL,554,554,50,Family,NULL,8,43.5,NULL,221,NULL,02:13.0
+Trachipteridae,203,Swainson 1839,ribbonfishes,ribbonfishes,Actinopteri,699,Lampriformes,554,NULL,NULL,Trachipteridae,NULL,NULL,554,554,50,Family,NULL,8,43.5,NULL,222,NULL,02:41.0
+Regalecidae,204,Gill 1884,oarfishes,oarfishes,Actinopteri,699,Lampriformes,554,NULL,NULL,Regalecidae,NULL,NULL,554,554,50,Family,NULL,8,43.5,NULL,223,NULL,02:21.0
+Stylephoridae,205,Swainson 1839,tube-eyes or thread-tails,thread-tails/tube-eyes,Actinopteri,699,Stylephoriformes,1178,NULL,NULL,Stylephoridae,NULL,NULL,1178,1178,50,Family,NULL,8,45.6,NULL,224,NULL,29:12.0
+Monocentridae,209,Gill 1859,pinecone fishes,pinecone fishes,Actinopteri,699,Trachichthyiformes,1190,NULL,NULL,Monocentridae,NULL,NULL,1190,1190,50,Family,NULL,8,46.4,NULL,229,NULL,45:40.0
+Trachichthyidae,210,Bleeker 1856,slimeheads,slimeheads,Actinopteri,699,Trachichthyiformes,1190,NULL,NULL,Trachichthyidae,NULL,NULL,1190,1190,50,Family,NULL,8,46.4,NULL,230,NULL,45:21.0
+Anomalopidae,211,Gill 1889,lanterneye fishes,lanterneye fishes,Actinopteri,699,Trachichthyiformes,1190,NULL,NULL,Anomalopidae,NULL,NULL,1190,1190,50,Family,NULL,8,46.4,NULL,231,NULL,45:07.0
+Diretmidae,212,Gill 1893,spinyfins,spinyfins,Actinopteri,699,Trachichthyiformes,1190,NULL,NULL,Diretmidae,NULL,NULL,1190,1190,50,Family,NULL,8,46.4,NULL,232,NULL,44:30.0
+Anoplogastridae,213,Gill 1893,fangtooths,fangtooths,Actinopteri,699,Trachichthyiformes,1190,NULL,NULL,Anoplogastridae,NULL,NULL,1190,1190,50,Family,NULL,8,46.4,NULL,233,NULL,44:51.0
+Berycidae,214,Lowe 1839,berycids or alfonsinos,alfonsinos/berycids,Actinopteri,699,Beryciformes,555,Berycoidei,1189,Berycidae,NULL,NULL,1189,1189,50,Family,NULL,8,46.2,1,234,NULL,43:04.0
+Holocentridae,834,Bonaparte 1833,squirrelfishes and soldierfishes,NULL,Actinopteri,699,Holocentriformes,1191,NULL,NULL,Holocentridae,NULL,NULL,1191,1191,50,Family,NULL,8,46.6,NULL,235,NULL,46:37.0
+Holocentrinae,835,Bonaparte 1833,squirrelfishes,NULL,Actinopteri,699,Holocentriformes,1191,NULL,NULL,Holocentridae,834,Holocentrinae,834,834,51,Subfamily,NULL,8,46.6,NULL,235,1,09:27.0
+Myripristinae,836,Nelson 1955,soldierfishes,NULL,Actinopteri,699,Holocentriformes,1191,NULL,NULL,Holocentridae,834,Myripristinae,834,834,51,Subfamily,NULL,8,46.6,NULL,235,2,09:41.0
+Polymixiidae,216,Bleeker 1859,beardfishes,beardfishes,Actinopteri,699,Polymixiiformes,586,NULL,NULL,Polymixiidae,NULL,NULL,586,586,50,Family,NULL,8,46.1,NULL,236,NULL,51:00.0
+Stephanoberycidae,217,Gill 1884,pricklefishes,pricklefishes,Actinopteri,699,Beryciformes,555,Stephanoberycoidei,1185,Stephanoberycidae,NULL,NULL,1185,1185,50,Family,NULL,8,46.2,2,237,NULL,15:14.0
+Hispidoberycidae,665,Kotlyar 1981,hispidoberycids,NULL,Actinopteri,699,Beryciformes,555,Stephanoberycoidei,1185,Hispidoberycidae,NULL,NULL,1185,1185,50,Family,NULL,8,46.2,2,237.1,NULL,14:31.0
+Melamphaidae,218,Gill 1893,bigscales,bigscales,Actinopteri,699,Beryciformes,555,Berycoidei,1189,Melamphaidae,NULL,NULL,1189,1189,50,Family,NULL,8,46.2,1,238,NULL,43:19.0
+Gibberichthyidae,219,Parr 1933,gibberfishes,NULL,Actinopteri,699,Beryciformes,555,Stephanoberycoidei,1185,Gibberichthyidae,NULL,NULL,1185,1185,50,Family,NULL,8,46.2,2,239,NULL,14:10.0
+Rondeletiidae,220,Goode & Bean 1895,redmouth whalefishes,whalefishes;redmouth,Actinopteri,699,Beryciformes,555,Stephanoberycoidei,1185,Rondeletiidae,NULL,NULL,1185,1185,50,Family,Now in Cetomimidae (Johnson et al.2009:235 [ref. 30005]).,8,46.2,2,240,NULL,23:11.0
+Barbourisiidae,221,Parr 1945,velvet whalefishes,whalefishes;velvet,Actinopteri,699,Beryciformes,555,Stephanoberycoidei,1185,Barbourisiidae,NULL,NULL,1185,1185,50,Family,NULL,8,46.2,2,241,NULL,23:38.0
+Cetomimidae,651,Goode & Bean 1895,whalefishes,whalefishes,Actinopteri,699,Beryciformes,555,Stephanoberycoidei,1185,Cetomimidae,NULL,NULL,1185,1185,50,Family,NULL,8,46.2,2,242,NULL,24:06.0
+Cyttidae,839,GÃ¼nther 1860,lookdown dories,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Cyttidae,NULL,NULL,556,556,50,Family,NULL,8,45.4,NULL,243.1,NULL,24:12.0
+Oreosomatinae,841,Bleeker 1859,NULL,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Oreosomatidae,842,Oreosomatinae,842,842,51,Subfamily,NULL,8,45.4,NULL,243.2,2,25:29.0
+Oreosomatidae,842,Bleeker 1859,oreos,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Oreosomatidae,NULL,NULL,556,556,50,Family,NULL,8,45.4,NULL,243.2,NULL,25:16.0
+Pseudocyttinae,846,"Tyler, O'Toole & Winterbottom 2003",NULL,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Oreosomatidae,842,Pseudocyttinae,842,842,51,Subfamily,NULL,8,45.4,NULL,243.2,1,26:13.0
+Parazenidae,222,McAllister 1968,smooth dories,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Parazenidae,NULL,NULL,556,556,50,Family,NULL,8,45.4,NULL,243.3,NULL,25:44.0
+Cyttopsinae,837,no valid family-group name description,NULL,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Parazenidae,222,Cyttopsinae,222,222,51,Subfamily,NULL,8,45.4,NULL,243.3,2,24:27.0
+Parazeninae,840,McAllister 1968,NULL,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Parazenidae,222,Parazeninae,222,222,51,Subfamily,NULL,8,45.4,NULL,243.3,1,25:57.0
+Zeniontidae,843,Myers 1960,armoreye dories,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Zeniontidae,NULL,NULL,556,556,50,Family,NULL,8,45.4,NULL,243.4,NULL,26:44.0
+Macrurocyttinae,223,Myers 1960,NULL,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Grammicolepididae,850,Macrurocyttinae,850,850,51,Subfamily,NULL,8,45.4,NULL,243.5,1,25:03.0
+Grammicolepidinae,848,Poey 1873,NULL,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Grammicolepididae,850,Grammicolepidinae,850,850,51,Subfamily,NULL,8,45.4,NULL,243.5,2,24:51.0
+Grammicolepididae,850,Poey 1873,tinselfishes,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Grammicolepididae,NULL,NULL,556,556,50,Family,NULL,8,45.4,NULL,243.5,NULL,24:39.0
+Zeidae,880,Rafinesque 1815,dories,NULL,Actinopteri,699,Zeiformes,556,NULL,NULL,Zeidae,NULL,NULL,556,556,50,Family,NULL,8,45.4,NULL,245,NULL,26:28.0
+Hypoptychidae,228,Steindachner 1880,sand-eels,sand-eels,Actinopteri,699,Perciformes,1309,Gasterosteoidei,1192,Hypoptychidae,NULL,NULL,1192,1192,50,Family,NULL,8,64,25,249,NULL,17:04.0
+Gasterosteidae,652,Bonaparte 1831,sticklebacks,sticklebacks,Actinopteri,699,Perciformes,1309,Gasterosteoidei,1192,Gasterosteidae,NULL,NULL,1192,1192,50,Family,NULL,8,64,25,251,NULL,16:58.0
+Aulorhynchidae,653,Gill 1861,tubesnouts,tubesnouts,Actinopteri,699,Perciformes,1309,Gasterosteoidei,1192,Aulorhynchidae,NULL,NULL,1192,1192,50,Family,NULL,8,64,25,251.1,NULL,16:54.0
+Indostomidae,229,Prashead & Mukerji 1929,armored sticklebacks,NULL,Actinopteri,699,Synbranchiformes,559,Indostomoidei,1182,Indostomidae,NULL,NULL,1182,1182,50,Family,NULL,8,48.5,2,252,NULL,57:05.0
+Pegasidae,230,Bonaparte 1831,seamoths,seamoths,Actinopteri,699,Syngnathiformes,558,Dactylopteroidei,655,Pegasidae,NULL,NULL,655,655,50,Family,NULL,8,48.2,2,253,NULL,41:55.0
+Aulostomidae,231,Rafinesque 1815,trumpetfishes,trumpetfishes,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Aulostomidae,NULL,NULL,1216,1216,50,Family,NULL,8,48.2,1,254,NULL,47:09.0
+Fistulariidae,232,Stark 1828,cornetfishes,cornetfishes,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Fistulariidae,NULL,NULL,1216,1216,50,Family,NULL,8,48.2,1,255,NULL,48:47.0
+Centriscinae,233,Bonaparte 1831,shrimpfishes,shrimpfishes,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Centriscidae,656,Centriscinae,656,656,51,Subfamily,NULL,8,48.2,1,256,2,49:04.0
+Macroramphosinae,654,Bleeker 1879,snipefishes,snipefishes,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Centriscidae,656,Macroramphosinae,656,656,51,Subfamily,NULL,8,48.2,1,256,1,48:31.0
+Centriscidae,656,Bonaparte 1831,shrimpfishes,NULL,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Centriscidae,NULL,NULL,1216,1216,50,Family,NULL,8,48.2,1,256,NULL,48:55.0
+Solenostomidae,234,Nardo 1843,ghost pipefishes,pipefishes;ghost,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Solenostomidae,NULL,NULL,1216,1216,50,Family,NULL,8,48.2,1,258,NULL,47:53.0
+Syngnathidae,235,Bonaparte 1831,pipefishes and seahorses,NULL,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Syngnathidae,NULL,NULL,1216,1216,50,Family,NULL,8,48.2,1,259,NULL,47:39.0
+Syngnathinae,1173,Bonaparte 1831,tail-brooding pipefishes,NULL,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Syngnathidae,235,Syngnathinae,235,235,51,Subfamily,NULL,8,48.2,1,259,2,47:26.0
+Nerophinae,1174,Kaup 1853,trunk-brooding pipefishes,NULL,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,1216,Syngnathidae,235,Nerophinae,235,235,51,Subfamily,Giving precedence by Hamilton et al. 2017.,8,48.2,1,259,1,48:15.0
+Dactylopteridae,236,Gill 1861,helmet gurnards,gurnards;helmet,Actinopteri,699,Syngnathiformes,558,Dactylopteroidei,655,Dactylopteridae,NULL,NULL,655,655,50,Family,NULL,8,48.2,2,260,NULL,42:31.0
+Synbranchidae,237,Bonaparte 1835,swamp-eels,swamp-eels,Actinopteri,699,Synbranchiformes,559,Synbranchoidei,1180,Synbranchidae,NULL,NULL,1180,1180,50,Family,NULL,8,48.5,3,261,NULL,53:23.0
+Sebastinae,472,Kaup 1873,rockfishes,rockfishes/rockcods,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Sebastidae,732,Sebastinae,732,732,51,Subfamily,NULL,8,64,23,262.1,1,15:13.0
+Sebastolobinae,474,Matsubara 1943,thornyheads,thornyheads,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Sebastidae,732,Sebastolobinae,732,732,51,Subfamily,NULL,8,64,23,262.1,2,15:14.0
+Sebastidae,732,Kaup 1873,rockfishes and rockcods,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Sebastidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.1,NULL,15:12.0
+Setarchidae,477,Matsubara 1943,deepsea bristly scorpionfishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Setarchidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.2,NULL,15:14.0
+Neosebastidae,478,Matsubara 1943,gurnard scorpionfishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Neosebastidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.3,NULL,14:53.0
+Plectrogeniidae,475,Fowler 1938,stinger flatheads,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Plectrogeniidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.35,NULL,15:00.0
+Scorpaenidae,238,Risso 1827,scorpionfishes and allies,scorpionfishes,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Scorpaenidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.4,NULL,15:04.0
+Caracanthinae,240,Gill 1885,coral crouchers,crouchers;coral,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Scorpaenidae,238,Caracanthinae,238,238,51,Subfamily,NULL,8,64,23,262.4,3,14:40.0
+Scorpaeninae,473,Risso 1827,scorpionfishes,scorpionfishes,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Scorpaenidae,238,Scorpaeninae,238,238,51,Subfamily,NULL,8,64,23,262.4,2,15:09.0
+Pteroinae,476,Kaup 1873,turkeyfishes and lionfishes,turkeyfishes/lionfishes,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Scorpaenidae,238,Pteroinae,238,238,51,Subfamily,NULL,8,64,23,262.4,5,15:01.0
+Apistidae,479,Gill 1859,wasp scorpionfishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Apistidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.5,NULL,14:34.0
+Tetrarogidae,483,Smith 1949,waspfishes,waspfishes,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Tetrarogidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.6,NULL,15:18.0
+Synanceiidae,239,Swainson 1839,stonefishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Synanceiidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.7,NULL,15:15.0
+Minoinae,480,Jordan & Starks 1904,stingfishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Synanceiidae,239,Minoinae,239,239,51,Subfamily,NULL,8,64,23,262.7,10,14:51.0
+Choridactylinae,481,Kaup 1859,stingers,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Synanceiidae,239,Choridactylinae,239,239,51,Subfamily,NULL,8,64,23,262.7,11,14:41.0
+Synanceiinae,482,Swainson 1839,stonefishes,stonefishes,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Synanceiidae,239,Synanceiinae,239,239,51,Subfamily,NULL,8,64,23,262.7,12,15:17.0
+Eschmeyeridae,935,Mandrytsa 2001,cofishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Eschmeyeridae,NULL,NULL,589,589,50,Family,NULL,8,64,23,262.8,NULL,14:45.0
+Perryenidae,1074,"Honma, Imamura & Kawai 2013",whitenose pigfishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Perryenidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,263,NULL,14:57.0
+Aploactinidae,241,Jordan & Starks 1904,velvetfishes,velvetfishes,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Aploactinidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,265,NULL,14:36.0
+Pataecidae,242,Gill 1872,prowfishes,prowfishes,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Pataecidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,266,NULL,14:55.0
+Gnathanacanthidae,484,Gill 1892,red velvetfishes,velvetfishes;red,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Gnathanacanthidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,266.1,NULL,14:46.0
+Congiopodidae,243,Gill 1889,racehorses,horsefishes,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Congiopodidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,267,NULL,14:42.0
+Congiopodinae,1163,Gill 1889,pigfishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Congiopodidae,243,Congiopodinae,243,243,51,Subfamily,NULL,8,64,23,267,1,14:44.0
+Zanclorhynchinae,1164,Mandrytsa 2001,horsefishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Congiopodidae,243,Zanclorhynchinae,243,243,51,Subfamily,NULL,8,64,23,267,2,15:25.0
+Bembridae,486,Kaup 1873,deepwater flatheads,flatheads;deepwater,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Bembridae,NULL,NULL,589,589,50,Family,NULL,8,64,23,267.7,NULL,14:38.0
+Triglidae,244,Rafinesque 1815,searobins,searobins,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Triglidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,268,NULL,15:19.0
+Peristediidae,485,Jordan & Gilbert 1883,armored gurnards,gurnards;armored,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Peristediidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,268.1,NULL,14:56.0
+Hoplichthyidae,246,Kaup 1873,spiny flatheads,flatheads;spiny,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Hoplichthyidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,269.3,NULL,14:47.0
+Platycephalidae,245,Swainson 1839,flatheads,flatheads,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Platycephalidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,269.5,NULL,14:59.0
+Anoplopomatidae,247,Jordan & Gilbert 1883,sablefishes,sablefishes/skilfishes,Actinopteri,699,Perciformes,1309,Cottoidei,592,Anoplopomatidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,271,NULL,18:37.0
+Zaniolepididae,1306,Jordan & Gilbert 1883,combfishes,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Zaniolepididae,NULL,NULL,592,592,50,Family,NULL,8,64,26,272.1,NULL,19:17.0
+Hexagrammidae,248,Jordan 1888,greenlings,greenlings,Actinopteri,699,Perciformes,1309,Cottoidei,592,Hexagrammidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,273,NULL,19:01.0
+Hexagramminae,487,Jordan 1888,greenlings,greenlings,Actinopteri,699,Perciformes,1309,Cottoidei,592,Hexagrammidae,248,Hexagramminae,248,248,51,Subfamily,NULL,8,64,26,273,1,19:02.0
+Pleurogramminae,488,Rutenberg 1954,Atka mackerels,mackerels;Atka,Actinopteri,699,Perciformes,1309,Cottoidei,592,Hexagrammidae,248,Pleurogramminae,248,248,51,Subfamily,NULL,8,64,26,273,2,19:08.0
+Ophiodontinae,489,Jordan & Gilbert 1883,lingcods,lingcods,Actinopteri,699,Perciformes,1309,Cottoidei,592,Hexagrammidae,248,Ophiodontinae,248,248,51,Subfamily,NULL,8,64,26,273,3,19:06.0
+Oxylebiinae,490,Gill 1862,painted greenlings,greenlings;painted,Actinopteri,699,Perciformes,1309,Cottoidei,592,Hexagrammidae,248,Oxylebiinae,248,248,51,Subfamily,NULL,8,64,26,273,4,19:07.0
+Normanichthyidae,249,Clark 1937,barehead scorpionfishes,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,589,Normanichthyidae,NULL,NULL,589,589,50,Family,NULL,8,64,23,274,NULL,14:54.0
+Rhamphocottidae,735,Jordan & Gilbert 1883,horsehead sculpins or grunt sculpins,sculpins;grunt,Actinopteri,699,Perciformes,1309,Cottoidei,592,Rhamphocottidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,274.5,NULL,19:11.0
+Ereuniidae,250,Jordan & Snyder 1901,deepwater bullheads,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Ereuniidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,275,NULL,18:58.0
+Bathylutichthyidae,714,Balushkin & Voskoboynikova 1990,Antarctic sculpins,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Bathylutichthyidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,275.5,NULL,18:40.0
+Cottidae,251,Bonaparte 1831,sculpins,sculpins,Actinopteri,699,Perciformes,1309,Cottoidei,592,Cottidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,276,NULL,18:43.0
+Hemitripteridae,737,Gill 1865,sailfin sculpins or sea ravens,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Hemitripteridae,NULL,NULL,592,592,50,Family,NULL,8,64,26,278.7,NULL,19:00.0
+Psychrolutidae,254,GÃ¼nther 1861,fatheads,fatheads,Actinopteri,699,Perciformes,1309,Cottoidei,592,Psychrolutidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,279,NULL,19:09.0
+Bathyagoninae,798,Lindberg 1971,starsnouts,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Agonidae,892,Bathyagoninae,892,892,51,Subfamily,NULL,8,64,26,280,3,18:39.0
+Agoninae,803,Swainson 1839,sturgeon poachers,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Agonidae,892,Agoninae,892,892,51,Subfamily,NULL,8,64,26,280,1,18:25.0
+Anoplagoninae,805,Gill 1861,alligator fishes,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Agonidae,892,Anoplagoninae,892,892,51,Subfamily,NULL,8,64,26,280,2,18:35.0
+Hypsagoninae,806,Gill 1861,dragon poachers,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Agonidae,892,Hypsagoninae,892,892,51,Subfamily,NULL,8,64,26,280,5,19:03.0
+Brachyopsinae,890,Jordan & Evermann 1898,uppermouth poachers,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Agonidae,892,Brachyopsinae,892,892,51,Subfamily,NULL,8,64,26,280,4,18:42.0
+Bothragoninae,891,Lindberg 1971,rockheads,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Agonidae,892,Bothragoninae,892,892,51,Subfamily,NULL,8,64,26,280,6,18:41.0
+Agonidae,892,Swainson 1839,poachers,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Agonidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,280,NULL,29:57.0
+Latidae,942,Jordan 1888,giant perches,NULL,Actinopteri,699,Carangiformes,758,Centropomoidei,1299,Latidae,NULL,NULL,1299,1299,50,Family,Replaces Latinae in Centropomidae.,8,50,1,280,NULL,18:25.0
+Cyclopteridae,491,Bonaparte 1831,lumpfishes,lumpsuckers,Actinopteri,699,Perciformes,1309,Cottoidei,592,Cyclopteridae,NULL,NULL,592,592,50,Family,NULL,8,64,26,281,NULL,18:55.0
+Eumicrotreminae,1165,"Oku, Imamura & Yabe 2017",spiny lumpsuckers,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Cyclopteridae,491,Eumicrotreminae,491,491,51,Subfamily,NULL,8,64,26,281,3,18:59.0
+Cyclopterinae,1166,Bonaparte 1831,lumpsuckers,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Cyclopteridae,491,Cyclopterinae,491,491,51,Subfamily,NULL,8,64,26,281,1,18:57.0
+Liparopsinae,1167,Garman 1892,smooth lumpsuckers,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,592,Cyclopteridae,491,Liparopsinae,491,491,51,Subfamily,Also seen as Liparopinae,8,64,26,281,2,19:05.0
+Liparidae,492,Gill 1861,snailfishes,snailfishes,Actinopteri,699,Perciformes,1309,Cottoidei,592,Liparidae,NULL,NULL,592,592,50,Family,NULL,8,64,26,281.1,NULL,19:04.0
+Centropomidae,256,Poey 1967,snooks,NULL,Actinopteri,699,Carangiformes,758,Centropomoidei,1299,Centropomidae,NULL,NULL,1299,1299,50,Family,NULL,8,50,1,282,NULL,58:40.0
+Ambassidae,629,Klunzinger 1870,Asiatic glassfishes,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Ambassidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,282.5,NULL,31:42.0
+Percichthyidae,257,Jordan & Eigenmann 1890,temperate basses,basses;temperate,Actinopteri,699,Centrarchiformes,1278,Percichthyoidei,1279,Percichthyidae,NULL,NULL,1279,1279,50,Family,NULL,8,62.6,1,282.6,NULL,19:11.0
+Perciliidae,928,Jordan 1923,southern basses,NULL,Actinopteri,699,Centrarchiformes,1278,Percichthyoidei,1279,Perciliidae,NULL,NULL,1279,1279,50,Family,NULL,8,62.6,1,282.7,NULL,50:29.0
+Moronidae,668,Jordan & Evermann 1896,white basses,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Moronidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,283.2,NULL,35:30.0
+Dinopercidae,671,Heemstra & Hecht 1986,cavebasses,cavebasses,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Dinopercidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,283.5,NULL,35:25.0
+Serranidae,258,Swainson 1839,sea basses and groupers,basses;sea/groupers,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Serranidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,284,NULL,35:37.0
+Grammistinae,259,Bleeker 1857,soapfishes,soapfishes,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Serranidae,258,Grammistinae,258,258,51,Subfamily,NULL,8,63,NULL,284,7,35:26.0
+Serraninae,630,Swainson 1839,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Serranidae,258,Serraninae,258,258,51,Subfamily,NULL,8,63,NULL,284,1,35:37.0
+Anthiadinae,631,Poey 1861,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Serranidae,258,Anthiadinae,258,258,51,Subfamily,NULL,8,63,NULL,284,2,35:22.0
+Epinephelinae,632,Bleeker 1874,groupers,groupers,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Serranidae,258,Epinephelinae,258,258,51,Subfamily,NULL,8,63,NULL,284,3,35:25.0
+Liopropomatinae,633,Poey 1867,basslets,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Serranidae,258,Liopropomatinae,258,258,51,Subfamily,NULL,8,63,NULL,284,4,35:28.0
+Diploprioninae,1312,Bleeker 1874,barred soapfishes,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Serranidae,258,Diploprioninae,258,258,51,Subfamily,NULL,8,63,NULL,284,8,45:37.0
+Caesioscorpididae,1319,Parenti & Randall 2020,blowhole perches,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Caesioscorpididae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,284.2,NULL,32:13.0
+Hemilutjanidae,1320,Parenti & Randall 2020,grape-eyeseabasses,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Hemilutjanidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,284.4,NULL,35:41.0
+Centrogenyidae,666,Fowler 1907,false scorpionfishes,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Centrogenyidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,284.6,NULL,35:24.0
+Pseudochromidae,260,MÃ¼ller & Troschel 1849,dottybacks,dottybacks,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Pseudochromidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,286,NULL,35:33.0
+Pseudochrominae,493,MÃ¼ller & Troschel 1849,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Pseudochromidae,260,Pseudochrominae,260,260,51,Subfamily,NULL,8,63,NULL,286,1,35:33.0
+Pseudoplesiopinae,494,Bleeker 1875,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Pseudochromidae,260,Pseudoplesiopinae,260,260,51,Subfamily,NULL,8,63,NULL,286,2,35:33.0
+Anisochrominae,495,Smith 1954,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Pseudochromidae,260,Anisochrominae,260,260,51,Subfamily,NULL,8,63,NULL,286,3,35:21.0
+Congrogadinae,626,GÃ¼nther 1862,eelblennies,eelblennies,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Pseudochromidae,260,Congrogadinae,260,260,51,Subfamily,NULL,8,63,NULL,286,4,35:24.0
+Assiculinae,1084,Gill 2013,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Pseudochromidae,260,Assiculinae,260,260,51,Subfamily,NULL,8,63,NULL,286,5,35:23.0
+Assiculoidinae,1085,Gill 2013,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Pseudochromidae,260,Assiculoidinae,260,260,51,Subfamily,NULL,8,63,NULL,286,6,35:23.0
+Grammatidae,634,Jordan 1887,basslets,basslets,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Grammatidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,287,NULL,35:26.0
+Callanthiidae,698,Ogilby 1899,splendid perches,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Callanthiidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,287.1,NULL,35:23.0
+Plesiopidae,261,GÃ¼nther 1861,roundheads,roundheads,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Plesiopidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,288,NULL,35:32.0
+Acanthoclininae,262,GÃ¼nther 1861,spiny basslets,basslets;spiny,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Plesiopidae,261,Acanthoclininae,261,261,51,Subfamily,NULL,8,63,NULL,288,2,35:48.0
+Plesiopinae,751,GÃ¼nther 1861,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Plesiopidae,261,Plesiopinae,261,261,51,Subfamily,NULL,8,63,NULL,288,1,35:32.0
+Opistognathidae,341,Bonaparte 1835,jawfishes,jawfishes,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Opistognathidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,289.2,NULL,35:30.0
+Terapontidae,264,Richardson 1842,grunters or tigerfishes,grunters/tigerfishes,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Terapontidae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,291,NULL,22:53.0
+Kuhliidae,267,Jordan & Evermann 1896,flagtails or aholeholes,flagtails/aholeholes,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Kuhliidae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,293,NULL,25:40.0
+Percidae,269,Rafinesque 1815,perches and darters,perches/darters,Actinopteri,699,Perciformes,1309,Percoidei,593,Percidae,NULL,NULL,593,593,50,Family,NULL,8,64,1,295,NULL,17:33.0
+Percinae,969,Rafinesque 1815,freshwater perches,NULL,Actinopteri,699,Perciformes,1309,Percoidei,593,Percidae,269,Percinae,269,269,51,Subfamily,NULL,8,64,1,295,1,17:20.0
+Luciopercinae,970,Jordan & Evermann 1896,pikeperches and Danube perches,NULL,Actinopteri,699,Perciformes,1309,Percoidei,593,Percidae,269,Luciopercinae,269,269,51,Subfamily,NULL,8,64,1,295,2,17:12.0
+Etheostomatinae,984,Agassiz 1850,North American darters,NULL,Actinopteri,699,Perciformes,1309,Percoidei,593,Percidae,269,Etheostomatinae,269,269,51,Subfamily,NULL,8,64,1,295,3,17:00.0
+Niphonidae,1310,Jordan 1923,Ara groupers,NULL,Actinopteri,699,Perciformes,1309,Percoidei,593,Niphonidae,NULL,NULL,593,593,50,Family,NULL,8,64,1,295.1,NULL,22:59.0
+Priacanthidae,270,GÃ¼nther 1859,bigeyes,bigeyes,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Priacanthidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,296,NULL,35:32.0
+Kurtidae,369,Bleeker 1859,nurseryfishes,nurseryfishes,Actinopteri,699,Kurtiformes,1177,NULL,NULL,Kurtidae,NULL,NULL,1177,1177,50,Family,NULL,8,48.3,NULL,296.5,NULL,01:17.0
+Apogonidae,271,GÃ¼nther 1859,cardinalfishes,cardinalfishes,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Apogonidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,297,NULL,35:22.0
+Apogoninae,769,GÃ¼nther 1859,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Apogonidae,271,Apogoninae,271,271,51,Subfamily,NULL,8,63,NULL,297,1,35:22.0
+Pseudamiinae,770,Smith 1954,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Apogonidae,271,Pseudamiinae,271,271,51,Subfamily,NULL,8,63,NULL,297,2,35:33.0
+Amioidinae,1090,Fraser & Mabuchi 2014,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Apogonidae,271,Amioidinae,271,271,51,Subfamily,"In: Mabuchi, Fraser, Song, Azuma & Nishida",8,63,NULL,297,3,35:20.0
+Paxtoninae,1091,Fraser & Mabuchi 2014,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Apogonidae,271,Paxtoninae,271,271,51,Subfamily,"In: Mabuchi, Fraser, Song, Azuma & Nishida",8,63,NULL,297,4,35:31.0
+Sillaginidae,273,Richardson 1846,sillagos,sillagos,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Sillaginidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,299,NULL,35:37.0
+Malacanthidae,274,Poey 1861,sand tilefishes,tilefishes,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Malacanthidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,300,NULL,21:01.0
+Carangidae,278,Rafinesque 1815,"jacks, amberjacks, pompanos",amberjacks/pompanos/jacks,Actinopteri,699,Carangiformes,758,Carangoidei,1324,Carangidae,NULL,NULL,1324,1324,50,Family,NULL,8,50,6,300,NULL,27:28.0
+Lactariidae,275,Boulenger 1904,false trevallies,trevallies;false,Actinopteri,699,Carangiformes,758,Centropomoidei,1299,Lactariidae,NULL,NULL,1299,1299,50,Family,NULL,8,50,1,302,NULL,59:18.0
+Echeneidae,713,Rafinesque 1810,remoras and sharksuckers,remoras/sharksuckers,Actinopteri,699,Carangiformes,758,Carangoidei,1324,Echeneidae,NULL,NULL,1324,1324,50,Family,NULL,8,50,6,302,NULL,27:51.0
+Rachycentridae,277,Gill 1896,cobias,cobias,Actinopteri,699,Carangiformes,758,Carangoidei,1324,Rachycentridae,NULL,NULL,1324,1324,50,Family,NULL,8,50,6,304,NULL,14:38.0
+Nematistiidae,279,Gill 1862,roosterfishes,roosterfishes,Actinopteri,699,Carangiformes,758,Nematistioidei,1322,Nematistiidae,NULL,NULL,1322,1322,50,Family,NULL,8,50,4,307,NULL,07:00.0
+Coryphaenidae,280,Rafinesque 1815,dolphins or dolphinfishes,dolphins/dolphinfishes,Actinopteri,699,Carangiformes,758,Carangoidei,1324,Coryphaenidae,NULL,NULL,1324,1324,50,Family,NULL,8,50,6,308,NULL,26:48.0
+Menidae,281,Fitzinger 1873,moonfishes,moonfishes,Actinopteri,699,Carangiformes,758,Menoidei,1323,Menidae,NULL,NULL,1323,1323,50,Family,NULL,8,50,5,310,NULL,07:20.0
+Latilidae,1325,Gill 1862,deepwater tilefishes,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Latilidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,310,NULL,14:09.0
+Emmelichthyidae,286,Poey 1867,rovers,rovers,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Emmelichthyidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,315,NULL,35:25.0
+Lutjanidae,287,Gill 1861,snappers,snappers,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Lutjanidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,316,NULL,35:29.0
+Caesionidae,288,Bonaparte 1831,fusiliers,fusiliers,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Caesionidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,317,NULL,35:23.0
+Gerreidae,290,Bleeker 1859,mojarras,mojarras,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Gerreidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,319,NULL,35:26.0
+Haemulidae,291,Gill 1885,grunts,grunts,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Haemulidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,320,NULL,35:26.0
+Haemulinae,1033,Gill 1885,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Haemulidae,291,Haemulinae,291,291,51,Subfamily,NULL,8,63,NULL,320,1,35:26.0
+Plectorhinchinae,1034,Jordan & Thompson 1912,sweetlips,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Haemulidae,291,Plectorhinchinae,291,291,51,Subfamily,NULL,8,63,NULL,320,2,35:31.0
+Sparidae,293,Rafinesque 1818,porgys and seabreams,porgys/seabreams,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Sparidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,322,NULL,35:38.0
+Lethrinidae,295,Bonaparte 1831,emperor snappers,emperors,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Lethrinidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,324,NULL,21:25.0
+Lethrininae,1326,Bonaparte 1831,emperors,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Lethrinidae,295,Lethrininae,295,295,51,Subfamily,NULL,8,63,NULL,324,1,18:28.0
+Monotaxinae,1327,Akazaki 1961,big-eye seabreams,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Lethrinidae,295,Monotaxinae,295,295,51,Subfamily,NULL,8,63,NULL,324,2,19:36.0
+Nemipteridae,296,Regan 1913,threadfin breams and spinycheeks,spinycheeks/breams;threadfin,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Nemipteridae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,325,NULL,35:30.0
+Sciaenidae,297,Cuvier 1829,croakers and drums,croakers/drums,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Sciaenidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,326,NULL,35:37.0
+Polynemidae,324,Rafinesque 1815,threadfins or tassel-fishes,threadfins,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Polynemidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,326.5,NULL,01:16.0
+Mullidae,298,Rafinesque 1815,goatfishes,goatfishes,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Mullidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,327,NULL,35:30.0
+Leptobramidae,301,Ogilby 1913,beachsalmons,beachsalmon,Actinopteri,699,Carangiformes,758,Toxotoidei,1321,Leptobramidae,NULL,NULL,1321,1321,50,Family,NULL,8,50,3,330,NULL,06:15.0
+Toxotidae,303,Bleeker 1859,archerfishes,archerfishes,Actinopteri,699,Carangiformes,758,Toxotoidei,1321,Toxotidae,NULL,NULL,1321,1321,50,Family,NULL,8,50,3,332,NULL,06:37.0
+Dichistiidae,757,Smith 1935,galjoens,galjoens,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Dichistiidae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,333,NULL,28:31.0
+Oplegnathidae,312,Bleeker 1853,knifejaws,knifejaws,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Oplegnathidae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,333.5,NULL,24:07.0
+Kyphosidae,304,Jordan 1887,sea chubs,chubs;sea,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Kyphosidae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,334,NULL,43:47.0
+Girellidae,1291,Gill 1862,nibblers,NULL,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Girellidae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,334.1,NULL,15:04.0
+Scorpididae,1293,GÃ¼nther 1860,halfmoons,NULL,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Scorpididae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,334.2,NULL,17:23.0
+Microcanthidae,1292,Bleeker 1876,stripeys,NULL,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Microcanthidae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,334.3,NULL,16:14.0
+Parascorpididae,696,Smith 1949,jutjaws,jutjaws,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,1280,Parascorpididae,NULL,NULL,1280,1280,50,Family,NULL,8,62.6,2,334.5,NULL,38:33.0
+Monodactylidae,299,Jordan & Evermann 1898,moonies,moonies,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Monodactylidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,335.5,NULL,35:29.0
+Centrarchidae,268,Bleeker 1859,sunfishes and freshwater basses,sunfishes/basses;freshwater,Actinopteri,699,Centrarchiformes,1278,Centrarchoidei,1281,Centrarchidae,NULL,NULL,1281,1281,50,Family,NULL,8,62.6,3,339.1,NULL,53:39.0
+Elassomatidae,496,Jordan 1877,pygmy sunfishes,sunfishes;pygmy,Actinopteri,699,Centrarchiformes,1278,Centrarchoidei,1281,Elassomatidae,NULL,NULL,1281,1281,50,Family,NULL,8,62.6,3,339.2,NULL,27:23.0
+Enoplosidae,309,Gill 1893,oldwives,oldwives,Actinopteri,699,Centrarchiformes,1278,Centrarchoidei,1281,Enoplosidae,NULL,NULL,1281,1281,50,Family,NULL,8,62.6,3,340,NULL,26:31.0
+Sinipercidae,1168,Jordan & Richardson 1910,Chinese perches,NULL,Actinopteri,699,Centrarchiformes,1278,Centrarchoidei,1281,Sinipercidae,NULL,NULL,1281,1281,50,Family,NULL,8,62.6,3,340.5,NULL,23:14.0
+Polycentridae,929,Gill 1858,leaffishes,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Polycentridae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,342,NULL,35:32.0
+Nandidae,311,Bleeker 1852,Asian leaffishes,leaffishes,Actinopteri,699,Anabantiformes,1183,Nandoidei,1184,Nandidae,NULL,NULL,1184,1184,50,Family,NULL,8,48.6,3,342.1,NULL,05:30.0
+Badidae,505,"Barlow, Liem & Wickler 1968",chameleon fishes,NULL,Actinopteri,699,Anabantiformes,1183,Nandoidei,1184,Badidae,NULL,NULL,1184,1184,50,Family,NULL,8,48.6,3,342.2,NULL,06:05.0
+Pristolepididae,1062,Regan 1913,mudperches,NULL,Actinopteri,699,Anabantiformes,1183,Nandoidei,1184,Pristolepididae,NULL,NULL,1184,1184,50,Family,NULL,8,48.6,3,342.3,NULL,05:12.0
+Cichlidae,313,Bonaparte 1835,cichlids,cichlids,Actinopteri,699,Cichliformes,1187,NULL,NULL,Cichlidae,NULL,NULL,1187,1187,50,Family,NULL,8,51,NULL,344,NULL,07:36.0
+Etroplinae,973,Kullander 1998,Indian and Madagascan cichlids,NULL,Actinopteri,699,Cichliformes,1187,NULL,NULL,Cichlidae,313,Etroplinae,313,313,51,Subfamily,added on Sparks ref. 29766.,8,51,NULL,344,1,14:08.0
+Ptychochrominae,1014,Sparks 2004,Malagasy cichlids,NULL,Actinopteri,699,Cichliformes,1187,NULL,NULL,Cichlidae,313,Ptychochrominae,313,313,51,Subfamily,NULL,8,51,NULL,344,2,14:29.0
+Cichlinae,1015,Bonaparte 1835,American cichlids,NULL,Actinopteri,699,Cichliformes,1187,NULL,NULL,Cichlidae,313,Cichlinae,313,313,51,Subfamily,NULL,8,51,NULL,344,4,13:58.0
+Pseudocrenilabrinae,1016,Fowler 1934,African cichlids,NULL,Actinopteri,699,Cichliformes,1187,NULL,NULL,Cichlidae,313,Pseudocrenilabrinae,313,313,51,Subfamily,NULL,8,51,NULL,344,3,14:18.0
+Embiotocidae,314,Agassiz 1853,surfperches,surfperches,Actinopteri,699,Perciformes,1309,Labroidei,595,Embiotocidae,NULL,NULL,595,595,50,Family,NULL,8,64,2,345,NULL,46:20.0
+Pomacentridae,315,Bonaparte 1831,damselfishes and anemonefishes,damselfishes/anemonefishes,Actinopteri,699,Perciformes,1309,Labroidei,595,Pomacentridae,NULL,NULL,595,595,50,Family,NULL,8,64,2,346,NULL,31:44.0
+Glyphisodontinae,1344,Rafinesque 1815,sergeants majors,NULL,Actinopteri,699,Perciformes,1309,Labroidei,595,Pomacentridae,315,Glyphisodontinae,315,315,51,Subfamily,NULL,8,64,2,346,3,35:17.0
+Chrominae,1345,Bonaparte 1831,chromises,NULL,Actinopteri,699,Perciformes,1309,Labroidei,595,Pomacentridae,315,Chrominae,315,315,51,Subfamily,NULL,8,64,2,346,2,39:55.0
+Microspathodontinae,1346,Jordan & Evermann 1898,giant damselfishes,NULL,Actinopteri,699,Perciformes,1309,Labroidei,595,Pomacentridae,315,Microspathodontinae,315,315,51,Subfamily,NULL,8,64,2,346,1,33:39.0
+Pomacentrinae,1347,Bonaparte 1831,anemonefishes or clownfishes,NULL,Actinopteri,699,Perciformes,1309,Labroidei,595,Pomacentridae,315,Pomacentrinae,315,315,51,Subfamily,NULL,8,64,2,346,4,37:59.0
+Cirrhitidae,316,Macleay 1841,hawkfishes,hawkfishes,Actinopteri,699,Centrarchiformes,1278,Cirrhitioidei,1282,Cirrhitidae,NULL,NULL,1282,1282,50,Family,NULL,8,62.6,4,348,NULL,28:09.0
+Chironemidae,317,Gill 1862,kelpfishes,kelpfishes,Actinopteri,699,Centrarchiformes,1278,Cirrhitioidei,1282,Chironemidae,NULL,NULL,1282,1282,50,Family,NULL,8,62.6,4,349,NULL,27:45.0
+Aplodactylidae,318,GÃ¼nther 1859,marblefishes,NULL,Actinopteri,699,Centrarchiformes,1278,Cirrhitioidei,1282,Aplodactylidae,NULL,NULL,1282,1282,50,Family,NULL,8,62.6,4,350,NULL,22:39.0
+Cheilodactylidae,319,Bonaparte 1850,fingerfins,fingerfins/morwongs,Actinopteri,699,Centrarchiformes,1278,Cirrhitioidei,1282,Cheilodactylidae,NULL,NULL,1282,1282,50,Family,NULL,8,62.6,4,351,NULL,11:46.0
+Latridae,320,Gill 1862,trumpeters,trumpeters,Actinopteri,699,Centrarchiformes,1278,Cirrhitioidei,1282,Latridae,NULL,NULL,1282,1282,50,Family,NULL,8,62.6,4,352,NULL,24:38.0
+Cepolidae,321,Rafinesque 1815,bandfishes,bandfishes,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Cepolidae,NULL,NULL,561,561,50,Family,NULL,8,63,NULL,354,NULL,35:24.0
+Cepolinae,1142,Rafinesque 1815,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Cepolidae,321,Cepolinae,321,321,51,Subfamily,NULL,8,63,NULL,354,1,35:24.0
+Owstoniinae,1143,"Jordan, Tanaka & Snyder 1913",NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,561,NULL,NULL,Cepolidae,321,Owstoniinae,321,321,51,Subfamily,NULL,8,63,NULL,354,2,35:31.0
+Mugilidae,322,Jarocki 1822,mullets,mullets,Actinopteri,699,Mugiliformes,1175,NULL,NULL,Mugilidae,NULL,NULL,1175,1175,50,Family,NULL,8,53,NULL,355,NULL,47:49.0
+Sphyraenidae,323,Rafinesque 1815,barracudas,barracudas,Actinopteri,699,Carangiformes,758,Centropomoidei,1299,Sphyraenidae,NULL,NULL,1299,1299,50,Family,NULL,8,50,1,356,NULL,00:06.0
+Labridae,325,Cuvier 1816,wrasses,wrasses,Actinopteri,699,Perciformes,1309,Labroidei,595,Labridae,NULL,NULL,595,595,50,Family,NULL,8,64,2,358,NULL,47:02.0
+Odacidae,326,GÃ¼nther 1861,cales,NULL,Actinopteri,699,Perciformes,1309,Labroidei,595,Odacidae,NULL,NULL,595,595,50,Family,NULL,8,64,2,359,NULL,30:50.0
+Scaridae,327,Rafinesque 1810,parrotfishes,parrotfishes,Actinopteri,699,Perciformes,1309,Labroidei,595,Scaridae,NULL,NULL,595,595,50,Family,NULL,8,64,2,360,NULL,32:03.0
+Scarinae,641,Rafinesque 1810,NULL,NULL,Actinopteri,699,Perciformes,1309,Labroidei,595,Scaridae,327,Scarinae,327,327,51,Subfamily,NULL,8,64,2,360,1,31:26.0
+Sparisomatinae,642,Gill 1893,NULL,NULL,Actinopteri,699,Perciformes,1309,Labroidei,595,Scaridae,327,Sparisomatinae,327,327,51,Subfamily,NULL,8,64,2,360,2,31:10.0
+Zoarcidae,329,Swainson 1839,eelpouts,eelpouts,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Zoarcidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,362,NULL,35:54.0
+Gymnelinae,893,Gill 1863,pouts,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Zoarcidae,329,Gymnelinae,329,329,51,Subfamily,NULL,8,64,6,362,5,36:28.0
+Lycodinae,894,Gill 1861,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Zoarcidae,329,Lycodinae,329,329,51,Subfamily,NULL,8,64,6,362,2,36:24.0
+Lycozoarcinae,895,Andriashev 1939,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Zoarcidae,329,Lycozoarcinae,329,329,51,Subfamily,NULL,8,64,6,362,3,36:23.0
+Zoarcinae,896,Swainson 1839,eelpouts,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Zoarcidae,329,Zoarcinae,329,329,51,Subfamily,NULL,8,64,6,362,4,35:49.0
+Anarhichadidae,332,Bonaparte 1835,wolffishes,wolffishes,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Anarhichadidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,362.1,NULL,34:12.0
+Neozoarcidae,1224,Jordan & Snyder 1902,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Neozoarcidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,362.2,NULL,36:22.0
+Eulophiidae,1225,Smith 1902,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Eulophiidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,362.3,NULL,36:29.0
+Stichaeidae,330,Gill 1864,pricklebacks,pricklebacks,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Stichaeidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,363,NULL,36:00.0
+Stichaeinae,787,Gill 1864,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Stichaeidae,330,Stichaeinae,330,330,51,Subfamily,NULL,8,64,6,363,1,36:19.0
+Chirolophinae,790,Jordan & Evermann 1898,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Stichaeidae,330,Chirolophinae,330,330,51,Subfamily,NULL,8,64,6,363,3,36:32.0
+Xiphisterinae,791,Jordan 1880,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Stichaeidae,330,Xiphisterinae,330,330,51,Subfamily,NULL,8,64,6,363,5,35:57.0
+Alectriinae,1230,Makushok 1958,cockscombs,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Stichaeidae,330,Alectriinae,330,330,51,Subfamily,NULL,8,64,6,363,4,48:23.0
+Lumpenidae,1226,Jordan & Evermann 1898,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Lumpenidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,363.1,NULL,36:26.0
+Opisthocentridae,1227,Jordan & Evermann 1898,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Opisthocentridae,NULL,NULL,596,596,50,Family,NULL,8,64,6,363.2,NULL,36:21.0
+Pholidae,675,Gill 1893,gunnels,gunnels,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Pholidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,363.5,NULL,36:15.0
+Pholinae,1231,Gill 1893,pigmented gunnels,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Pholidae,675,Pholinae,675,675,51,Subfamily,NULL,8,64,6,363.5,1,36:13.0
+Apodichthyinae,1232,Hubbs 1927,penpoint gunnels,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Pholidae,675,Apodichthyinae,675,675,51,Subfamily,NULL,8,64,6,363.5,2,35:38.0
+Ptilichthyidae,333,Jordan & Gilbert 1883,quillfishes,quillfishes,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Ptilichthyidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,367,NULL,36:08.0
+Zaproridae,334,Jordan 1896,prowfishes,prowfishes,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Zaproridae,NULL,NULL,596,596,50,Family,NULL,8,64,6,368,NULL,36:10.0
+Cryptacanthodidae,331,Gill 1861,wrymouths,wrymouths,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Cryptacanthodidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,368.1,NULL,36:31.0
+Cebidichthyidae,1228,Gill 1862,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Cebidichthyidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,368.5,NULL,36:34.0
+Scytalinidae,335,Jordan & Starks 1895,graveldivers,graveldivers,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Scytalinidae,NULL,NULL,596,596,50,Family,NULL,8,64,6,369,NULL,36:01.0
+Bathymasteridae,328,Jordan & Gilbert 1883,ronquils,ronquils,Actinopteri,699,Perciformes,1309,Zoarcoidei,596,Bathymasteridae,NULL,NULL,596,596,50,Family,NULL,8,64,6,369.5,NULL,36:39.0
+Bovichtidae,336,Gill 1862,bovichtids,bovichtids,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Bovichtidae,NULL,NULL,597,597,50,Family,NULL,8,64,7,370,NULL,39:21.0
+Pseudaphritidae,771,McCulloch 1929,congollis,NULL,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Pseudaphritidae,NULL,NULL,597,597,50,Family,NULL,8,64,7,370.1,NULL,39:17.0
+Eleginopidae,772,Gill 1893,Patagonian blennies,NULL,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Eleginopidae,NULL,NULL,597,597,50,Family,NULL,8,64,7,370.2,NULL,54:03.0
+Nototheniidae,337,GÃ¼nther 1861,cod icefishes,notothens,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Nototheniidae,NULL,NULL,597,597,50,Family,NULL,8,64,7,371,NULL,39:00.0
+Pleuragrammatinae,1057,Andersen & Hureau 1979,NULL,NULL,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Nototheniidae,337,Pleuragrammatinae,337,337,51,Subfamily,NULL,8,64,7,371,1,39:13.0
+Nototheniinae,1058,GÃ¼nther 1861,notothens,NULL,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Nototheniidae,337,Nototheniinae,337,337,51,Subfamily,NULL,8,64,7,371,2,38:59.0
+Trematominae,1059,Balushkin 1982,NULL,NULL,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Nototheniidae,337,Trematominae,337,337,51,Subfamily,NULL,8,64,7,371,3,38:56.0
+Harpagiferidae,338,Gill 1861,plunderfishes,plunderfishes,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Harpagiferidae,NULL,NULL,597,597,50,Family,NULL,8,64,7,372,NULL,39:01.0
+Artedidraconidae,760,Andriashev 1967,barbeled plunderfishes,Artedidraconidae,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Artedidraconidae,NULL,NULL,597,597,50,Family,NULL,8,64,7,372.5,NULL,39:48.0
+Bathydraconidae,339,Regan 1913,Antarctic dragonfishes,dragonfishes;Antarctic,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Bathydraconidae,NULL,NULL,597,597,50,Family,NULL,8,64,7,373,NULL,39:09.0
+Bathydraconinae,1060,Regan 1913,NULL,NULL,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Bathydraconidae,339,Bathydraconinae,339,339,51,Subfamily,NULL,8,64,7,373,1,39:07.0
+Gymnodraconinae,1061,Andriashev 1983,NULL,NULL,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Bathydraconidae,339,Gymnodraconinae,339,339,51,Subfamily,NULL,8,64,7,373,2,39:02.0
+Channichthyidae,340,Gill 1861,crocodile icefishes,icefishes;crocodile,Actinopteri,699,Perciformes,1309,Notothenioidei,597,Channichthyidae,NULL,NULL,597,597,50,Family,NULL,8,64,7,374,NULL,39:04.0
+Pholidichthyidae,345,Jordan 1896,convict-blennies,convict-blennies,Actinopteri,699,Cichliformes,1187,NULL,NULL,Pholidichthyidae,NULL,NULL,1187,1187,50,Family,NULL,8,51,NULL,380,NULL,34:45.0
+Trichodontidae,346,Bleeker 1859,sandfishes,sandfishes,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Trichodontidae,NULL,NULL,598,598,50,Family,NULL,8,64,8,381,NULL,41:22.0
+Ammodytidae,361,Bonaparte 1835,sand lances,lances;sand,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Ammodytidae,NULL,NULL,598,598,50,Family,NULL,8,64,8,381.5,NULL,41:19.0
+Trachinidae,347,Rafinesque 1815,weeverfishes,weeverfishes,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Trachinidae,NULL,NULL,598,598,50,Family,NULL,8,64,8,382,NULL,41:23.0
+Uranoscopidae,348,Bonaparte 1831,stargazers,stargazers,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Uranoscopidae,NULL,NULL,598,598,50,Family,NULL,8,64,8,383,NULL,41:20.0
+Trichonotidae,349,GÃ¼nther 1861,sand divers,divers;sand,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Trichonotidae,NULL,NULL,598,598,50,Family,NULL,8,64,8,384,NULL,41:21.0
+Leptoscopidae,351,Gill 1859,southern sandfishes,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Leptoscopidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,386,NULL,55:48.0
+Percophidae,352,Swainson 1839,duckbills,duckbills,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Percophidae,NULL,NULL,598,598,50,Family,NULL,8,64,8,387,NULL,41:37.0
+Percophinae,506,Swainson 1839,NULL,NULL,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Percophidae,352,Percophinae,352,352,51,Subfamily,NULL,8,64,8,387,1,41:26.0
+Bembropinae,507,Regan 1913,duckbill flatheads,NULL,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Percophidae,352,Bembropinae,352,352,51,Subfamily,NULL,8,64,8,387,2,41:32.0
+Pinguipedidae,635,GÃ¼nther 1860,sandperches,sandperches,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Pinguipedidae,NULL,NULL,598,598,50,Family,NULL,8,64,8,388,NULL,41:43.0
+Cheimarrichthyidae,933,Regan 1913,New Zealand torrentfishes,NULL,Actinopteri,699,Perciformes,1309,Trachinoidei,598,Cheimarrichthyidae,NULL,NULL,598,598,50,Family,NULL,8,64,8,388.2,NULL,41:28.0
+Tripterygiidae,353,Whitley 1931,threefin blennies,blennies;threefin,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Tripterygiidae,NULL,NULL,1186,1186,50,Family,NULL,8,55,NULL,390.1,NULL,59:33.0
+Notoclininae,1012,Fricke 2009,NULL,NULL,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Tripterygiidae,353,Notoclininae,353,353,51,Subfamily,NULL,8,55,NULL,390.1,2,59:05.0
+Tripterygiinae,1013,Whitley 1931,NULL,NULL,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Tripterygiidae,353,Tripterygiinae,353,353,51,Subfamily,NULL,8,55,NULL,390.1,5,59:41.0
+Labrisomidae,355,Clark Hubbs 1952,labrisomids,labrisomids,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Labrisomidae,NULL,NULL,1186,1186,50,Family,NULL,8,55,NULL,390.2,NULL,58:55.0
+Clinidae,356,Swainson 1839,clinids and klipfishes,clinids/klipfishes,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Clinidae,NULL,NULL,1186,1186,50,Family,NULL,8,55,NULL,390.3,NULL,58:29.0
+Chaenopsidae,357,Gill 1865,pikeblennies,pikeblennies,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Chaenopsidae,NULL,NULL,1186,1186,50,Family,NULL,8,55,NULL,390.4,NULL,58:20.0
+Dactyloscopidae,354,Gill 1859,sand stargazers,stargazers;sand,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Dactyloscopidae,NULL,NULL,1186,1186,50,Family,NULL,8,55,NULL,391,NULL,58:46.0
+Blenniidae,358,Rafinesque 1810,blennies,blennies,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Blenniidae,NULL,NULL,1186,1186,50,Family,NULL,8,55,NULL,395,NULL,57:28.0
+Blenniinae,1009,Rafinesque 1810,NULL,NULL,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Blenniidae,358,Blenniinae,358,358,51,Subfamily,NULL,8,55,NULL,395,2,57:35.0
+Salariinae,1010,Gill 1859,salariid blennies,NULL,Actinopteri,699,Blenniiformes,1186,NULL,NULL,Blenniidae,358,Salariinae,358,358,51,Subfamily,NULL,8,55,NULL,395,5,59:14.0
+Callionymidae,362,Bonaparte 1831,dragonets,dragonets,Actinopteri,699,Perciformes,1309,Callionymoidei,601,Callionymidae,NULL,NULL,601,601,50,Family,NULL,8,64,13,399,NULL,44:44.0
+Draconettidae,363,Jordan & Fowler 1903,draconettids,draconettids,Actinopteri,699,Perciformes,1309,Callionymoidei,601,Draconettidae,NULL,NULL,601,601,50,Family,NULL,8,64,13,400,NULL,44:57.0
+Rhyacichthyidae,364,Jordan 1905,loach gobies,gobies;loach,Actinopteri,699,Gobiiformes,964,NULL,NULL,Rhyacichthyidae,NULL,NULL,964,964,50,Family,NULL,8,48.4,NULL,401,NULL,05:15.0
+Odontobutidae,716,Hoese & Gill 1993,Asian freshwater sleepers,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Odontobutidae,NULL,NULL,964,964,50,Family,NULL,8,48.4,NULL,401.1,NULL,10:36.0
+Eleotridae,365,Bonaparte 1835,sleepers,sleepers,Actinopteri,699,Gobiiformes,964,NULL,NULL,Eleotridae,NULL,NULL,964,964,50,Family,NULL,8,48.4,NULL,402,NULL,03:35.0
+Butinae,881,Bleeker 1874,gudgeons,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Eleotridae,365,Butinae,365,365,51,Subfamily,NULL,8,48.4,NULL,402,1,03:27.0
+Eleotrinae,882,Bonaparte 1835,bullies,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Eleotridae,365,Eleotrinae,365,365,51,Subfamily,NULL,8,48.4,NULL,402,2,03:43.0
+Milyeringinae,1070,Whitley 1945,freshwater cave gobies,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Eleotridae,365,Milyeringinae,365,365,51,Subfamily,NULL,8,48.4,NULL,402,6,04:40.0
+Thalasseleotrididae,1056,Gill & Mooi 2012,ocean sleepers,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Thalasseleotrididae,NULL,NULL,964,964,50,Family,new 2012,8,48.4,NULL,402.5,NULL,05:39.0
+Gobiidae,366,Cuvier 1816,gobies,gobies,Actinopteri,699,Gobiiformes,964,NULL,NULL,Gobiidae,NULL,NULL,964,964,50,Family,NULL,8,48.4,NULL,403,NULL,03:51.0
+Sicydiinae,773,Gill 1860,rock-climbing gobies,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Gobiidae,366,Sicydiinae,366,366,51,Subfamily,NULL,8,48.4,NULL,403,1,05:31.0
+Gobionellinae,774,Bleeker 1874,oxudercids,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Gobiidae,366,Gobionellinae,366,366,51,Subfamily,NULL,8,48.4,NULL,403,2,04:08.0
+Oxudercinae,781,GÃ¼nther 1861,mudskippers and allies,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Gobiidae,366,Oxudercinae,366,366,51,Subfamily,NULL,8,48.4,NULL,403,3,04:57.0
+Amblyopinae,782,GÃ¼nther 1861,mudburrowing gobies,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Gobiidae,366,Amblyopinae,366,366,51,Subfamily,NULL,8,48.4,NULL,403,4,03:15.0
+Gobiinae,783,Cuvier 1816,gobies,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Gobiidae,366,Gobiinae,366,366,51,Subfamily,NULL,8,48.4,NULL,403,5,03:59.0
+Kraemeriidae,367,Whitley 1935 (1911),sand darts,darts;sand,Actinopteri,699,Gobiiformes,964,NULL,NULL,Kraemeriidae,NULL,NULL,964,964,50,Family,NULL,8,48.4,NULL,406,NULL,04:16.0
+Microdesmidae,368,Regan 1912,wormfishes,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Microdesmidae,NULL,NULL,964,964,50,Family,NULL,8,48.4,NULL,407,NULL,04:24.0
+Ptereleotrinae,963,Bleeker 1875,dart-gobies,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Microdesmidae,368,Ptereleotrinae,368,368,51,Subfamily,From Hoese 2006,8,48.4,NULL,407,2,05:05.0
+Microdesminae,966,Regan 1912,NULL,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Microdesmidae,368,Microdesminae,368,368,51,Subfamily,NULL,8,48.4,NULL,407,1,04:32.0
+Xenisthmidae,659,Miller 1973,collared wrigglers,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Xenisthmidae,NULL,NULL,964,964,50,Family,NULL,8,48.4,NULL,407.5,NULL,05:48.0
+Schindleriidae,360,Giltay 1934,infantfishes,NULL,Actinopteri,699,Gobiiformes,964,NULL,NULL,Schindleriidae,NULL,NULL,964,964,50,Family,NULL,8,48.4,NULL,407.6,NULL,05:23.0
+Pomatomidae,276,Gill 1863,bluefishes,bluefishes,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Pomatomidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,410.1,NULL,57:27.0
+Centrolophidae,380,Bonaparte 1846,medusafishes,medusafishes,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Centrolophidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,410.3,NULL,55:53.0
+Icosteidae,359,Jordan & Gilbert 1880,ragfishes,ragfishes,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Icosteidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,410.5,NULL,07:52.0
+Arripidae,285,Gill 1893,Australian salmons,salmons;Australian,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Arripidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,410.7,NULL,08:11.0
+Tetragonuridae,383,Risso 1827,squaretails,squaretails,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Tetragonuridae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,410.9,NULL,08:38.0
+Chiasmodontidae,342,Jordan & Gilbert 1883,swallowers,swallowers,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Chiasmodontidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,411.1,NULL,08:59.0
+Scombridae,375,Rafinesque 1815,"mackerels, tunas and bonitos",tunas/bonitos/mackerels,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Scombridae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,411.3,NULL,09:36.0
+Gasterochismatinae,936,Poey 1869,kingfishes,NULL,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Scombridae,375,Gasterochismatinae,375,375,51,Subfamily,NULL,8,48.1,2,411.3,1,09:47.0
+Scombrinae,937,Rafinesque 1815,NULL,NULL,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Scombridae,375,Scombrinae,375,375,51,Subfamily,NULL,8,48.1,2,411.3,2,10:10.0
+Caristiidae,284,Gill & Smith 1905,veilfins or manefishes,veilfins/manefishes,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Caristiidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,411.5,NULL,14:49.0
+Bramidae,283,Bonaparte 1831,pomfrets,pomfrets,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Bramidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,411.7,NULL,14:30.0
+Scombrolabracidae,372,Fowler 1925,black mackerels,mackerels;black,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Scombrolabracidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,411.9,NULL,14:12.0
+Gempylidae,373,Gill 1862,snake mackerels,mackerels;snake,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Gempylidae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,412,NULL,46:29.0
+Trichiuridae,374,Rafinesque 1810,cutlassfishes,scabbardfishes/cutlassfishes,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Trichiuridae,NULL,NULL,604,604,50,Family,NULL,8,48.1,2,413,NULL,44:24.0
+Aphanopodinae,510,Gill 1863,frostfishes,NULL,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Trichiuridae,374,Aphanopodinae,374,374,51,Subfamily,NULL,8,48.1,2,413,1,43:53.0
+Lepidopodinae,511,Gill 1863,scabbardfishes,NULL,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Trichiuridae,374,Lepidopodinae,374,374,51,Subfamily,NULL,8,48.1,2,413,2,46:42.0
+Trichiurinae,512,Rafinesque 1810,hairtails,NULL,Actinopteri,699,Scombriformes,1179,Scombroidei,604,Trichiuridae,374,Trichiurinae,374,374,51,Subfamily,NULL,8,48.1,2,413,3,44:14.0
+Xiphiidae,376,Rafinesque 1815,swordfishes,swordfishes,Actinopteri,699,Carangiformes,758,Menoidei,1323,Xiphiidae,NULL,NULL,1323,1323,50,Family,NULL,8,50,5,415,NULL,07:39.0
+Istiophoridae,378,Rafinesque 1815,billfishes and marlins,billfishes/marlins,Actinopteri,699,Carangiformes,758,Menoidei,1323,Istiophoridae,NULL,NULL,1323,1323,50,Family,NULL,8,50,5,417,NULL,08:26.0
+Amarsipidae,379,Haedrich 1969,bagless glassfishes or amarsipas,amarsipids,Actinopteri,699,Scombriformes,1179,Stromateoidei,605,Amarsipidae,NULL,NULL,605,605,50,Family,NULL,8,48.1,1,418,NULL,48:17.0
+Nomeidae,381,GÃ¼nther 1860,flotsamfishes or driftfishes,flotsamfishes/driftfishes,Actinopteri,699,Scombriformes,1179,Stromateoidei,605,Nomeidae,NULL,NULL,605,605,50,Family,NULL,8,48.1,1,420,NULL,49:06.0
+Ariommatidae,382,Haedrich 1967,ariommas or ariommatids,ariommatids,Actinopteri,699,Scombriformes,1179,Stromateoidei,605,Ariommatidae,NULL,NULL,605,605,50,Family,NULL,8,48.1,1,421,NULL,03:40.0
+Stromateidae,384,Rafinesque 1810,butterfishes,butterfishes,Actinopteri,699,Scombriformes,1179,Stromateoidei,605,Stromateidae,NULL,NULL,605,605,50,Family,NULL,8,48.1,1,423,NULL,49:26.0
+Anabantidae,385,Bonaparte 1831,climbing gouramies,gouramies;climbing,Actinopteri,699,Anabantiformes,1183,Anabantoidei,606,Anabantidae,NULL,NULL,606,606,50,Family,NULL,8,48.6,1,424,NULL,59:35.0
+Helostomatidae,387,Gill 1872,kissing gouramies,gouramies;kissing,Actinopteri,699,Anabantiformes,1183,Anabantoidei,606,Helostomatidae,NULL,NULL,606,606,50,Family,NULL,8,48.6,1,424.5,NULL,00:27.0
+Osphronemidae,389,van der Hoeven 1832,gouramies,NULL,Actinopteri,699,Anabantiformes,1183,Anabantoidei,606,Osphronemidae,NULL,NULL,606,606,50,Family,NULL,8,48.6,1,425,NULL,01:22.0
+Macropodusinae,739,Hoedeman 1948,paradise fishes and fighting fishes,NULL,Actinopteri,699,Anabantiformes,1183,Anabantoidei,606,Osphronemidae,389,Macropodusinae,389,389,51,Subfamily,Orignally as Macropodinae; emended to Macropodusinae in Opinion 2058 in 2003.,8,48.6,1,425,6,01:03.0
+Luciocephalinae,776,Bleeker 1852,spiral egg gouramies,NULL,Actinopteri,699,Anabantiformes,1183,Anabantoidei,606,Osphronemidae,389,Luciocephalinae,389,389,51,Subfamily,NULL,8,48.6,1,425,3,00:43.0
+Osphroneminae,777,van der Hoeven 1832,giant gouramies,NULL,Actinopteri,699,Anabantiformes,1183,Anabantoidei,606,Osphronemidae,389,Osphroneminae,389,389,51,Subfamily,NULL,8,48.6,1,425,2,01:40.0
+Belontiinae,778,Liem 1962,combtail gouramies,NULL,Actinopteri,699,Anabantiformes,1183,Anabantoidei,606,Osphronemidae,389,Belontiinae,389,389,51,Subfamily,NULL,8,48.6,1,425,1,00:06.0
+Trichogastrinae,1121,Bleeker 1879,threadfishes,NULL,Actinopteri,699,Anabantiformes,1183,Anabantoidei,606,Osphronemidae,389,Trichogastrinae,389,389,51,Subfamily,NULL,8,48.6,1,425,5,01:59.0
+Aenigmachannidae,1331,Britz et al. 2020,Gollum snakehead fishes,NULL,Actinopteri,699,Anabantiformes,1183,Channoidei,607,Aenigmachannidae,NULL,NULL,607,607,50,Family,NULL,8,48.6,2,428,NULL,57:33.0
+Channidae,390,Fowler 1934 (1831),snakeheads,snakeheads,Actinopteri,699,Anabantiformes,1183,Channoidei,607,Channidae,NULL,NULL,607,607,50,Family,NULL,8,48.6,2,429,NULL,03:20.0
+Mastacembelidae,674,Swainson 1839,spiny-eels,spiny-eels,Actinopteri,699,Synbranchiformes,559,Mastacembeloidei,1181,Mastacembelidae,NULL,NULL,1181,1181,50,Family,NULL,8,48.5,1,430,NULL,55:15.0
+Chaudhuriidae,391,Annandale 1918,earthworm eels,NULL,Actinopteri,699,Synbranchiformes,559,Mastacembeloidei,1181,Chaudhuriidae,NULL,NULL,1181,1181,50,Family,NULL,8,48.5,1,431,NULL,55:03.0
+Psettodidae,392,Regan 1910,spiny turbots,psettodids,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Psettodidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,432,NULL,58:02.0
+Citharidae,393,de Buen 1935,largescale flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Citharidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,433,NULL,25:13.0
+Scophthalmidae,513,Chabanaud 1933,turbots,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Scophthalmidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,434.1,NULL,25:48.0
+Bothidae,394,Smitt 1892,lefteye flounders,flounders;lefteye,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Bothidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,434.3,NULL,25:07.0
+Paralichthyidae,514,Regan 1910,sand flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Paralichthyidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,434.7,NULL,25:30.0
+Pleuronectinae,518,Rafinesque 1815,true flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Pleuronectidae,768,Pleuronectinae,768,768,51,Subfamily,NULL,8,50,2,435,5,25:35.0
+Pleuronectidae,768,Rafinesque 1815,righteye flounders,"flounders,righteye",Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Pleuronectidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,435,NULL,25:32.0
+Microstominae,1220,Cooper & Chapleau 1998,smallmouth flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Pleuronectidae,768,Microstominae,768,768,51,Subfamily,NULL,8,50,2,435,3,25:24.0
+Hippoglossinae,1221,Gill 1864,halibuts,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Pleuronectidae,768,Hippoglossinae,768,768,51,Subfamily,NULL,8,50,2,435,4,25:19.0
+Atheresthinae,1222,"Vinnikov, Thomson & Munroe 2018",NULL,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Pleuronectidae,768,Atheresthinae,768,768,51,Subfamily,NULL,8,50,2,435,1,25:05.0
+Pleuronichthyinae,1223,"Vinnikov, Thomson & Munroe 2018",NULL,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Pleuronectidae,768,Pleuronichthyinae,768,768,51,Subfamily,NULL,8,50,2,435,2,25:39.0
+Achiridae,521,Rafinesque 1815,American soles,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Achiridae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,435.1,NULL,24:21.0
+Paralichthodidae,1217,Regan 1920,peppered flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Paralichthodidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,435.2,NULL,25:29.0
+Rhombosoleidae,1218,Regan 1910,South Pacific flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Rhombosoleidae,NULL,NULL,1300,1300,50,Family,*Oncopterus* now in Oncopteridae.,8,50,2,435.3,NULL,25:44.0
+Achiropsettidae,693,Heemstra 1990,southern or armless flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Achiropsettidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,435.4,NULL,25:02.0
+Oncopteridae,1298,Jordan & Goss 1889,remo flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Oncopteridae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,435.5,NULL,25:27.0
+Samaridae,517,Jordan & Goss 1889,crested flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Samaridae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,435.6,NULL,25:46.0
+Poecilopsettidae,1219,Norman 1934,bigeye flounders,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Poecilopsettidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,435.7,NULL,25:41.0
+Soleidae,396,Bonaparte 1833,soles,soles,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Soleidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,437,NULL,26:10.0
+Cynoglossidae,395,Jordan 1888,tonguefishes,tonguefishes,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Cynoglossidae,NULL,NULL,1300,1300,50,Family,NULL,8,50,2,437.5,NULL,25:15.0
+Symphurinae,519,Ochiai 1963,straightsnout tongue soles,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Cynoglossidae,395,Symphurinae,395,395,51,Subfamily,NULL,8,50,2,437.5,1,23:43.0
+Cynoglossinae,520,Jordan 1888,hookedsnout tongue soles,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,1300,Cynoglossidae,395,Cynoglossinae,395,395,51,Subfamily,NULL,8,50,2,437.5,2,25:16.0
+Champsodontidae,343,Jordan & Snyder 1902,gapers,gapers,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Champsodontidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,500,NULL,53:50.0
+Hemerocoetidae,1275,Kaup 1873,Indo-Pacific duckbills,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Hemerocoetidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,501,NULL,56:48.0
+Creediidae,350,Waite 1899,sand burrowers,burrowers;sand,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Creediidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,502,NULL,55:28.0
+Glaucosomatidae,263,Jordan & Thompson 1911,pearl perches,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Glaucosomatidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,503,NULL,56:29.0
+Pempheridae,300,Bleeker 1859,sweepers,sweepers,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Pempheridae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,504,NULL,52:45.0
+Lateolabracidae,775,"Ghedotti, Davis and Smith 2018",Asian seaperches,"Seaperches, Asian",Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Lateolabracidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,505,NULL,53:37.0
+Synagropidae,667,Smith 1961,splitfin ocean-basses,lanternbellies,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Synagropidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,506,NULL,02:08.0
+Dinolestidae,272,Whitley 1948,longfinned pikes,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Dinolestidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,507,NULL,55:48.0
+Malakichthyidae,1276,Jordan & Richardson 1910,temperate ocean-basses,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Malakichthyidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,508,NULL,19:09.0
+Polyprionidae,670,Bleeker 1874,wreckfishes,wreckfishes,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Polyprionidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,509,NULL,51:35.0
+Bathyclupeidae,302,Gill 1896,bathyclupeids,bathyclupeids,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Bathyclupeidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,510,NULL,55:11.0
+Banjosidae,266,Jordan & Thompson 1912,banjofishes,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Banjosidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,511,NULL,54:55.0
+Pentacerotidae,310,Bleeker 1859,armorheads,armorheads,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Pentacerotidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,512,NULL,52:19.0
+Histiopterinae,1063,Bleeker 1876,sailfin armorheads,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Pentacerotidae,310,Histiopterinae,310,310,51,Subfamily,NULL,8,62.8,NULL,512,1,54:35.0
+Pentacerotinae,1064,Bleeker 1859,NULL,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Pentacerotidae,310,Pentacerotinae,310,310,51,Subfamily,NULL,8,62.8,NULL,512,2,52:01.0
+Ostracoberycidae,750,Fowler 1934,shellskin alfonsinos,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Ostracoberycidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,513,NULL,53:12.0
+Epigonidae,669,Poey 1861,deepwater cardinalfishes,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Epigonidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,514,NULL,56:09.0
+Symphysanodontidae,700,Katayama 1984,slopefishes,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Symphysanodontidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,515,NULL,47:58.0
+Howellidae,962,Ogilby 1899,oceanic basslets,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Howellidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,516,NULL,54:06.0
+Scombropidae,672,Gill 1862,gnomefishes,gnomefishes,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Scombropidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,517,NULL,51:16.0
+Acropomatidae,1277,Gill 1893,lanternbellies,NULL,Actinopteri,699,Acropomatiformes,1274,NULL,NULL,Acropomatidae,NULL,NULL,1274,1274,50,Family,NULL,8,62.8,NULL,518,NULL,34:27.0
+Lobotidae,289,Gill 1861,tripletails and tigerperches,tripletails,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Lobotidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,601,NULL,27:21.0
+Pomacanthidae,308,Jordan & Evermann 1898,angelfishes,angelfishes,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Pomacanthidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,602,NULL,34:49.0
+Drepaneidae,502,Gill 1872,sicklefishes,sicklefishes,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Drepaneidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,603,NULL,33:54.0
+Chaetodontidae,307,Rafinesque 1815,butterflyfishes,butterflyfishes,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Chaetodontidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,604,NULL,36:37.0
+Ephippidae,305,Bleeker 1859,spadefishes and batfishes,spadefishes/batfishes/scats,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Ephippidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,605,NULL,25:51.0
+Leiognathidae,282,Gill 1893,ponyfishes or slipmouths,ponyfishes/slipmouths,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Leiognathidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,606,NULL,35:50.0
+Leiognathinae,1104,Gill 1893,NULL,NULL,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Leiognathidae,282,Leiognathinae,282,282,51,Subfamily,NULL,8,57,NULL,606,1,36:11.0
+Gazzinae,1107,Chakrabarty & Sparks 2015,NULL,NULL,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Leiognathidae,282,Gazzinae,282,282,51,Subfamily,NULL,8,57,NULL,606,2,35:23.0
+Scatophagidae,306,Gill 1883,scats,scats,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Scatophagidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,607,NULL,26:30.0
+Antigoniidae,1307,Jordan & Evermann 1898,NULL,NULL,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Antigoniidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,608,NULL,32:45.0
+Siganidae,371,Richardson 1837,rabbitfishes,rabbitfishes,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Siganidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,609,NULL,26:47.0
+Caproidae,867,Bonaparte 1835,boarfishes,NULL,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Caproidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,610,NULL,27:45.0
+Luvaridae,377,Gill 1885,luvars,luvars,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Luvaridae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,611,NULL,26:10.0
+Zanclidae,509,Bleeker 1876,moorish idols,idols;moorish,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Zanclidae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,612,NULL,27:08.0
+Acanthuridae,370,Bonaparte 1835,surgeonfishes and unicornfishes,surgeonfishes/unicornfishes,Actinopteri,699,Acanthuriformes,946,NULL,NULL,Acanthuridae,NULL,NULL,946,946,50,Family,NULL,8,57,NULL,613,NULL,25:33.0
+Myxiniformes,525,NULL,NULL,NULL,Myxini,636,Myxiniformes,NULL,NULL,NULL,NULL,NULL,NULL,636,636,40,Order,NULL,1,1,NULL,NULL,NULL,NULL
+Petromyzontiformes,526,NULL,NULL,NULL,Petromyzonti,983,Petromyzontiformes,NULL,NULL,NULL,NULL,NULL,NULL,983,983,40,Order,NULL,3,5,NULL,NULL,NULL,10:25.0
+Hexanchiformes,528,NULL,NULL,NULL,Elasmobranchii,637,Hexanchiformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,6,NULL,NULL,NULL,NULL
+Heterodontiformes,529,NULL,NULL,NULL,Elasmobranchii,637,Heterodontiformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,7,NULL,NULL,NULL,NULL
+Ceratodontiformes,530,NULL,NULL,NULL,Dipneusti,647,Ceratodontiformes,NULL,NULL,NULL,NULL,NULL,NULL,647,647,40,Order,NULL,10,4,NULL,NULL,NULL,56:03.0
+Coelacanthiformes,532,NULL,NULL,NULL,Coelacanthi,639,Coelacanthiformes,NULL,NULL,NULL,NULL,NULL,NULL,639,639,40,Order,NULL,9,1,NULL,NULL,NULL,38:30.0
+Polypteriformes,533,NULL,NULL,NULL,Cladistii,1088,Polypteriformes,NULL,NULL,NULL,NULL,NULL,NULL,1088,1088,40,Order,NULL,7,7,NULL,NULL,NULL,02:44.0
+Acipenseriformes,534,NULL,NULL,NULL,Actinopteri,699,Acipenseriformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,7.5,NULL,NULL,NULL,28:29.0
+Lepisosteiformes,535,NULL,NULL,NULL,Actinopteri,699,Lepisosteiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,18,NULL,NULL,NULL,29:27.0
+Amiiformes,536,NULL,NULL,NULL,Actinopteri,699,Amiiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,22,NULL,NULL,NULL,31:33.0
+Osteoglossiformes,537,NULL,NULL,NULL,Actinopteri,699,Osteoglossiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,33.5,NULL,NULL,NULL,34:32.0
+Elopiformes,538,NULL,NULL,NULL,Actinopteri,699,Elopiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,30,NULL,NULL,NULL,32:18.0
+Anguilliformes,539,NULL,NULL,NULL,Actinopteri,699,Anguilliformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,32,NULL,NULL,NULL,33:09.0
+Clupeiformes,540,NULL,NULL,NULL,Actinopteri,699,Clupeiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,34,NULL,NULL,NULL,37:30.0
+Gonorynchiformes,541,NULL,NULL,NULL,Actinopteri,699,Gonorynchiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,35,NULL,NULL,NULL,37:56.0
+Cypriniformes,542,NULL,NULL,NULL,Actinopteri,699,Cypriniformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,36,NULL,NULL,NULL,38:08.0
+Siluriformes,543,NULL,NULL,NULL,Actinopteri,699,Siluriformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,38,NULL,NULL,NULL,02:51.0
+Gymnotiformes,544,NULL,knifefishes,Knifefishes,Actinopteri,699,Gymnotiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,37.5,NULL,NULL,NULL,04:58.0
+Osmeriformes,545,NULL,NULL,NULL,Actinopteri,699,Osmeriformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,40,NULL,NULL,NULL,52:35.0
+Aulopiformes,546,NULL,NULL,NULL,Actinopteri,699,Aulopiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,42,NULL,NULL,NULL,54:09.0
+Lophiiformes,547,NULL,anglerfishes,NULL,Actinopteri,699,Lophiiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,58,NULL,NULL,NULL,17:22.0
+Percopsiformes,548,NULL,NULL,NULL,Actinopteri,699,Percopsiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,45,NULL,NULL,NULL,12:59.0
+Gadiformes,549,NULL,NULL,NULL,Actinopteri,699,Gadiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,46,NULL,NULL,NULL,13:08.0
+Ophidiiformes,550,NULL,NULL,NULL,Actinopteri,699,Ophidiiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,47,NULL,NULL,NULL,13:42.0
+Batrachoidiformes,551,NULL,NULL,NULL,Actinopteri,699,Batrachoidiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,48,NULL,NULL,NULL,14:20.0
+Myctophiformes,552,NULL,NULL,anglerfishes,Actinopteri,699,Myctophiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,43,NULL,NULL,NULL,19:58.0
+Gobiesociformes,553,NULL,NULL,NULL,Actinopteri,699,Gobiesociformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,54,NULL,NULL,NULL,17:44.0
+Lampriformes,554,NULL,NULL,NULL,Actinopteri,699,Lampriformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,43.5,NULL,NULL,NULL,54:53.0
+Beryciformes,555,NULL,NULL,NULL,Actinopteri,699,Beryciformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,46.2,NULL,NULL,NULL,53:32.0
+Zeiformes,556,NULL,NULL,NULL,Actinopteri,699,Zeiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,45.4,NULL,NULL,NULL,23:30.0
+Syngnathiformes,558,NULL,NULL,NULL,Actinopteri,699,Syngnathiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,48.2,NULL,NULL,NULL,57:25.0
+Synbranchiformes,559,NULL,NULL,NULL,Actinopteri,699,Synbranchiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,48.5,NULL,NULL,NULL,51:19.0
+Perciformes *sedis mutabilis*,561,NULL,NULL,NULL,Actinopteri,699,Perciformes *sedis mutabilis*,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,63,NULL,NULL,NULL,27:20.0
+Tetraodontiformes,562,NULL,NULL,NULL,Actinopteri,699,Tetraodontiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,59,NULL,NULL,NULL,27:56.0
+Orectolobiformes,575,NULL,NULL,NULL,Elasmobranchii,637,Orectolobiformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,8,NULL,NULL,NULL,NULL
+Lamniformes,576,NULL,NULL,NULL,Elasmobranchii,637,Lamniformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,8.5,NULL,NULL,NULL,NULL
+Carcharhiniformes,577,NULL,NULL,NULL,Elasmobranchii,637,Carcharhiniformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,8.7,NULL,NULL,NULL,NULL
+Pristiophoriformes,578,NULL,NULL,NULL,Elasmobranchii,637,Pristiophoriformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,9.5,NULL,NULL,NULL,NULL
+Squatiniformes,579,NULL,NULL,NULL,Elasmobranchii,637,Squatiniformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,9.7,NULL,NULL,NULL,NULL
+Rhinopristiformes,580,"Last, SÃ©ret & Naylor 2016",NULL,NULL,Elasmobranchii,637,Rhinopristiformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,10.2,NULL,NULL,NULL,32:26.0
+Albuliformes,581,NULL,NULL,NULL,Actinopteri,699,Albuliformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,30.5,NULL,NULL,NULL,32:27.0
+Saccopharyngiformes,582,NULL,NULL,NULL,Actinopteri,699,Saccopharyngiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,33,NULL,NULL,NULL,37:19.0
+Esociformes,583,NULL,NULL,NULL,Actinopteri,699,Esociformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,39.1,NULL,NULL,NULL,52:26.0
+Ateleopodiformes,585,NULL,NULL,NULL,Actinopteri,699,Ateleopodiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,41.5,NULL,NULL,NULL,54:04.0
+Polymixiiformes,586,NULL,NULL,NULL,Actinopteri,699,Polymixiiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,46.1,NULL,NULL,NULL,52:08.0
+Scorpaenoidei,589,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Scorpaenoidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,23,NULL,NULL,11:36.0
+Cottoidei,592,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Cottoidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,26,NULL,NULL,17:47.0
+Percoidei,593,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Percoidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,1,NULL,NULL,15:35.0
+Labroidei,595,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Labroidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,2,NULL,NULL,30:34.0
+Zoarcoidei,596,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Zoarcoidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,6,NULL,NULL,33:28.0
+Notothenioidei,597,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Notothenioidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,7,NULL,NULL,38:19.0
+Trachinoidei,598,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Trachinoidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,8,NULL,NULL,40:46.0
+Callionymoidei,601,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Callionymoidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,13,NULL,NULL,42:49.0
+Scombroidei,604,NULL,NULL,NULL,Actinopteri,699,Scombriformes,1179,Scombroidei,NULL,NULL,NULL,NULL,1179,1179,41,Suborder,NULL,8,48.1,2,NULL,NULL,41:22.0
+Stromateoidei,605,NULL,NULL,NULL,Actinopteri,699,Scombriformes,1179,Stromateoidei,NULL,NULL,NULL,NULL,1179,1179,41,Suborder,NULL,8,48.1,1,NULL,NULL,47:48.0
+Anabantoidei,606,NULL,NULL,NULL,Actinopteri,699,Anabantiformes,1183,Anabantoidei,NULL,NULL,NULL,NULL,1183,1183,41,Suborder,NULL,8,48.6,1,NULL,NULL,59:20.0
+Channoidei,607,NULL,NULL,NULL,Actinopteri,699,Anabantiformes,1183,Channoidei,NULL,NULL,NULL,NULL,1183,1183,41,Suborder,NULL,8,48.6,2,NULL,NULL,03:04.0
+Holocephali,610,NULL,NULL,NULL,Holocephali,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,30,Class,NULL,6,NULL,NULL,NULL,NULL,NULL
+Myxini,636,NULL,NULL,NULL,Myxini,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,30,Class,NULL,1,NULL,NULL,NULL,NULL,03:34.0
+Elasmobranchii,637,NULL,NULL,NULL,Elasmobranchii,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,30,Class,NULL,5,NULL,NULL,NULL,NULL,NULL
+Notacanthiformes,638,NULL,NULL,NULL,Actinopteri,699,Notacanthiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,31,NULL,NULL,NULL,33:01.0
+Coelacanthi,639,NULL,NULL,NULL,Coelacanthi,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,30,Class,NULL,9,NULL,NULL,NULL,NULL,08:43.0
+Dipneusti,647,NULL,NULL,NULL,Dipneusti,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,30,Class,NULL,10,NULL,NULL,NULL,NULL,54:48.0
+Atheriniformes,650,NULL,NULL,NULL,Actinopteri,699,Atheriniformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,51.5,NULL,NULL,NULL,15:33.0
+Dactylopteroidei,655,NULL,NULL,NULL,Actinopteri,699,Syngnathiformes,558,Dactylopteroidei,NULL,NULL,NULL,NULL,558,558,41,Suborder,NULL,8,48.2,2,NULL,NULL,40:59.0
+Beloniformes,681,NULL,NULL,NULL,Actinopteri,699,Beloniformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,52.5,NULL,NULL,NULL,17:07.0
+Actinopteri,699,Cope 1871,NULL,NULL,Actinopteri,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,30,Class,NULL,8,NULL,NULL,NULL,NULL,45:57.0
+Stomiiformes,743,NULL,NULL,NULL,Actinopteri,699,Stomiiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,41,NULL,NULL,NULL,53:25.0
+Cyprinodontiformes,744,NULL,NULL,NULL,Actinopteri,699,Cyprinodontiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,52,NULL,NULL,NULL,16:20.0
+Rajiformes,746,NULL,skates and rays,skates/rays,Elasmobranchii,637,Rajiformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,10.5,NULL,NULL,NULL,NULL
+Torpediniformes,747,NULL,NULL,NULL,Elasmobranchii,637,Torpediniformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,10,NULL,NULL,NULL,NULL
+Squaliformes,748,NULL,NULL,NULL,Elasmobranchii,637,Squaliformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,9,NULL,NULL,NULL,NULL
+Salmoniformes,756,NULL,NULL,NULL,Actinopteri,699,Salmoniformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,39.5,NULL,NULL,NULL,32:55.0
+Carangiformes,758,NULL,NULL,NULL,Actinopteri,699,Carangiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,50,NULL,NULL,NULL,55:33.0
+Characiformes,873,NULL,NULL,NULL,Actinopteri,699,Characiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,37,NULL,NULL,NULL,39:26.0
+Acanthuriformes,946,NULL,NULL,NULL,Actinopteri,699,Acanthuriformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,57,NULL,NULL,NULL,25:07.0
+Gobiiformes,964,NULL,NULL,NULL,Actinopteri,699,Gobiiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,48.4,NULL,NULL,NULL,03:01.0
+Petromyzonti,983,NULL,NULL,NULL,Petromyzonti,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,30,Class,NULL,3,NULL,NULL,NULL,NULL,08:45.0
+Myliobatiformes,1047,NULL,NULL,NULL,Elasmobranchii,637,Myliobatiformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,10.6,NULL,NULL,NULL,20:45.0
+Chimaeriformes,1082,NULL,NULL,NULL,Holocephali,610,Chimaeriformes,NULL,NULL,NULL,NULL,NULL,NULL,610,610,40,Order,NULL,6,1,NULL,NULL,NULL,42:53.0
+Cladistii,1088,NULL,NULL,NULL,Cladistii,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,30,Class,NULL,7,NULL,NULL,NULL,NULL,44:04.0
+Gyrinocheiloidei,1156,NULL,NULL,NULL,Actinopteri,699,Cypriniformes,542,Gyrinocheiloidei,NULL,NULL,NULL,NULL,542,542,41,Suborder,NULL,8,36,1,NULL,NULL,02:04.0
+Catostomoidei,1157,NULL,NULL,NULL,Actinopteri,699,Cypriniformes,542,Catostomoidei,NULL,NULL,NULL,NULL,542,542,41,Suborder,NULL,8,36,2,NULL,NULL,03:44.0
+Cobitoidei,1158,NULL,NULL,NULL,Actinopteri,699,Cypriniformes,542,Cobitoidei,NULL,NULL,NULL,NULL,542,542,41,Suborder,NULL,8,36,3,NULL,NULL,04:36.0
+Cyprinoidei,1159,NULL,NULL,NULL,Actinopteri,699,Cypriniformes,542,Cyprinoidei,NULL,NULL,NULL,NULL,542,542,41,Suborder,NULL,8,36,4,NULL,NULL,05:08.0
+Hiodontiformes,1169,NULL,NULL,NULL,Actinopteri,699,Hiodontiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,33.2,NULL,NULL,NULL,23:05.0
+Mugiliformes,1175,NULL,NULL,NULL,Actinopteri,699,Mugiliformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,53,NULL,NULL,NULL,47:27.0
+Kurtiformes,1177,NULL,NULL,NULL,Actinopteri,699,Kurtiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,48.3,NULL,NULL,NULL,00:56.0
+Stylephoriformes,1178,NULL,NULL,NULL,Actinopteri,699,Stylephoriformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,45.6,NULL,NULL,NULL,28:51.0
+Scombriformes,1179,NULL,NULL,NULL,Actinopteri,699,Scombriformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,48.1,NULL,NULL,NULL,32:47.0
+Synbranchoidei,1180,NULL,NULL,NULL,Actinopteri,699,Synbranchiformes,559,Synbranchoidei,NULL,NULL,NULL,NULL,559,559,41,Suborder,NULL,8,48.5,3,NULL,NULL,52:32.0
+Mastacembeloidei,1181,NULL,NULL,NULL,Actinopteri,699,Synbranchiformes,559,Mastacembeloidei,NULL,NULL,NULL,NULL,559,559,41,Suborder,NULL,8,48.5,1,NULL,NULL,54:54.0
+Indostomoidei,1182,NULL,NULL,NULL,Actinopteri,699,Synbranchiformes,559,Indostomoidei,NULL,NULL,NULL,NULL,559,559,41,Suborder,NULL,8,48.5,2,NULL,NULL,56:38.0
+Anabantiformes,1183,NULL,NULL,NULL,Actinopteri,699,Anabantiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,48.6,NULL,NULL,NULL,58:33.0
+Nandoidei,1184,NULL,NULL,NULL,Actinopteri,699,Anabantiformes,1183,Nandoidei,NULL,NULL,NULL,NULL,1183,1183,41,Suborder,NULL,8,48.6,3,NULL,NULL,04:46.0
+Stephanoberycoidei,1185,NULL,NULL,NULL,Actinopteri,699,Beryciformes,555,Stephanoberycoidei,NULL,NULL,NULL,NULL,555,555,41,Suborder,NULL,8,46.2,2,NULL,NULL,13:50.0
+Blenniiformes,1186,NULL,NULL,NULL,Actinopteri,699,Blenniiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,55,NULL,NULL,NULL,57:15.0
+Cichliformes,1187,NULL,NULL,NULL,Actinopteri,699,Cichliformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,51,NULL,NULL,NULL,07:16.0
+Berycoidei,1189,NULL,NULL,NULL,Actinopteri,699,Beryciformes,555,Berycoidei,NULL,NULL,NULL,NULL,555,555,41,Suborder,NULL,8,46.2,1,NULL,NULL,42:48.0
+Trachichthyiformes,1190,NULL,NULL,NULL,Actinopteri,699,Trachichthyiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,46.4,NULL,NULL,NULL,44:11.0
+Holocentriformes,1191,NULL,NULL,NULL,Actinopteri,699,Holocentriformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,46.6,NULL,NULL,NULL,46:26.0
+Gasterosteoidei,1192,NULL,NULL,NULL,Actinopteri,699,Perciformes,1309,Gasterosteoidei,NULL,NULL,NULL,NULL,1309,1309,41,Suborder,NULL,8,64,25,NULL,NULL,16:28.0
+Triacanthodoidei,1193,NULL,NULL,NULL,Actinopteri,699,Tetraodontiformes,562,Triacanthodoidei,NULL,NULL,NULL,NULL,562,562,41,Suborder,NULL,8,59,1,NULL,NULL,19:58.0
+Tetraodontoidei,1194,NULL,NULL,NULL,Actinopteri,699,Tetraodontiformes,562,Tetraodontoidei,NULL,NULL,NULL,NULL,562,562,41,Suborder,NULL,8,59,2,NULL,NULL,20:55.0
+Balistoidei,1195,NULL,NULL,NULL,Actinopteri,699,Tetraodontiformes,562,Balistoidei,NULL,NULL,NULL,NULL,562,562,41,Suborder,NULL,8,59,3,NULL,NULL,21:49.0
+Aplocheiloidei,1202,NULL,NULL,NULL,Actinopteri,699,Cyprinodontiformes,744,Aplocheiloidei,NULL,NULL,NULL,NULL,744,744,41,Suborder,NULL,8,52,1,NULL,NULL,15:41.0
+Cyprinodontoidei,1203,NULL,NULL,NULL,Actinopteri,699,Cyprinodontiformes,744,Cyprinodontoidei,NULL,NULL,NULL,NULL,744,744,41,Suborder,NULL,8,52,2,NULL,NULL,16:50.0
+Syngnathoidei,1216,NULL,NULL,NULL,Actinopteri,699,Syngnathiformes,558,Syngnathoidei,NULL,NULL,NULL,NULL,558,558,41,Suborder,NULL,8,48.2,1,NULL,NULL,47:00.0
+Alepocephaliformes,1273,NULL,NULL,NULL,Actinopteri,699,Alepocephaliformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,34.5,NULL,NULL,NULL,12:37.0
+Acropomatiformes,1274,NULL,NULL,NULL,Actinopteri,699,Acropomatiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,62.8,NULL,NULL,NULL,12:02.0
+Centrarchiformes,1278,NULL,NULL,NULL,Actinopteri,699,Centrarchiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,62.6,NULL,NULL,NULL,59:04.0
+Percichthyoidei,1279,NULL,NULL,NULL,Actinopteri,699,Centrarchiformes,1278,Percichthyoidei,NULL,NULL,NULL,NULL,1278,1278,41,Suborder,NULL,8,62.6,1,NULL,NULL,17:27.0
+Terapontoidei,1280,NULL,NULL,NULL,Actinopteri,699,Centrarchiformes,1278,Terapontoidei,NULL,NULL,NULL,NULL,1278,1278,41,Suborder,NULL,8,62.6,2,NULL,NULL,20:20.0
+Centrarchoidei,1281,NULL,NULL,NULL,Actinopteri,699,Centrarchiformes,1278,Centrarchoidei,NULL,NULL,NULL,NULL,1278,1278,41,Suborder,NULL,8,62.6,3,NULL,NULL,21:17.0
+Cirrhitioidei,1282,NULL,NULL,NULL,Actinopteri,699,Centrarchiformes,1278,Cirrhitioidei,NULL,NULL,NULL,NULL,1278,1278,41,Suborder,NULL,8,62.6,4,NULL,NULL,22:17.0
+Lepidogalaxiiformes,1283,NULL,NULL,NULL,Actinopteri,699,Lepidogalaxiiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,38.2,NULL,NULL,NULL,36:23.0
+Argentiniformes,1284,NULL,NULL,NULL,Actinopteri,699,Argentiniformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,38.4,NULL,NULL,NULL,37:13.0
+Galaxiiformes,1285,NULL,NULL,NULL,Actinopteri,699,Galaxiiformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,38.6,NULL,NULL,NULL,38:05.0
+Percalatoidei,1287,NULL,NULL,NULL,Actinopteri,699,Centrarchiformes,1278,Percalatoidei,NULL,NULL,NULL,NULL,1278,1278,41,Suborder,NULL,8,62.6,5,NULL,NULL,52:08.0
+Echinorhiniformes,1295,NULL,NULL,NULL,Elasmobranchii,637,Echinorhiniformes,NULL,NULL,NULL,NULL,NULL,NULL,637,637,40,Order,NULL,5,9.2,NULL,NULL,NULL,06:05.0
+Centropomoidei,1299,NULL,NULL,NULL,Actinopteri,699,Carangiformes,758,Centropomoidei,NULL,NULL,NULL,NULL,758,758,41,Suborder,NULL,8,50,1,NULL,NULL,56:58.0
+Pleuronectoidei,1300,NULL,NULL,NULL,Actinopteri,699,Carangiformes,758,Pleuronectoidei,NULL,NULL,NULL,NULL,758,758,41,Suborder,NULL,8,50,2,NULL,NULL,22:36.0
+Siluroidei,1301,NULL,NULL,NULL,Actinopteri,699,Siluriformes,543,Siluroidei,NULL,NULL,NULL,NULL,543,543,41,Suborder,NULL,8,38,4,NULL,NULL,53:17.0
+Diplomystoidei,1302,NULL,NULL,NULL,Actinopteri,699,Siluriformes,543,Diplomystoidei,NULL,NULL,NULL,NULL,543,543,41,Suborder,NULL,8,38,3,NULL,NULL,07:19.0
+Loricarioidei,1303,NULL,NULL,NULL,Actinopteri,699,Siluriformes,543,Loricarioidei,NULL,NULL,NULL,NULL,543,543,41,Suborder,NULL,8,38,2,NULL,NULL,55:33.0
+Characoidei,1304,NULL,NULL,NULL,Actinopteri,699,Characiformes,873,Characoidei,NULL,NULL,NULL,NULL,873,873,41,Suborder,NULL,8,37,2,NULL,NULL,16:16.0
+Citharinoidei,1305,NULL,NULL,NULL,Actinopteri,699,Characiformes,873,Citharinoidei,NULL,NULL,NULL,NULL,873,873,41,Suborder,NULL,8,37,1,NULL,NULL,17:12.0
+Perciformes,1309,NULL,NULL,NULL,Actinopteri,699,Perciformes,NULL,NULL,NULL,NULL,NULL,NULL,699,699,40,Order,NULL,8,64,NULL,NULL,NULL,12:02.0
+Toxotoidei,1321,NULL,NULL,NULL,Actinopteri,699,Carangiformes,758,Toxotoidei,NULL,NULL,NULL,NULL,758,758,41,Suborder,NULL,8,50,3,NULL,NULL,02:52.0
+Nematistioidei,1322,NULL,NULL,NULL,Actinopteri,699,Carangiformes,758,Nematistioidei,NULL,NULL,NULL,NULL,758,758,41,Suborder,NULL,8,50,4,NULL,NULL,03:54.0
+Menoidei,1323,NULL,NULL,NULL,Actinopteri,699,Carangiformes,758,Menoidei,NULL,NULL,NULL,NULL,758,758,41,Suborder,NULL,8,50,5,NULL,NULL,05:09.0
+Carangoidei,1324,NULL,NULL,NULL,Actinopteri,699,Carangiformes,758,Carangoidei,NULL,NULL,NULL,NULL,758,758,41,Suborder,NULL,8,50,6,NULL,NULL,05:44.0
+Bregmacerotoidei,1332,NULL,NULL,NULL,Actinopteri,699,Gadiformes,549,Bregmacerotoidei,NULL,NULL,NULL,NULL,549,549,41,Suborder,NULL,8,46,1,NULL,NULL,18:08.0
+Gadoidei,1333,NULL,NULL,NULL,Actinopteri,699,Gadiformes,549,Gadoidei,NULL,NULL,NULL,NULL,549,549,41,Suborder,NULL,8,46,2,NULL,NULL,18:55.0
+Ranicipitoidei,1334,NULL,NULL,NULL,Actinopteri,699,Gadiformes,549,Ranicipitoidei,NULL,NULL,NULL,NULL,549,549,41,Suborder,NULL,8,46,3,NULL,NULL,21:24.0
+Merluccioidei,1335,NULL,NULL,NULL,Actinopteri,699,Gadiformes,549,Merluccioidei,NULL,NULL,NULL,NULL,549,549,41,Suborder,NULL,8,46,4,NULL,NULL,22:14.0
+Macrouroidei,1336,NULL,NULL,NULL,Actinopteri,699,Gadiformes,549,Macrouroidei,NULL,NULL,NULL,NULL,549,549,41,Suborder,NULL,8,46,5,NULL,NULL,22:50.0
