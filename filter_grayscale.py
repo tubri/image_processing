@@ -1,3 +1,6 @@
+"""
+    remove grayscale, blackwhite images from a repository
+"""
 import glob
 import os
 import shutil
